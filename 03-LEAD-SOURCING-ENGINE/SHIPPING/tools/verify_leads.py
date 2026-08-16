@@ -39,7 +39,9 @@ def main() -> int:
     for niche_dir in sorted(p for p in LEADS.iterdir() if p.is_dir()):
         niche_phones: Counter = Counter()
         tree_count = 0
-        for master in niche_dir.glob("CLASS-*/*/[0-9][0-9]-*/00-MASTER/*.csv"):
+        masters = list(niche_dir.glob("CLASS-*/*/[0-9][0-9]-*/00-MASTER/*.csv"))
+        masters += list(niche_dir.glob("REVIEW-UNVERIFIED/00-MASTER/*.csv"))
+        for master in masters:
             county_dir = master.parent.parent
             master_rows = list(csv.DictReader(master.open(encoding="utf-8")))
             batch_rows = []

@@ -77,6 +77,15 @@ def main() -> int:
                          + ", ".join(f"{r['batch_file']} ({r['leads']})" for r in loaded_now))
             lines.append("")
 
+        review_rows = [r for r in rows if r["class"] == "REVIEW-UNVERIFIED"]
+        if review_rows:
+            lines.append(
+                f"**Unverified pile (not Class A/B — websites unreachable by machine; "
+                f"ask about the site on the call):** "
+                f"{sum(int(r['leads']) for r in review_rows)} leads in "
+                f"{len(review_rows)} batches under `REVIEW-UNVERIFIED/`.")
+            lines.append("")
+
         for cls in ("CLASS-A", "CLASS-B"):
             for st in sorted({r["state"] for r in rows if r["class"] == cls}):
                 subset = [r for r in rows if r["class"] == cls and r["state"] == st]

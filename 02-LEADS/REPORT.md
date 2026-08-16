@@ -1,14 +1,16 @@
 # LEADS Report
 
-Generated 2026-08-16 23:57 by report.py — do not hand-edit.
+Generated 2026-08-17 01:06 by report.py — do not hand-edit.
 
 ## Car Detailers
 
-**6751 leads in 187 batches.**
+**7047 leads in 190 batches.**
 
 | Status | Batches | Leads |
 |---|---:|---:|
-| untouched | 187 | 6751 |
+| untouched | 190 | 7047 |
+
+**Unverified pile (not Class A/B — websites unreachable by machine; ask about the site on the call):** 296 leads in 3 batches under `REVIEW-UNVERIFIED/`.
 
 ### CLASS-A / CA — 4310 leads, 51 counties, 77 batches
 
@@ -385,4 +387,4 @@ Generated 2026-08-16 23:57 by report.py — do not hand-edit.
 
 ---
 
-Registry: 8752 rows, 6751 shipped. Suppression authority: `LEAD-SOURCING-ENGINE/SHIPPING/registry.csv`.
+Registry: 8752 rows, 7047 shipped. Suppression authority: `LEAD-SOURCING-ENGINE/SHIPPING/registry.csv`.

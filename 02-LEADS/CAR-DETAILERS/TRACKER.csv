@@ -186,3 +186,6 @@ CAR-DETAILERS,CLASS-B,OR,24-SHERMAN,sherman-or-class-b-batch-01.csv,1,untouched,
 CAR-DETAILERS,CLASS-B,OR,25-TILLAMOOK,tillamook-or-class-b-batch-01.csv,1,untouched,,,,
 CAR-DETAILERS,CLASS-B,OR,26-UNION,union-or-class-b-batch-01.csv,1,untouched,,,,
 CAR-DETAILERS,CLASS-B,OR,27-WASCO,wasco-or-class-b-batch-01.csv,1,untouched,,,,
+CAR-DETAILERS,REVIEW-UNVERIFIED,,REVIEW-UNVERIFIED,review-unverified-car-detailers-batch-01.csv,99,untouched,,,,unverified websites; ask about site on call
+CAR-DETAILERS,REVIEW-UNVERIFIED,,REVIEW-UNVERIFIED,review-unverified-car-detailers-batch-02.csv,99,untouched,,,,unverified websites; ask about site on call
+CAR-DETAILERS,REVIEW-UNVERIFIED,,REVIEW-UNVERIFIED,review-unverified-car-detailers-batch-03.csv,98,untouched,,,,unverified websites; ask about site on call
