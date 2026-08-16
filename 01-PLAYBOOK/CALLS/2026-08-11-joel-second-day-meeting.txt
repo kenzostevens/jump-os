@@ -1,0 +1,351 @@
+# Meeting Transcription
+
+  Meeting started: 8/12/2026, 12:53:47 AM
+  Duration: 57 minutes
+  Participants: JUMP Admin, Kenzo Stevens
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/apVQGDuxg7XcDEjVi1KY?o=txt)
+
+    
+
+  
+
+  
+    ## Highlights
+
+    > 05:52 JUMP Admin: Yeah, well, you know, I think it's open source software, right? You got it off, like GitHub or something. So, I noticed a lot.
+> 08:23 JUMP Admin: So, typically, I'll go in here and. You can. If a client is wanting to, if they're like, oh, I'm going on vacation next week, can you? Can you get me two weeks in advance? You can book links.
+> 15:26 JUMP Admin: Perfect is tomorrow about 5:00 work for you.
+> 39:19 JUMP Admin: Yeah. That might be the issue.
+
+  ## Transcript
+
+  00:00 Kenzo Stevens: How's it going?
+00:01 JUMP Admin: Hey, Kenzo, how are you?
+00:03 Kenzo Stevens: Good. How about you?
+00:05 JUMP Admin: I'm doing good, just trying to get, um. I got teleblast working with my personal account, but I'm trying to slip switch it over to the the work information.
+00:17 Kenzo Stevens: Go. Yeah, I got. I got some leads ready. It's like around 200 leads.
+00:17 JUMP Admin: Oh, that's good. Yeah, I was looking at what you sent in. Uh, the chat I kind of skimmed it a little bit, and it looks it looks pretty solid. Actually recognize the first lead there. It's down the street from my house, which is kind of funny.
+00:35 Kenzo Stevens: Oh, nice, yeah, cuz so, so, what I did is basically there's like two classes of leads. There's classes in Class B. Uh, wait, what is? This is a notification.
+00:48 Kenzo Stevens: Hi everyone, this is an automated message to let you know my Tactiq extension: https://tactiq.io/r/transcribing is transcribing this meeting for me so I can give my full attention to you.
+00:49 Kenzo Stevens: Yeah. So, so basically, there's there's two classes, classes A, and B. Um, difference. Is that Class A is basically? Um. Businesses that don't have website or basically. You know only as social media links or Facebook or whatever the whatever you know? That that with AI script, the Google Maps and it doesn't show any website. That's class a, so that's a good lead for us. Um, is, you know, lead our leads
+01:18 JUMP Admin: Okay.
+01:21 Kenzo Stevens: that basically has a website, but not functioning properly, just like we've discussed. So, so, yeah, let's. That's how it.
+05:47 Kenzo Stevens: It just happens that this is actually more high quality. Like, you don't need to
+05:48 JUMP Admin: Yeah.
+05:50 Kenzo Stevens: pay. A single dog.
+05:52 JUMP Admin: Yeah, well, you know, I think it's open source software, right? You got it off, like GitHub or something. So, I noticed a lot.
+06:00 Kenzo Stevens: All you have to do is like pay for the, you know, the ll1 subscription and stuff
+06:05 JUMP Admin: Yeah.
+06:05 Kenzo Stevens: like that?
+06:06 JUMP Admin: Yeah. So, I bet, you know, even if we? We could probably do that if your bug runs out, but I'm sure there's even like open source llms that you could connect to if you really wanted to not pay.
+06:19 Kenzo Stevens: Yeah.
+06:21 JUMP Admin: But I don't know how good they would be.
+06:23 Kenzo Stevens: Yeah, I mean, we can figure that out for now. I think this, uh, what I'm doing right now is working, I mean.
+06:28 JUMP Admin: Yeah, I mean.
+06:29 Kenzo Stevens: On the book.
+06:30 JUMP Admin: Yeah. I'll just keep using the bug while we can.
+06:32 Kenzo Stevens: Yeah.
+06:35 JUMP Admin: Um, but? Uh, yeah, and then. I was also remember discussing when I was talking about the only thing with teleblast that I wasn't quite sure of. Is it specifically made for? Phone like, that's all their marketing is that it's a phone first caller. I was, I wasn't sure if they would have a desktop version, but they do, and it's pretty comparable to the foam version. I think that's just their marketing is for phone.
+07:00 Kenzo Stevens: So, does it have? Um, a power dialer.
+07:05 JUMP Admin: Yes, it does, but I think it works a little bit different from go high level because you go into the dialer and they have two session modes. You can do a call session or text session where it has pre-filled texts, and then you continue with call session. And then it says, choose leads, and it has a list of every lead that you've imported. And there's a select all button, so then you can click the select all button and click Start, call session, and then it just puts all your leads in a list with a big call button underneath.
+07:36 JUMP Admin: Um, I don't know. I only have one in here. My phone number is a test. I don't know if it'll Auto call the next person, but you just hit the button, and then it opens up. A new tab in Google Voice with everything pre-called. It calls in Google Voice, and then once you're done, you can just hit Ctrl W, and close that Tab and go. It'll take you back to teleblast, and then you can click call outcome whether you reach no answer or voicemail. Um. And then kind of move on to the next one. Would be how that would work, I think. And then you can end the session.
+08:09 Kenzo Stevens: Oh, also. By the way, I forgot to ask you yesterday, which is the booking link.
+08:09 JUMP Admin: So?
+08:14 Kenzo Stevens: How am I going to book calls for you?
+08:16 JUMP Admin: Yeah, uh, I have a calendly link, and I, I remember that. So, I set it up again today. And I have it here.
+08:23 Kenzo Stevens: Okay.
+08:23 JUMP Admin: So, typically, I'll go in here and. You can. If a client is wanting to, if they're like, oh, I'm going on vacation next week, can you? Can you get me two weeks in advance? You can book links.
+08:36 JUMP Admin: Uh, meetings out like 2-3 weeks if it's requested, but typically what I'll do is I'll go in for the week. And I'll send it to you. And I'll I'll blot out like if I'm busy during a time. Um, or if I'm unavailable on a day, and then you know, you can just go on calendly. And when a client's saying they want to book a link. You just have the calendar there, and you can see what times I'm available and what days.
+09:04 JUMP Admin: Um, to book with them. So, you know, like, let's say, you had one who's interested in calling today. You can click it and see, oh, I'm available from. 5 to 6, 30, and then kind of work it out with whoever you're calling. Or you can, it's up to you. You can be like, what time works for you, or you could be like, oh, it is five o'clock work.
+09:24 JUMP Admin: Um, but? Commonly works pretty good from from my experience.
+09:29 Kenzo Stevens: Yeah, I mean, it's the same thing where it's basically the same as cal.com, which I'm also using and. Um, another thing is the script. Like, you saw the you saw that I sent the
+09:38 JUMP Admin: Yeah.
+09:45 Kenzo Stevens: script, right? Yeah.
+09:48 JUMP Admin: Yeah, I can pull it up and read through it, but it doesn't do anything.
+09:51 Kenzo Stevens: It's an HTML though, so I don't know if it's going to work with your phone. But basically. What I was thinking is, maybe we can, like, do some role play right now. Actually, I mean.
+10:06 JUMP Admin: Yeah, that works fine for me if you want to practice the script.
+10:15 Kenzo Stevens: Would you want to start like, maybe you're the cold color so that I can get a feel for it?
+10:19 JUMP Admin: Yeah, here. Let me pull up an HTML. Um, converter, so I could read what it is.
+10:26 Kenzo Stevens: You know what? I'll just send you the. Oh, wait. I have an MD file. I don't know if. Work for you. There you go.
+10:44 JUMP Admin: I can see that there you see. Um, it seems to be about the same as the HTML.
+10:51 Kenzo Stevens: Yeah, it's. It's the same.
+10:55 JUMP Admin: Okay, there we go.
+10:55 Kenzo Stevens: I was, I was, I just converted it into HTML because. Um, I want the convenience of. Like, if I press this button, for example, I go to. You know to section two, yeah?
+11:10 JUMP Admin: Uh, yeah, I got it to work. I just needed to download it. No, HTML's fine. And typically, I'm on my computer, but? Um, I have my computer in front of me, but my, my main laptop. The keyboard broke. So then I bought a new one and they sent that one out to me and the keyboard's broken on that one too. So, just like I'll do stuff for my phone unless I have to do it for my computer. And then I plug in a keyboard, but it's just kind of annoying.
+11:36 Kenzo Stevens: I mean, does it look good to you? Like, maybe I can review it. First, let me
+11:37 JUMP Admin: But okay, yeah, I can see.
+11:48 Kenzo Stevens: know what you think.
+11:50 JUMP Admin: Yeah, I'm reading through it. I like it so far.
+11:54 Kenzo Stevens: Let's go!
+12:08 JUMP Admin: Yeah, so this is. This is just like a better organized version of what I initially sent you, it seems.
+12:14 Kenzo Stevens: Yeah.
+12:16 JUMP Admin: So, I like how you have different classes where it's like if they don't have something, you know, if they don't have a website, you go with this. It kind of breaks down the. Um. You know the different paths the call could take?
+12:33 Kenzo Stevens: I mean, I asked GPD or Claude. I asked Claude to read it for me. I gave the training the. What you calls again, the transcript.
+12:44 JUMP Admin: The training PDF.
+12:46 Kenzo Stevens: Yeah, like I gave it everything. And then, like, maybe a script? But in this kind of format.
+12:51 JUMP Admin: Yeah. Yeah.
+12:52 Kenzo Stevens: There you go.
+12:55 JUMP Admin: Yeah, I think this would. This would be a really good. Place to start. Um, and then. Obviously, if it works really good, we can continue using it. And then, if you know, I'm sure, as you do calls, you'll you'll find things that are kind of wonky about whatever I read about initially. Um. Cuz, but you know, that's the refined version of what I came up with after after Kohl's, too. So I don't know.
+13:25 Kenzo Stevens: Cool!
+13:26 JUMP Admin: But yeah, um, we can do a little bit of role play so you can get. You can get
+13:29 Kenzo Stevens: Yeah, man, I'll play.
+13:30 JUMP Admin: comfortable with the script.
+13:32 Kenzo Stevens: I'll be the the business owner.
+13:34 JUMP Admin: Okay. Let me come in, so I'm calling you and you pick up. So, what business do you want to be Kenzo?
+13:43 Kenzo Stevens: Um. I don't know, like dog grooming.
+13:48 JUMP Admin: Okay. I'll just say that. You're the the dog grooming Center?
+13:54 Kenzo Stevens: Yeah, cool.
+13:55 JUMP Admin: Hey dog grooming Center. My name is Joel and I work with jump web design. I saw your business on Google Maps and noticed that you didn't seem to have a website, so I figured I'd give you a quick call to offer our services. Um, we partner with small businesses in order to run their websites and help create better online branding. We charge 48 a month, and that covers everything you would need to get your website up and running and maintained. Is that something you'd be interested in?
+14:22 Kenzo Stevens: How much does it cost?
+14:24 JUMP Admin: It's $48 a month, and that covers four main things. Typically, it covers your hosting your ssls, which is your security certificates and security checks, covers proactive website monitoring, and four edits a month. Uh, so rather than paying someone else to build a website and then having to figure out maintenance yourself, we're managing it and running it all for 48 a month.
+14:47 Kenzo Stevens: Okay, oh, like, do I manage the website myself, or like, how does this work?
+14:52 JUMP Admin: Nope, you can think of it kind of like a partnership. So, in exchange for a small fee, we run everything for you. And there's no upfront cost.
+15:00 Kenzo Stevens: Okay. Maybe I'm interested? How are we going to?
+15:04 JUMP Admin: Perfect! Um, so I can get you a free consultation with our web designer, and he'll just go ahead and walk you through everything you need to know about the technicalities of the site, and you can kind of talk about what you would want it to look like, and from there, he'll get you a draft, and you can decide whether you want to move forward or not.
+15:23 Kenzo Stevens: Okay, sure, let's do it.
+15:26 JUMP Admin: Perfect is tomorrow about 5:00 work for you.
+15:29 Kenzo Stevens: Yeah, yeah, that works.
+15:31 JUMP Admin: All, right. Well, I'll go ahead and let him know. Expect a phone call around five o'clock and. I think from there, you could work it out with them. All right. Thank you pet Cole person.
+15:45 Kenzo Stevens: So, that's it.
+15:47 JUMP Admin: Yeah, that's that's basically the, huh?
+15:50 Kenzo Stevens: That's pretty simple.
+15:52 JUMP Admin: Yeah, and most calls will go something like that. They, they all pretty much fall under that category. Um, I noticed people don't typically ask a lot of technical questions. It's usually just how much am I spending? What am I getting? How is this different from Wix? You know, those are like the big ones. Um. And then the other thing that'll happen a lot is people will like to talk. Tell you about bad experiences they've had in the past, you know, you'll call someone and they'll go. Oh, I've had this so many times they'll go. Oh, I've had I had a guy, and then he moved to Montana and I lost contact with him, and then the website's just kind of been up. But clients haven't been using it because it's been broken, and I just I didn't want to deal with it.
+16:40 JUMP Admin: You'll get. You'll get a lot of stories like that. Um.
+16:45 Kenzo Stevens: Okay, cool. I mean, it's, it's a really simple offer so.
+16:49 JUMP Admin: Yeah, it really is. Um. So? Yeah, and then. Um, the other thing, too, is like. Sometimes with the pushback where people tell you bad experiences. That's actually why I started giving people. Um, the files to their websites, even though I know a majority of my clients don't know how to take this file and host it themselves. It's just like a lot of Peace of mind to go. Oh, for sure. We actually give the files to the websites to all of our clients. So, if anything ever happens to us, you'll always have your website. You have what you paid for. Um. But, you know, like you said, it's a pretty simple offer.
+17:31 Kenzo Stevens: Okay, that's good to know, because usually when you're selling websites, people don't, you know, give the HTML files.
+17:39 JUMP Admin: Yeah, we just send it over.
+17:39 Kenzo Stevens: I actually have sold some websites actually, and I don't want to give the HDR
+17:42 JUMP Admin: Yeah.
+17:45 Kenzo Stevens: file.
+17:48 JUMP Admin: Well, and it, you know, it's funny because I get I get that perspective, but then they just like, honestly, if they don't. If they're not using Wix, and they don't know how to make their own website, they're not gonna do anything with the file. Or, you know, I think I've had one person ever request access to the website just because they wanted to have it. Um, and they've never done anything with it. You know what I mean?
+18:10 Kenzo Stevens: Cool, I guess that's it, um?
+18:11 JUMP Admin: Yeah, yeah, yeah, that would be, let's see. I'm thinking if it gives you a hard
+18:15 Kenzo Stevens: What else? Yeah, I guess we just need to figure out the teleblast. Should I log in?
+18:26 JUMP Admin: time with Google Voice, um? You could. You could use proton VPN. And that's a free VPN. It's. Secure and private, and then you it'll just set your location to the US. And then that that'll probably help you get around any issues you might have.
+18:45 Kenzo Stevens: Okay.
+18:46 JUMP Admin: Um, but if you just go ahead and go, and if you go to teleblast.com and click sign in, it's going to open up a second page and give you a couple options for signing in, and you just want to sign in via Google.
+19:02 Kenzo Stevens: Okay, yeah, the the credentials.
+19:03 JUMP Admin: Yeah, the email. I'll send it in the slack group.
+19:12 Kenzo Stevens: Did you explore the? The interface so far. Like, what? What do you think about it?
+19:20 JUMP Admin: Uh, it's very I. I like it because I like, simpler software. That's very clean. Um, so you get onto the interface, and it has a lot of good information, but it's like, it's not more than you need, you know, so I quite like it. But, um. Let me send you the password as well.
+19:41 Kenzo Stevens: So, I'm gonna log in through Gmail first, or do I just?
+19:46 JUMP Admin: Click login with Google, and then it'll have you sign into the Google account. Put that email and let me pull up the password.
+19:54 Kenzo Stevens: So, I'm gonna log in with Gmail first, so let's sign in with Google.
+19:58 JUMP Admin: Yeah, I it didn't let me sign up with just an email. I had to have like an like a Google account linked.
+20:06 Kenzo Stevens: Okay.
+20:08 JUMP Admin: So, that's the password. If you just copy and paste that? Um. So, and I haven't started paying for teleblast Pro yet.
+20:30 Kenzo Stevens: Oh, it's asking me for. It's asking me for a number.
+20:35 JUMP Admin: Oh, okay, um. Here we go. I'll send that in the chat too. Let's see. Yeah, put my number in there. At a recovery phone. It's kind of weird. It doesn't ask me to do that. Google's always doing.
+21:10 Kenzo Stevens: Yeah, cuz cuz I'm cuz I'm in the Philippines. That's why.
+21:14 JUMP Admin: Oh, you think so. Maybe we should start with the VPN?
+21:15 Kenzo Stevens: Yeah. No, I already got it. I just logged in.
+21:21 JUMP Admin: Okay. Okay, perfect.
+21:26 Kenzo Stevens: Now, let me log into teleblast.
+21:31 JUMP Admin: And then you'll have to log into Google Voice. Um, with the same login information.
+21:41 Kenzo Stevens: By the way, what's the meaning of j, u, m, p?
+21:45 JUMP Admin: Um, so it's. It's supposed to be like the word jump, and it's because I was, like, well, I'm jump starting businesses, and that was like the initial marketing. Uh was I would. I would talk to businesses and be like, we jump start. You're online. Um. Atmosphere, you know. And I'm pretty sure, like the word jump was already taken or something like that. So, I was, like, oh, and I found a subdomain that was ju.mp.
+22:17 JUMP Admin: Uh, just like for free online, and I was like, oh, perfect, I can. I can make it ju.mp and make it like a website joke because our name is also the domain to our website. And so our initial website was get.ju.mp. I thought it was super funny. And no one got it. So I had to switch to a.com because everyone thought I was a scam. Uh. But I just kind of kept the dot in there, and it's become part of our branding that it's just you pronounce it. Jump, but it's formatted ju.mp.
+22:49 Kenzo Stevens: Okay, gotcha. Okay, I'm logged in.
+22:57 JUMP Admin: And then I also with the old website. I started getting a bunch of emails because you know ju.mp was a was a. Oh yeah, this is. Was a public thing, and so people were thinking I own the entire subdomain, and I kept getting all these emails about, like, a legal websites that need to be taken down. And I was, like, uh, maybe I don't want to be associated with this?
+23:20 Kenzo Stevens: He has a pretty bad reputation you mean.
+23:22 JUMP Admin: Yeah, I had. I had an email from a random government. And they were like, you need to take this down immediately. I was like, I don't own that. Um, but? Yeah, but that's what the interface looks like, and then. Um. I don't know. It's probably a lot different from go high level.
+23:44 Kenzo Stevens: Okay.
+23:44 JUMP Admin: But you can kind of see at the top there. You have a dashboard. You have your leads list. You have pipeline. Um, give the dialer. So those are probably what we would be using. I don't know if we would use cues. They're very proud of this birthday cue feature, and I can't see us ever using
+24:03 Kenzo Stevens: Is this a free trial?
+24:03 JUMP Admin: it. What was that? Yeah, this is the free trial, so. Um, am I? I think they they put ads on the free trial, so if you get an ad, that's why. But if we like this software, I'll just upgrade it and. Hopefully, we won't have those issues.
+24:22 Kenzo Stevens: Okay.
+24:24 JUMP Admin: But. The next thing you'll need to do is you'll need to sign into Google Voice with the same Google account.
+24:32 Kenzo Stevens: Wait, give me a sec, so I'm trying to figure out how I can export the or import the files.
+24:39 JUMP Admin: Uh, if you go to leads. You can hit import CSV.
+24:48 Kenzo Stevens: Oh there, you go. I found it. Okay, I'll do this later. Um, Google Voice.
+24:57 JUMP Admin: What is DNC?
+25:00 Kenzo Stevens: So those positions, right?
+25:02 JUMP Admin: And then it. Also, I don't know where it went, but remember we were talking about, like the disposition setting where you can. You can put whether a client was like, interested, not interested. They have that somewhere. I saw it on mobile. Yes, you should be able to.
+25:20 Kenzo Stevens: Okay.
+25:23 JUMP Admin: And you can do call outcomes as well. So, and it has notes, so you can do everything in this. You don't have to get a second like Google Sheets. Okay, just I'll be down through this.
+25:39 Kenzo Stevens: So, what am I going to do here in Google Voice?
+25:48 JUMP Admin: Uh, you just need to sign into it. And then, um. Go ahead and go try to call call my number in there. Do you see it?
+25:58 Kenzo Stevens: So, so, um, where am I gonna go? Am I gonna call inside teleblast or Google Voice?
+26:03 JUMP Admin: And inside teleblast.
+26:05 Kenzo Stevens: Okay.
+26:06 JUMP Admin: And televos just opens a link to Google Voice with all the information pre-put in.
+26:10 Kenzo Stevens: Okay.
+26:11 JUMP Admin: And then it calls through that. And then I think the fastest way to do it, like if I was calling, I would go to the dialer. And then I would start a call session. And then you only have one lead in there, but let's pretend you have 200. I would hit select all.
+26:29 Kenzo Stevens: Okay. No, it's asking me to open Skype.
+26:31 JUMP Admin: And then I would just call. And then it, would it should open you into Google Voice and just start calling? Uh. Oh um, go into the hit the little profile button. I had to do this. It may make you have to do it. Go to phone/sms setup.
+26:53 Kenzo Stevens: Okay.
+26:55 JUMP Admin: And you'll see. If it's on my cell phone, click Google Voice.
+26:59 Kenzo Stevens: Oh, I see, okay.
+27:01 JUMP Admin: Yeah.
+27:03 Kenzo Stevens: Got it. Okay, let me.
+27:04 JUMP Admin: And then you gotta hit save. And it's gonna take you to another profile page, and you hit save on all that. But that way, it'll open Google Voice instead of trying to open up a phone app.
+27:22 Kenzo Stevens: Already signed in. Give me a second. Okay, this is annoying. When I click the the call button, it puts me here in the sign in. I've already signed in.
+27:56 JUMP Admin: Oh, that's weird.
+28:02 Kenzo Stevens: Okay.
+28:03 JUMP Admin: Maybe you just have to sign in one more time?
+28:06 Kenzo Stevens: Yeah, I signed in three times already.
+28:09 JUMP Admin: Like through Talent because? I don't know why I would be doing that. Is that?
+28:12 Kenzo Stevens: It's me. It gives me the the product, um. Landing page. It's. Voice.google.com.
+28:20 JUMP Admin: For Google Voice. You see here, you, you might. Have you tried signing in through teleblast? Like when you go to the account and you go to phone / SMS settings, you can hit open Google Voice and register.
+28:38 Kenzo Stevens: Okay. It's the same thing. This is so weird.
+28:47 JUMP Admin: It opened straight up for me. It might be because you're maybe not on the US. And it's, it's opening and realizing you're not and a US number.
+28:54 Kenzo Stevens: Okay.
+29:07 JUMP Admin: Yeah, cuz, when I open up, it opens up straight, signed in. Um.
+29:16 Kenzo Stevens: You know what? Let me share my screen.
+29:16 JUMP Admin: Into the account. I wonder. Maybe if you open a private? See here.
+29:29 Kenzo Stevens: So, so look, look at this if I press. So this, this is what happens. And then I sign in. There you go. And then I press it again.
+29:48 JUMP Admin: Oh wait, yeah, don't don't, uh, go back into the normal tell link.
+29:48 Kenzo Stevens: It brings me here.
+29:54 JUMP Admin: Go to dashboard.
+29:54 Kenzo Stevens: Tell the link.
+29:56 JUMP Admin: Go to dashboard. And then hit the call button there. Where it says jump. Try to call me.
+30:06 Kenzo Stevens: All right. There you go. So I'll I should type your number, right?
+30:15 JUMP Admin: It's really odd. Um. There's two things I can think of the first would be. Try signing in on an incognito. He would sign into both again and see if it's just getting confused as to which account you're supposed to be in. And then the other thing would be. I guess we could try a VPN. But it lets you like go back to the page where you're actually in the account. It lets you, uh. Or the the Google Voice account. It lets you in, and it lets you call right. Yeah, you're in the account you're calling from the number. Yeah, you can try that.
+31:01 Kenzo Stevens: Okay, what's your name?
+31:01 JUMP Admin: I don't know why telelink is wanting to. Sign you out!
+31:09 Kenzo Stevens: It's not really setting me out. It's just that it's not signed in.
+31:12 JUMP Admin: Yeah, it just opens a blank page.
+31:14 Kenzo Stevens: Yeah.
+31:28 JUMP Admin: Yeah, I am getting a call, but this one is getting marked as potential spam. Which is interesting because when I called myself, it just came in from Sacramento.
+31:38 Kenzo Stevens: Oh s***, okay, so it's. Okay, that's.
+31:41 JUMP Admin: It's, I think.
+31:42 Kenzo Stevens: But it says potential spam.
+31:43 JUMP Admin: Yeah. Yeah, but I think that's just because it's seeing your location. Or because I've gotten two phone calls from the same number.
+31:57 Kenzo Stevens: But give me a second. Let me try something.
+32:00 JUMP Admin: Okay, yeah, cuz, like I said, I did this when I was testing, and I called myself, and it just said phone number from Sacramento.
+36:29 Kenzo Stevens: It's not importing.
+36:32 JUMP Admin: It is or?
+36:35 Kenzo Stevens: Yeah, so. Let's just. Business name. What is this s***?
+36:51 JUMP Admin: Columns. Oh, you need to create a pipeline. That's why. Hit create a new pipeline. See that at the bottom.
+37:18 Kenzo Stevens: Oh, there you go.
+37:19 JUMP Admin: Yeah, and then just name it like test run. There you go.
+37:35 Kenzo Stevens: Hmm, okay.
+37:57 Kenzo Stevens: So it's not really, um? Is this? Is this actually a phone dialer because it's still very manual?
+38:07 JUMP Admin: I don't. That's what I'm saying, I don't know if it has the like. An auto collar feature?
+38:13 Kenzo Stevens: Yeah. Still have to press manually. Anyway. Let's see what? Why is it not working like that though?
+38:27 JUMP Admin: I think with the calls you have to go. I see how it works. You have to press the call button. And then it calls and puts in the information typically. Uh, once that's fixed, and then you can click like I reach them, didn't answer, and then it just moves on. And you just go through it like that. Where is the new tab that it's opening?
+39:01 Kenzo Stevens: There's no new tab actually.
+39:05 JUMP Admin: And it works. It opens something with mine.
+39:10 Kenzo Stevens: Yeah.
+39:11 JUMP Admin: That's really weird, uh?
+39:14 Kenzo Stevens: You know what? Let me try using Google. I guess maybe that would work?
+39:19 JUMP Admin: Yeah. That might be the issue.
+39:25 JUMP Admin: So, uh? When you use, go high level. Does that just go through an auto call, like on a list?
+39:31 Kenzo Stevens: Yeah, I can make an automation so that it does it automatically, but I could also do it manually.
+39:38 JUMP Admin: Yeah.
+39:39 Kenzo Stevens: Uh. Has a lot of different options and how you want to do it.
+40:10 JUMP Admin: Oh yeah, it says here, see on teleblast documentation. It says they have an auto advance through feature.
+40:17 Kenzo Stevens: Okay.
+40:27 JUMP Admin: I think the way it works is, you have to click the first call. Go through and then click whether they picked up or not. And then it just Auto calls the next one, maybe?
+40:39 Kenzo Stevens: Let's see. Let's try. For leads.
+40:46 JUMP Admin: Cole and disposition. Next, lead.
+40:48 Kenzo Stevens: And s***. It's opening Skype.
+41:00 JUMP Admin: Oh, you have to.
+41:16 Kenzo Stevens: It still does it?
+41:18 JUMP Admin: Try it from the cold dashboard because I'm wondering if that one just opens it to the?
+41:27 Kenzo Stevens: Which one?
+41:29 JUMP Admin: Uh, you could just try calling me again, I guess. You see it in there somewhere?
+41:38 Kenzo Stevens: Recent module. Are you on your laptop right now?
+41:49 JUMP Admin: I wonder why it's doing that? It's probably a simple fix, cuz. It's working on my end. Yeah, I have my laptop in front of me. I click it, and it just opens into a pre-existing. Let's see. Yeah, it opens straight up and then says. Asking if I want to call?
+42:43 Kenzo Stevens: So, what should we do? I don't. I don't know how to fix this.
+42:46 JUMP Admin: We can try. Do you want to try the VPN or the incognito? Those are. The only two things I can think that might troubleshoot it.
+42:58 Kenzo Stevens: Let me try using the incognito.
+44:39 JUMP Admin: Oh, there you go. Hey! And it's not coming from a spam. It's coming from Sacramento.
+44:59 Kenzo Stevens: Zero nine three zero five, two, seven, two, six.
+45:02 JUMP Admin: Perfect!
+45:12 Kenzo Stevens: Okay. Let's see, let's try. At least five cars.
+45:38 JUMP Admin: That's so weird. Does it have? Try putting me in first. Cuz that one starts to work and then do like 500.
+46:07 Kenzo Stevens: I think what's happening is that doesn't have the number?
+46:10 JUMP Admin: Oh, they didn't import the numbers.
+46:13 Kenzo Stevens: F*** okay? If I need to fix the?
+46:22 JUMP Admin: You should be able to go to pipeline and delete the whole pipeline. Oh wow!
+46:32 Kenzo Stevens: Okay, so. I could do this and then move it. Did you delete it?
+46:46 JUMP Admin: No, I didn't.
+46:48 Kenzo Stevens: Oh. What happened? Oh, there you go.
+46:54 JUMP Admin: And that's back.
+46:54 Kenzo Stevens: Oh, okay. So, this is how you do the dispositions. Then, you could just.
+46:58 JUMP Admin: Uh, well, you do them as you call, I think so. You could go back and do it that way as well.
+47:03 Kenzo Stevens: This is for manual. Doing it manually. Okay, then you delete this though.
+47:09 JUMP Admin: Yeah. And that's what I was trying to figure out. I was trying to how, how to? Delete the pipeline teleblast. Gbt will know, surely?
+47:26 Kenzo Stevens: There you go. Deleted it. I don't know if it worked though there you go. Yeah, oh, still there. What the hell line?
+47:41 JUMP Admin: It says they might not have a feature for that.
+47:43 Kenzo Stevens: Oh my gosh, that's a total mess if they don't.
+47:49 JUMP Admin: Honestly, here.
+47:52 Kenzo Stevens: Oh, it's actually not deleted.
+47:57 JUMP Admin: I don't. Select. Oh my gosh, you have to just click through. Oh, no way. Is that work screaming? Oh no, never mind. I thought I saw one of the green people I did in. I was, like, no way. Can you? Oh, that's so annoying. Oh wait, wait, yeah, there is okay, you have to, um. Go to leads. Click select. Click select all.
+48:33 Kenzo Stevens: Whoa! There you go.
+48:35 JUMP Admin: And then hit delete.
+48:35 Kenzo Stevens: Delete.
+48:38 JUMP Admin: I knew there'd be a way. What does DNC mean?
+48:43 Kenzo Stevens: Wait a minute.
+48:43 JUMP Admin: Oh. Okay. About the point of saving a number. You don't want to call is. Oh, sweet, and it just wipes everything clean.
+49:19 Kenzo Stevens: Business.
+49:50 JUMP Admin: Amador, B, Province, I think.
+50:00 Kenzo Stevens: Wait, okay.
+50:01 JUMP Admin: Yeah, you have those reversed.
+50:02 Kenzo Stevens: Right, so?
+50:03 JUMP Admin: Amador City yeah, that's a city in Amador County. Yeah.
+50:08 Kenzo Stevens: Provinces, the county.
+50:10 JUMP Admin: Yeah.
+50:11 Kenzo Stevens: Okay.
+50:12 JUMP Admin: I would assume.
+50:20 Kenzo Stevens: How do we do this though? Like, can we add like a?
+50:24 JUMP Admin: I feel like. Can you configure it to only give you phone numbers for the CSV list when you export them?
+50:35 Kenzo Stevens: I mean, I guess we don't need to press the other ones if you want the phone.
+50:41 JUMP Admin: Yeah, that's true too. I mean, for just the the pure calling?
+50:50 Kenzo Stevens: It, give me a second. Maybe I should? Ask Claude to make a new file. Give me a second.
+51:07 JUMP Admin: Okay.
+51:09 Kenzo Stevens: I'm gonna do. I'm gonna make a new CSV file.
+51:13 JUMP Admin: Yeah, that could work too. I do have to go in 10 minutes as well, maybe 15.
+51:31 Kenzo Stevens: Okay.
+52:03 JUMP Admin: The only thing I hope. I like this software, aside from I hope they have an auto dial feature. It would be kind of annoying.
+52:14 Kenzo Stevens: It looks like that's the it looks like that's their only process, though, like
+52:19 JUMP Admin: Yeah.
+52:20 Kenzo Stevens: you're calling and then whatever lead is in front of you. You press scroll manually.
+52:24 JUMP Admin: Yeah, well, and from like a technical perspective that makes sense. I guess, like with the way this is designed, it's just a front interface for Google Voice.
+52:33 Kenzo Stevens: Yeah.
+52:33 JUMP Admin: Um.
+52:36 Kenzo Stevens: Yeah, I think that's.
+52:39 JUMP Admin: Have you gotten any ads yet, by the way?
+52:43 Kenzo Stevens: No, I, I don't have it. I haven't seen one.
+52:46 JUMP Admin: Cuz it was, like, oh, we're gonna give you ads until you get Pro and I haven't gotten a single ad, but I do have an ad block so?
+52:55 Kenzo Stevens: Mmm, maybe that's why, I mean, my Google Chrome doesn't have an app blocker, so I don't know. I, I haven't seen one, but?
+53:03 JUMP Admin: Yeah, maybe it's an ad, like when you're making calls. Like calls it, you just hear a like a Spotify ad.
+53:12 Kenzo Stevens: Yeah.
+53:14 JUMP Admin: That would be terrible.
+53:16 Kenzo Stevens: That'll be so annoying. I make. What, but what are you gonna do after this?
+53:34 JUMP Admin: Uh, it's my mom's birthday, so I'm gonna go meet her for lunch first. And then, after that, I'll come back. Do whatever you need help with if that's the case. Or, I mean, aside from that, I don't have. Uh, drafts to be making right now, so it's really just marketing.
+53:51 Kenzo Stevens: Okay, I guess what I can do? Well, once you leave is, just try to figure this
+53:51 JUMP Admin: Um.
+53:56 Kenzo Stevens: out. Figure out teleblast and then try to make some calls and see how the.
+54:00 JUMP Admin: Yeah, I just kind of experiment with it.
+54:02 Kenzo Stevens: Yeah, you basically play around. Yeah.
+54:05 JUMP Admin: And then this is the trial for both teleblast and the phone number. So I'm kind of surprised how well. It's actually working without me having signed up for anything yet.
+54:19 Kenzo Stevens: Yeah. Yeah, I guess that's. I mean, if you, if you need to go, you can go. Now, I
+54:20 JUMP Admin: Once we get things out.
+54:24 Kenzo Stevens: guess, and then I'll just play around with tall blast while you're away.
+54:28 JUMP Admin: Yeah, uh, I want to see the pipeline get integrated. Because I'm curious to see if it was? Getting confused with how many columns there are? I could wait another like 5-10 minutes.
+54:40 Kenzo Stevens: Okay.
+54:45 JUMP Admin: Let's see if I have any like old CSV files.
+54:52 Kenzo Stevens: Okay.
+54:53 JUMP Admin: It'd be crappy.
+55:29 Kenzo Stevens: There you go. Let's see. Let me share my screen.
+56:10 JUMP Admin: Oh, there you go.
+56:20 Kenzo Stevens: And then.
+56:21 JUMP Admin: And then you could put.
+56:23 Kenzo Stevens: No answer. And then. Left voicemail, I guess. Let's just do that. Okay. So?
+56:41 JUMP Admin: Okay.
+56:43 Kenzo Stevens: Okay, it's pretty simple, I guess.
+56:45 JUMP Admin: Yeah. Yeah, it's a little manual, but.
+56:48 Kenzo Stevens: I guess that works.
+56:52 JUMP Admin: Um, at least we have unlimited calls.
+56:55 Kenzo Stevens: Yeah, okay, we can. We can work with this.
+56:59 JUMP Admin: Yeah, and then. You know, I'm sure you could get hot keys too. To switch back and forth faster? Um. But. I think I think it's looking good. I'm happy with televast. I wish the auto dialer was a little more powerful, but in terms of like their the interface here, I'm pretty happy with it from.
+57:22 Kenzo Stevens: Yeah.
+57:22 JUMP Admin: You know, like a boss perspective, where I'm looking at who's getting contacted and things like that?
+57:25 Kenzo Stevens: I guess what it really is, is that it's a it's just a manual dialer for your desktop. That's it. It's not power dialer or an auto dialer.
+57:31 JUMP Admin: Yeah. Yeah. But it's, it's still a lot better than. Just like typing on a phone.
+57:39 Kenzo Stevens: Yeah.
+  

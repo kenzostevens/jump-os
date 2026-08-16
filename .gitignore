@@ -1,0 +1,8 @@
+.DS_Store
+# The engines are their own independent git repositories; the OS repo
+# tracks everything around them, never their contents.
+03-LEAD-SOURCING-ENGINE/ENGINE-V1/
+03-LEAD-SOURCING-ENGINE/ENGINE-V2/
+# Archived pre-OS workspaces contain their own nested repos; frozen artifacts.
+99-ARCHIVE/jump-workspace-v1/
+99-ARCHIVE/jump-workspace-v2/

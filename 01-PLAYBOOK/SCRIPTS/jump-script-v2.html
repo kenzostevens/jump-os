@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JU.MP Cold Call Script v2</title>
+<!--
+  THE JUMP SCRIPT v2 — Max-style free-design entry, Notion instrument frame.
+  DERIVED ARTIFACT: jump-script-v2.md is the master — patch the master first, then
+  re-derive; never edit content here into drift.
+  Keys: 1-4 sections · G gatekeeper · E expanding · R re-dial · 0 arsenal · D dispositions.
+  localStorage keys: jump-v2-scroll / jump-v2-theme.
+-->
+<script>
+try{var t=localStorage.getItem('jump-v2-theme');if(t==='light'||t==='dark')document.documentElement.setAttribute('data-theme',t);}catch(e){}
+</script>
+<style>
+  :root{
+    --bg:#ffffff; --bg2:#fbfbfa; --tx:#37352f; --tx2:#787774; --tx3:#9b9a97;
+    --border:#e9e9e7; --border-d:#d3d1cb; --callout:#f7f6f3;
+    --hover:rgba(0,0,0,.045); --active:rgba(0,0,0,.08);
+    --accent:#2383e2; --flash:rgba(255,213,79,.55);
+    --mono:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,monospace;
+  }
+  :root[data-theme="dark"]{
+    --bg:#1e1e1e; --bg2:#252525; --tx:#d4d4d4; --tx2:#9a9a9a; --tx3:#7a7a7a;
+    --border:#3a3a3a; --border-d:#4a4a4a; --callout:#262626;
+    --hover:rgba(255,255,255,.055); --active:rgba(255,255,255,.09);
+    --accent:#529cca; --flash:rgba(255,200,60,.28);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#1e1e1e; --bg2:#252525; --tx:#d4d4d4; --tx2:#9a9a9a; --tx3:#7a7a7a;
+      --border:#3a3a3a; --border-d:#4a4a4a; --callout:#262626;
+      --hover:rgba(255,255,255,.055); --active:rgba(255,255,255,.09);
+      --accent:#529cca; --flash:rgba(255,200,60,.28);
+    }
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:auto}
+  body{
+    margin:0; background:var(--bg); color:var(--tx);
+    font-family:ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif;
+    font-size:16px; line-height:1.65;
+  }
+  main{max-width:880px; margin:0 auto; padding:74px 56px 45vh 56px}
+
+  .bstrip{
+    position:fixed; top:0; left:0; right:0; z-index:100; height:44px;
+    display:flex; align-items:center; gap:2px; padding:0 10px;
+    background:var(--bg); overflow-x:auto; scrollbar-width:none;
+  }
+  .bstrip::-webkit-scrollbar{display:none}
+  .bstrip.scrolled{border-bottom:1px solid var(--border)}
+  .bchip{
+    display:flex; align-items:center; gap:6px; padding:4px 8px; border-radius:5px;
+    font-size:12.5px; color:var(--tx2); cursor:pointer; white-space:nowrap; user-select:none;
+  }
+  .bchip:hover{background:var(--hover); color:var(--tx)}
+  .bchip.now{background:var(--active); color:var(--tx); font-weight:600}
+  .bchip .k{
+    font-family:var(--mono); font-size:10.5px; color:var(--tx3);
+    border:1px solid var(--border-d); border-radius:3px; padding:0 4px; line-height:1.5;
+  }
+  #theme{
+    margin-left:auto; flex-shrink:0;
+    font-size:11px; letter-spacing:.05em; color:var(--tx2);
+    background:var(--bg); border:1px solid var(--border); border-radius:6px;
+    padding:4px 10px; cursor:pointer; user-select:none;
+  }
+  #theme:hover{background:var(--hover)}
+
+  h1{
+    font-size:1.45em; font-weight:700; letter-spacing:-.2px; margin:2em 0 .6em 0;
+    padding-bottom:.3em; border-bottom:1px solid var(--border);
+  }
+  h1:first-child{margin-top:.2em}
+  ul{list-style:none; padding-left:1.35em; margin:.35em 0}
+  ol{padding-left:1.6em; margin:.35em 0}
+  li{margin:.3em 0}
+  ol > li::marker{color:var(--tx3); font-weight:600; font-size:.85em}
+  li>p{margin:.3em 0}
+  p{margin:.5em 0}
+  strong{font-weight:600}
+  em{font-style:italic; color:var(--tx3)}
+
+  .lbl{
+    font-size:12.5px; font-weight:600; color:var(--tx2);
+    margin:1.25em 0 .4em 0; letter-spacing:.01em;
+  }
+  .note{color:var(--tx3); font-style:italic; font-size:13.5px; line-height:2.1}
+  .menu{color:var(--tx3); font-style:italic; margin:.2em 0 1.2em 0; line-height:2.2}
+
+  p:has(> strong:first-child){
+    border-left:2.5px solid var(--tx);
+    padding-left:12px; margin-left:-14.5px;
+  }
+  ol > li > p:has(> strong:first-child){margin-left:0}
+  ul > li:has(> strong:first-child):not(:has(> ul)):not(:has(> ol)){
+    border-left:2.5px solid var(--tx);
+    padding-left:12px; margin-left:-14.5px;
+  }
+  h1 + ul > li > p:first-child:has(> strong:first-child){
+    background:var(--callout); border:1px solid var(--border); border-radius:8px;
+    padding:12px 16px 12px 14px; margin:.65em 0 .9em -14.5px;
+  }
+
+  .sec, .entry{scroll-margin-top:62px}
+  .entry{padding:2px 6px; margin-left:-6px; margin-right:-6px; border-radius:6px}
+  .flash{animation:flashbg .75s ease-out}
+  @keyframes flashbg{
+    0%{background-color:var(--flash)}
+    100%{background-color:transparent}
+  }
+
+  .j{cursor:pointer; border-radius:4px; color:var(--accent); font-weight:500; padding:1px 3px; margin:-1px -3px}
+  .j:hover{background:var(--hover)}
+  .note .j, .menu .j{
+    font-style:normal; font-weight:500; font-size:12px; color:var(--tx2);
+    border:1px solid var(--border); border-radius:100px; padding:1.5px 9px;
+    margin:0; white-space:nowrap;
+  }
+  .note .j:hover, .menu .j:hover{background:var(--hover); color:var(--tx); border-color:var(--border-d)}
+
+  @media print{
+    body{background:#fff; color:#000}
+    main{padding-bottom:48px; padding-top:24px}
+    .j:hover{background:transparent}
+    .bstrip{display:none}
+    p:has(> strong:first-child){border-left-color:#000}
+  }
+</style>
+</head>
+<body>
+<nav class="bstrip" id="bstrip">
+  <span class="bchip" data-t="s1"><span class="k">1</span>OPEN</span>
+  <span class="bchip" data-t="s2"><span class="k">2</span>OFFER</span>
+  <span class="bchip" data-t="s3"><span class="k">3</span>Qs</span>
+  <span class="bchip" data-t="s4"><span class="k">4</span>WRAP</span>
+  <span class="bchip" data-t="gate"><span class="k">G</span>GATE</span>
+  <span class="bchip" data-t="expand"><span class="k">E</span>EXPAND</span>
+  <span class="bchip" data-t="redial"><span class="k">R</span>RE-DIAL</span>
+  <span class="bchip" data-t="arsenal"><span class="k">0</span>ARSENAL</span>
+  <span class="bchip" data-t="dispo"><span class="k">D</span>DISPO</span>
+  <div id="theme">◐ AUTO</div>
+</nav>
+<main>
+
+<h1 id="s1" class="sec">1. OPEN</h1>
+<ul>
+  <li>
+    <p><strong>"Hi, am I speaking to the owner of [BUSINESS NAME]?"</strong></p>
+    <p class="lbl">DIRECT ANSWER / "SPEAKING" / "THAT'S ME":</p>
+    <ul>
+      <li>
+        <p><strong>"Perfect. I've actually got something I wanted to speak to you about if you have 30 seconds."</strong></p>
+        <p class="lbl">YES / "GO AHEAD" / "ALRIGHT":</p>
+        <ul>
+          <li>→ <span class="j" data-t="s2">2. THE OFFER</span></li>
+        </ul>
+        <p class="lbl">"WHAT'S IT ABOUT?" / "DEPENDS WHAT IT IS":</p>
+        <ul>
+          <li><p><strong>"Well, you can let me know if it sounds at all interesting."</strong></p>
+            <ul><li>→ <span class="j" data-t="s2">2. THE OFFER</span>, straight in</li></ul>
+          </li>
+        </ul>
+        <p class="lbl">KNEE-JERK NO / "I'M NOT INTERESTED IN ANY MARKETING OR SALES":</p>
+        <ul>
+          <li><p><strong>"It's actually the opposite of a sales pitch. We're giving something away free to local businesses in [AREA]. Thirty seconds?"</strong></p>
+            <ul>
+              <li>Comes around → <span class="j" data-t="s2">2. THE OFFER</span></li>
+              <li>Second no → <strong>"Okay, no worries. Take care."</strong> → out, NOT INTERESTED</li>
+            </ul>
+          </li>
+        </ul>
+        <p class="lbl">BUSY / "SOMETHING JUST CAME IN":</p>
+        <ul>
+          <li><p><strong>"Totally understand. I don't want to take up your time. Would you be open to a quick follow-up at a better time?"</strong></p>
+            <ul>
+              <li>Gives a time → CALLBACK SET</li>
+              <li>Won't commit → out, NOT INTERESTED</li>
+            </ul>
+          </li>
+        </ul>
+        <p class="lbl">"IT'S A BAD LINE" / "ARE YOU IN A CALL CENTER?":</p>
+        <ul>
+          <li><p><strong>"No, I'm not in a call center. Can you hear me now? Is that better?"</strong></p>
+            <ul><li>→ back to wherever you were</li></ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p class="lbl">"WHO'S CALLING?" / "WHO IS IT?":</p>
+    <ul>
+      <li>→ the hook, straight in</li>
+    </ul>
+    <p class="lbl">OWNER'S OUT / "SHE'S NOT HERE" / "CAN I TAKE A MESSAGE?":</p>
+    <ul>
+      <li>→ <span class="j" data-t="gate">GATEKEEPER</span></li>
+    </ul>
+    <p class="lbl">CONFUSED / "SAY THAT AGAIN?":</p>
+    <ul>
+      <li>Repeat the opener slowly. Never rephrase.</li>
+    </ul>
+    <p class="lbl">WRONG NUMBER / CLOSED / NOT THE BUSINESS:</p>
+    <ul>
+      <li><p><strong>"Oh, got it, my mistake. Have a good one."</strong></p>
+        <ul><li>→ out, BAD NUMBER</li></ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="s2" class="sec">2. THE OFFER</h1>
+<p class="note">(Two breaths, then stop talking. The reason line comes from the lead's class in the CSV, checked before you dial.)</p>
+<p class="note">(likely fires here → <span class="j" data-t="a-not-interested">NOT INTERESTED</span> · <span class="j" data-t="a-someones-on-it">SOMEONE'S ALREADY ON IT</span> · <span class="j" data-t="a-already-have">ALREADY HAVE A WEBSITE</span> · <span class="j" data-t="a-word-of-mouth">WORD OF MOUTH</span> · <span class="j" data-t="a-too-busy">TOO BUSY FOR MORE WORK</span> · <span class="j" data-t="a-had-a-site">HAD A SITE, GOT NOTHING</span> · <span class="j" data-t="a-burned">BURNED BEFORE</span> · <span class="j" data-t="a-how-much">HOW MUCH</span>)</p>
+<ul>
+  <li>
+    <p><strong>"My name is Kenzo, I'm a business owner like yourself, and at the moment we're actually creating free website designs for local businesses in [AREA] with no strings attached."</strong></p>
+    <ul>
+      <li>CLASS A, no website or social-only → <strong>"I just thought I'd give you a quick call because I looked you up on Google Maps and noticed you don't seem to have a website."</strong></li>
+      <li>CLASS A, dead or broken site → <strong>"I just thought I'd give you a quick call because I checked out your website and it doesn't seem to be working."</strong></li>
+      <li>CLASS B, outdated site → <strong>"I just thought I'd give you a quick call because I did check out your current website, and I noticed quite a few things that could be improved to get you more inquiries."</strong></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>"So I was curious if you'd be opposed if we built one out for your business completely free of charge over the next few days, and then we can present it to you over a really quick call once we've built it out, just to see what you think. Does that sound good?"</strong></p>
+    <p><em>(Stop talking. Let them respond.)</em></p>
+    <p class="lbl">ACCEPTS / "SURE" / "SOUNDS GOOD" / "WHY NOT":</p>
+    <ul>
+      <li>→ <span class="j" data-t="s4">4. WRAP</span></li>
+    </ul>
+    <p class="lbl">CURIOUS / ASKS A QUESTION:</p>
+    <ul>
+      <li>→ <span class="j" data-t="s3">3. HIS QUESTIONS</span></li>
+    </ul>
+    <p class="lbl">"JUST SEND IT TO ME AND I'LL SAY YES OR NO":</p>
+    <ul>
+      <li><p><strong>"Yeah, we can do that. The reason we like doing a really quick call is so you can tell us what to change and we fix it right there. It's like ten, fifteen minutes, and if you don't like it, that's it."</strong></p>
+        <ul>
+          <li>Takes the call → <span class="j" data-t="s4">4. WRAP</span></li>
+          <li>Still wants it sent → get the email, read it back → <strong>"Alright, we'll get building and send it over. I'll give you a ring [DAY] to hear what you thought."</strong> → CALLBACK SET</li>
+        </ul>
+      </li>
+    </ul>
+    <p class="lbl">NOT INTERESTED:</p>
+    <ul>
+      <li>→ <span class="j" data-t="a-not-interested">NOT INTERESTED</span> (arsenal)</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="s3" class="sec">3. HIS QUESTIONS</h1>
+<p class="note">(His questions, never yours. There is no discovery on this call, that's the web designer's meeting. Answer short and end every turn one step toward the wrap.)</p>
+<p class="note">(likely fires here → <span class="j" data-t="a-how-much">HOW MUCH</span> · <span class="j" data-t="a-wix">WIX IS CHEAPER</span> · <span class="j" data-t="a-templates">TEMPLATES</span> · <span class="j" data-t="a-ecommerce">E-COMMERCE</span> · <span class="j" data-t="a-custom">CUSTOM REQUESTS</span> · <span class="j" data-t="a-who-are-you">WHO ARE YOU GUYS</span>)</p>
+
+<p class="lbl">"HOW MUCH?" / "WHAT'S THE CATCH?" / "FREE HOW?":</p>
+<ul>
+  <li><strong>"The design and the draft are completely free, no strings attached. If you like it and want it launched and managed, it's $48 a month, and that covers your hosting and domain, SSL and security checks, proactive site monitoring, and four edits every month. If you don't like the draft, you pay nothing."</strong></li>
+</ul>
+
+<p class="lbl">"DO I HAVE TO MANAGE THE WEBSITE MYSELF?":</p>
+<ul>
+  <li><strong>"No. That's one of the main reasons our service exists. We handle the ongoing website management so you don't have to figure everything out yourself."</strong></li>
+</ul>
+
+<p class="lbl">"WHAT IF I NEED CHANGES?":</p>
+<ul>
+  <li><p><strong>"You get four edits or revisions each month as part of the $48 package."</strong></p>
+    <ul><li>Needs more than that → <strong>"Anything beyond the included edits we can discuss separately."</strong> Never price it on the spot.</li></ul>
+  </li>
+</ul>
+
+<p class="lbl">"DO YOU USE TEMPLATES?" / "WHAT MAKES YOU DIFFERENT?":</p>
+<ul>
+  <li><strong>"One thing that makes us different is that we don't just throw stock images onto a template. We create custom illustrations and branding so the website actually feels like it belongs to your business."</strong></li>
+</ul>
+
+<p class="lbl">"HOW FAST CAN IT BE UP?":</p>
+<ul>
+  <li><strong>"We'd have the draft built over the next few days, and the designer gives you the exact timeline on the call."</strong> <em>(Never promise a launch date.)</em></li>
+</ul>
+
+<p class="lbl">"CAN I SEE YOUR WORK?":</p>
+<ul>
+  <li><strong>"Yeah. I can send you one of our recent [INDUSTRY] sites right after this call so you can see the style."</strong> <em>[EXAMPLES: get the example-site links from Joel]</em></li>
+</ul>
+
+<p class="lbl">"CAN YOU FIX THE SITE I HAVE?" (Class B):</p>
+<ul>
+  <li><p><strong>"That's exactly what the free design is for. He'll look at what you've got, build out what he'd do with it, and show you on the call. You don't pay anything unless you like it."</strong></p>
+    <ul><li>→ <span class="j" data-t="s4">4. WRAP</span></li></ul>
+  </li>
+</ul>
+
+<p class="lbl">AFTER ANY ANSWER, THE STEP FORWARD:</p>
+<ul>
+  <li>Warm → <strong>"Tell you what, the easiest way to see if it's for you is just to look at the draft."</strong> → <span class="j" data-t="s4">4. WRAP</span></li>
+  <li>Another question → answer it, same law</li>
+  <li>Cooling off → <span class="j" data-t="a-not-interested">NOT INTERESTED</span> (arsenal)</li>
+</ul>
+
+<h1 id="s4" class="sec">4. WRAP <em>(every booking, every item)</em></h1>
+<p class="note">(Booking runs on Joel's Calendly, live on the call, set a few days out so the draft exists by then. The call is a phone call from the web designer.)</p>
+<p class="note">[CONFIRM WITH JOEL: the draft gets built BEFORE the presentation call, per this script's offer. If he'd rather walk them through first and draft after, item 5's line changes.]</p>
+<ol>
+  <li>Check the Calendly → <strong>"He's got [DAY] at [TIME], or [DAY] at [TIME]. Which one works better for you?"</strong> → their time</li>
+  <li><strong>"And what was your name? ...Alright, [NAME]."</strong></li>
+  <li><p><strong>"What's the best number for him to reach you at?"</strong> → read it back</p></li>
+  <li><p><strong>"And what's a good email for the confirmation?"</strong> → read it back letter by letter</p></li>
+  <li><strong>"So [NAME], we'll get building on your website over the next few days, and our web designer will give you a call [DAY] at [TIME] to show you what it looks like. If anything changes on your end, just call or text this number."</strong></li>
+  <li>Out. No goodbye theater. → MEETING BOOKED</li>
+</ol>
+
+<h1 id="gate" class="sec">GATEKEEPER <em>(never leave the pitch as a message)</em></h1>
+
+<p class="lbl">OWNER'S OUT / "CAN I TAKE A MESSAGE?":</p>
+<ul>
+  <li><p><strong>"All good, no message. When's usually the best time to catch the owner, morning or afternoon?"</strong></p>
+    <ul>
+      <li>Gives a window → <strong>"Alright, I'll try back then. Thank you."</strong> → out, CALLBACK SET, window logged</li>
+      <li>Won't say → <strong>"No worries. Have a good one."</strong> → out, NO ANSWER <em>(recycle at a different hour)</em></li>
+    </ul>
+  </li>
+</ul>
+
+<p class="lbl">"YOU'D HAVE TO TALK TO THE OWNER" (mid-call):</p>
+<ul>
+  <li>Same window harvest as above.</li>
+</ul>
+
+<p class="lbl">"I CAN HELP YOU" / SHE RUNS THE COUNTER:</p>
+<ul>
+  <li><p>One breath only: <strong>"Sure. We're creating free website designs for local businesses in [AREA] right now, no strings attached, and I noticed you guys [REASON]. Is that something you all have been thinking about?"</strong></p>
+    <ul>
+      <li>Interested → <strong>"The owner would probably want to be in on that. When are they around, and I'll call back so we can set it up together?"</strong> → CALLBACK SET</li>
+      <li>Not interested → <strong>"No worries. Have a good one."</strong> → out, NOT INTERESTED</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="expand" class="sec">ALTERNATE ENTRY: EXPANDING INTO YOUR AREA <em>(rotation for a fresh county; replaces the offer's first breath)</em></h1>
+<ul>
+  <li>
+    <p><strong>"Hey, my name is Kenzo, I'm a business owner like yourself. We're a California company, and most of our clients are down in San Joaquin County. We're expanding into [COUNTY] right now, and we're looking for a few small businesses to build free website designs for so we can grow our portfolio in the area. No strings attached."</strong></p>
+    <ul>
+      <li>Same reason line and ask as <span class="j" data-t="s2">2. THE OFFER</span> from here.</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="redial" class="sec">RE-DIAL ENTRIES <em>(the last disposition plus its note picks the entry)</em></h1>
+
+<p class="lbl">CALLBACK SET, note: owner window from the gatekeeper:</p>
+<ul>
+  <li>→ <span class="j" data-t="s1">1. OPEN</span>, fresh, inside the window</li>
+</ul>
+
+<p class="lbl">CALLBACK SET, note: he named a time mid-call:</p>
+<ul>
+  <li><p><strong>"Hey, is this [NAME]? It's Kenzo, we spoke [DAY] about the free website design. Is now still good?"</strong></p>
+    <ul><li>→ pick it up where it died</li></ul>
+  </li>
+</ul>
+
+<p class="lbl">CALLBACK SET, note: draft sent by email:</p>
+<ul>
+  <li><p><strong>"Hey [NAME], it's Kenzo. We sent your website design over [DAY]. Did you get a chance to look at it? ...What'd you think?"</strong></p>
+    <ul>
+      <li>Likes it → <strong>"The easiest next step is a quick call with our web designer so he can walk you through it and change whatever you want."</strong> → <span class="j" data-t="s4">4. WRAP</span></li>
+      <li>Never opened it → <strong>"No worries. I'll stay on the line, it's a quick look."</strong> → his reaction decides</li>
+      <li>Doesn't like it → <strong>"What would you have wanted different?"</strong> → note it for Joel → one rebuild offer or out, NOT INTERESTED</li>
+    </ul>
+  </li>
+</ul>
+
+<p class="lbl">MEETING BOOKED, note: no-showed the designer (Joel flags it):</p>
+<ul>
+  <li><p><strong>"Hey [NAME], it's Kenzo. Our web designer tried to reach you [DAY] and I think the day got away from you. You still want to see that design? I can get you a new time right now."</strong></p>
+    <ul>
+      <li>Rebooks → <span class="j" data-t="s4">4. WRAP</span></li>
+      <li>Vague → one reschedule max, then → NOT INTERESTED</li>
+    </ul>
+  </li>
+</ul>
+
+<p class="lbl">NOT INTERESTED (two to four weeks later; rotate the entry, never the same one twice):</p>
+<ul>
+  <li>Same offer at a different hour, or the <span class="j" data-t="expand">EXPANDING INTO YOUR AREA</span> entry if the county's in rotation.</li>
+</ul>
+
+<p class="lbl">NO ANSWER / VM:</p>
+<ul>
+  <li>Recycle at a different hour in two to three days. Never leave a voicemail.</li>
+</ul>
+
+<p class="lbl">DO NOT CALL:</p>
+<ul>
+  <li>Never again. No exceptions.</li>
+</ul>
+
+<h1 id="arsenal" class="sec">THE ARSENAL <em>(fires from anywhere; two clear no's means out, warm)</em></h1>
+<p class="menu"><span class="j" data-t="a-not-interested">NOT INTERESTED</span> · <span class="j" data-t="a-someones-on-it">SOMEONE'S ALREADY ON IT</span> · <span class="j" data-t="a-already-have">ALREADY HAVE A WEBSITE</span> · <span class="j" data-t="a-facebook">WE'VE GOT OUR FACEBOOK</span> · <span class="j" data-t="a-dont-need">DON'T NEED A WEBSITE</span> · <span class="j" data-t="a-word-of-mouth">WORD OF MOUTH</span> · <span class="j" data-t="a-too-busy">TOO BUSY FOR MORE WORK</span> · <span class="j" data-t="a-had-a-site">HAD A SITE, GOT NOTHING</span> · <span class="j" data-t="a-burned">BURNED BEFORE</span> · <span class="j" data-t="a-no-time">NO TIME</span> · <span class="j" data-t="a-how-much">HOW MUCH</span> · <span class="j" data-t="a-wix">WIX IS CHEAPER</span> · <span class="j" data-t="a-why-monthly">WHY MONTHLY</span> · <span class="j" data-t="a-templates">TEMPLATES</span> · <span class="j" data-t="a-ecommerce">E-COMMERCE</span> · <span class="j" data-t="a-custom">CUSTOM REQUESTS</span> · <span class="j" data-t="a-who-are-you">WHO ARE YOU GUYS</span> · <span class="j" data-t="a-hostility">HOSTILITY</span></p>
+
+<div id="a-not-interested" class="entry">
+<p class="lbl">NOT INTERESTED:</p>
+<ul>
+  <li><p><strong>"Totally understand. Just so I know, is it mainly because you already have someone handling your website, or is a website just not something you're looking for right now?"</strong></p>
+    <ul>
+      <li>Has someone → <span class="j" data-t="a-someones-on-it">SOMEONE'S ALREADY ON IT</span></li>
+      <li>Not looking → <strong>"All good. If that ever changes, we're at designedbyjump.com. Have a good one."</strong> → out, NOT INTERESTED</li>
+      <li>Clearly done → thank them, out, NOT INTERESTED</li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-someones-on-it" class="entry">
+<p class="lbl">SOMEONE'S ALREADY ON IT / "I'VE GOT SOMEBODY BUILDING ME ONE" / "MY FRIEND DOES IT":</p>
+<ul>
+  <li><p><strong>"Oh really? No worries. How's it all going?"</strong></p>
+    <ul>
+      <li>Going fine → <strong>"Okay, perfect. Well, if you've got any friends in the local business game that might be interested, just let me know."</strong> → out, NOT INTERESTED</li>
+      <li>Stalled or complaining → <strong>"Gotcha. Well, since ours is completely free to look at, worst case you'd have a second design to compare against. Would you be opposed to that?"</strong> → yes → <span class="j" data-t="s4">4. WRAP</span> · no → out, NOT INTERESTED</li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-already-have" class="entry">
+<p class="lbl">ALREADY HAVE A WEBSITE:</p>
+<ul>
+  <li><p><strong>"Gotcha. Are you happy with the website you have now?"</strong></p>
+    <ul>
+      <li>Not happy → <strong>"What would you say you don't like about it?"</strong> → <em>(listen, then aim the offer at what he named)</em> → <span class="j" data-t="s2">2. THE OFFER</span>'s ask</li>
+      <li>"The guy who built it disappeared" / a bad-experience story starts → <span class="j" data-t="a-burned">BURNED BEFORE</span></li>
+      <li>Happy with it → <strong>"Then honestly it sounds like you're set. If that ever changes, we're at designedbyjump.com. Have a good one."</strong> → out, NOT A FIT</li>
+      <li><em>(If the lead row said no website and a real one exists, note it for the list.)</em></li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-facebook" class="entry">
+<p class="lbl">WE'VE GOT OUR FACEBOOK / "PEOPLE FIND US ON FACEBOOK.":</p>
+<ul>
+  <li><p><strong>"Right, and I saw the Facebook page, it looks good. This would be an actual website of your own on top of it, so the people who don't use Facebook can still find you on Google, see your services, and contact you. And we handle all of it for you."</strong></p>
+    <ul>
+      <li>Engages → <span class="j" data-t="s2">2. THE OFFER</span>'s ask</li>
+      <li>Still no → out warm, NOT INTERESTED</li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-dont-need" class="entry">
+<p class="lbl">DON'T NEED A WEBSITE:</p>
+<ul>
+  <li><p><strong>"I understand. A lot of the businesses we talk to already get customers through referrals or Google Maps. The idea isn't necessarily to replace what you're already doing. It's to give potential customers another place to see your services, learn about your business, and contact you while keeping your branding professional and consistent."</strong></p>
+    <ul>
+      <li><em>(Stop and let them respond.)</em></li>
+      <li>Engages → <span class="j" data-t="s2">2. THE OFFER</span>'s ask</li>
+      <li>Still no → out warm, NOT INTERESTED</li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-word-of-mouth" class="entry">
+<p class="lbl">WORD OF MOUTH / "I GET ALL MY CLIENTS BY REFERRAL, BEEN DOING THIS 20 YEARS.":</p>
+<ul>
+  <li>Abrasive about it → <strong>"Okay, no worries. If you ever change your mind, we're at designedbyjump.com. Have a good one."</strong> → out, NOT INTERESTED</li>
+  <li><p>Curious about it → <strong>"That makes sense, and the website isn't really about replacing that. It's for your existing customers too. They can see your hours, your services, and how to reach you without blowing up your phone, and the referrals that do look you up see something professional instead of nothing."</strong></p>
+    <ul>
+      <li>Engages → <span class="j" data-t="s2">2. THE OFFER</span>'s ask</li>
+      <li>Still no → out warm, NOT INTERESTED</li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-too-busy" class="entry">
+<p class="lbl">TOO BUSY FOR MORE WORK / "I'M FLAT OUT TILL NEXT YEAR.":</p>
+<ul>
+  <li><p><strong>"Completely understand. If you're booked out, more inquiries is the last thing you need. The design's free either way, so if you ever want the website side cleaned up, we're around. All the best."</strong></p>
+    <ul><li>→ out, NOT A FIT</li></ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-had-a-site" class="entry">
+<p class="lbl">HAD A SITE, GOT NOTHING / "I HAD A WEBSITE AND IT NEVER GOT ME ANY CUSTOMERS.":</p>
+<ul>
+  <li><p><strong>"That's fair. A lot of sites don't bring anything in because of how they're built. That's kind of the point of ours being free, you can see if a better one changes that without paying anything."</strong></p>
+    <ul>
+      <li>Engages → <span class="j" data-t="s2">2. THE OFFER</span>'s ask</li>
+      <li>Still no → out warm, NOT INTERESTED</li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-burned" class="entry">
+<p class="lbl">BURNED BEFORE / "I HAD A GUY AND HE DISAPPEARED" / THE BAD-EXPERIENCE STORY:</p>
+<ul>
+  <li><em>(Let the story finish.)</em></li>
+  <li><p><strong>"Yeah, that's exactly the situation we built this for. You'd have the same people running your site every month, and we actually give every client the files to their own website. So even if something ever happened to us, you'd still have what you paid for."</strong></p>
+    <ul>
+      <li>Engages → <span class="j" data-t="s2">2. THE OFFER</span>'s ask</li>
+      <li>Still guarded → <strong>"And the design costs nothing, you'd see it before you ever pay a dime."</strong> → <span class="j" data-t="s4">4. WRAP</span></li>
+      <li>Still no → out warm, NOT INTERESTED</li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-no-time" class="entry">
+<p class="lbl">NO TIME / "I'M BUSY":</p>
+<ul>
+  <li><p><strong>"Totally understand. I don't want to take up your time. Would you be open to a quick follow-up at a better time?"</strong></p>
+    <ul>
+      <li>Gives a time → CALLBACK SET</li>
+      <li>Won't commit → out, NOT INTERESTED</li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-how-much" class="entry">
+<p class="lbl">HOW MUCH (anywhere):</p>
+<ul>
+  <li><p><strong>"The design and the draft are completely free, no strings attached. If you like it and want it launched and managed, it's $48 a month, and that covers your hosting and domain, SSL and security checks, proactive site monitoring, and four edits every month."</strong></p>
+    <ul><li>→ back to wherever you were</li></ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-wix" class="entry">
+<p class="lbl">WIX IS CHEAPER / "WIX IS 15 A MONTH":</p>
+<ul>
+  <li><p><strong>"Right, but when Wix says $15 a month, that's just for the platform. You're still paying separately for the domain, usually for the hosting package, and you're still building and updating the whole thing yourself. Once you add it all up, we're not much more expensive, and with us somebody is actually managing it for you every month."</strong></p>
+    <ul><li>→ back to wherever you were</li></ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-why-monthly" class="entry">
+<p class="lbl">WHY MONTHLY / "WHY IS IT $48 A MONTH?":</p>
+<ul>
+  <li><p><strong>"The $48 isn't just for the website itself. It covers the ongoing service. That includes hosting and domain management, SSL and security checks, proactive site monitoring, and four edits or revisions every month."</strong></p>
+    <ul><li>→ back to wherever you were</li></ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-templates" class="entry">
+<p class="lbl">TEMPLATES / "DO YOU USE TEMPLATES?":</p>
+<ul>
+  <li><p><strong>"We focus on creating a custom brand experience rather than just putting stock images into a generic template. We also create custom illustrations and branding elements."</strong></p>
+    <ul><li>→ back to wherever you were</li></ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-ecommerce" class="entry">
+<p class="lbl">E-COMMERCE / "CAN YOU BUILD ME AN ONLINE STORE?":</p>
+<ul>
+  <li><p><strong>"E-commerce isn't part of our standard offering because those websites are significantly more complicated to manage. We primarily specialize in service-business websites and landing pages. We can look at custom projects on a case-by-case basis."</strong></p>
+    <ul><li>→ back to wherever you were</li></ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-custom" class="entry">
+<p class="lbl">CUSTOM REQUESTS / ANYTHING OUTSIDE THE STANDARD PACKAGE:</p>
+<ul>
+  <li><p><strong>"We can definitely look at custom projects as well. I'd just need to get the details and have our team determine what's possible and what the pricing would look like."</strong></p>
+    <ul>
+      <li><em>(Take the details for Joel. Never promise features, dates, or pricing.)</em></li>
+      <li>→ back to wherever you were</li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-who-are-you" class="entry">
+<p class="lbl">WHO ARE YOU GUYS / "WHERE ARE YOU BASED?":</p>
+<ul>
+  <li><p><strong>"JU.MP is an ongoing website and branding partner for small businesses. We give you a professional online presence and continued support without you having to hire an expensive agency or manage everything yourself. We're a California company, based out of Pine Grove."</strong></p>
+    <ul><li>→ back to wherever you were</li></ul>
+  </li>
+</ul>
+</div>
+
+<div id="a-hostility" class="entry">
+<p class="lbl">HOSTILITY:</p>
+<ul>
+  <li><p><strong>"All good. Have a good one."</strong></p>
+    <ul><li>→ out, NOT INTERESTED. Or DO NOT CALL if they say the words. Next dial.</li></ul>
+  </li>
+</ul>
+</div>
+
+<h1 id="dispo" class="sec">DISPOSITIONS <em>(every call ends in exactly one; the note carries where it died)</em></h1>
+<ul>
+  <li>NO ANSWER: nobody picked up, or it rang to voicemail. Recycle at a different hour in two to three days. Never leave a voicemail.</li>
+  <li>VM (RANG OUT): logged only if Teleblast tracks it separately from NO ANSWER; same recycle rule.</li>
+  <li>BAD NUMBER: dead line, wrong business, closed. Fix from the lead source or discard.</li>
+  <li>CALLBACK SET: a named time or window, from him or the gatekeeper. Kept to the minute. The note says where to resume.</li>
+  <li>MEETING BOOKED: presentation call set with the web designer, wrap complete, details sent to Joel.</li>
+  <li>NOT INTERESTED: a clear no, anywhere on the map. Cooling window, then the rotation.</li>
+  <li>NOT A FIT: happy with their current setup, genuinely booked out, chain or franchise, or otherwise excluded. No redial without a real reason.</li>
+  <li>DO NOT CALL: they said the words. Honored instantly and forever.</li>
+</ul>
+
+</main>
+<script>
+(function(){
+  var undoStack = [];
+  var redoStack = [];
+  var animating = false;
+
+  function easeInOutCubic(t){
+    return t < 0.5 ? 4*t*t*t : 1 - Math.pow(-2*t + 2, 3)/2;
+  }
+
+  function animateScrollTo(targetY, done){
+    var startY = window.scrollY;
+    var maxY = document.documentElement.scrollHeight - window.innerHeight;
+    targetY = Math.max(0, Math.min(targetY, maxY));
+    var dist = targetY - startY;
+    if (Math.abs(dist) < 2){ if(done) done(); return; }
+    var duration = 340;
+    var start = performance.now();
+    animating = true;
+    function step(){
+      var p = Math.min((performance.now() - start) / duration, 1);
+      window.scrollTo(0, startY + dist * easeInOutCubic(p));
+      if (p < 1){ setTimeout(step, 16); }
+      else { animating = false; if(done) done(); }
+    }
+    step();
+  }
+
+  function flash(el){
+    el.classList.remove('flash');
+    void el.offsetWidth;
+    el.classList.add('flash');
+    setTimeout(function(){ el.classList.remove('flash'); }, 800);
+  }
+
+  function targetYOf(el){
+    var rect = el.getBoundingClientRect();
+    return rect.top + window.scrollY - 60;
+  }
+
+  function jump(id){
+    var el = document.getElementById(id);
+    if (!el) return;
+    undoStack.push(window.scrollY);
+    redoStack = [];
+    animateScrollTo(targetYOf(el), function(){ flash(el); });
+  }
+
+  document.addEventListener('click', function(e){
+    var j = e.target.closest('.j') || e.target.closest('.bchip');
+    if (!j) return;
+    var id = j.getAttribute('data-t');
+    if (id) jump(id);
+  });
+
+  var beatKeys = {
+    '1':'s1','2':'s2','3':'s3','4':'s4',
+    'g':'gate','e':'expand','r':'redial','0':'arsenal','d':'dispo'
+  };
+
+  document.addEventListener('keydown', function(e){
+    if (e.metaKey || e.ctrlKey){
+      if (e.key.toLowerCase() !== 'z') return;
+      e.preventDefault();
+      if (e.shiftKey){
+        if (redoStack.length){
+          undoStack.push(window.scrollY);
+          animateScrollTo(redoStack.pop());
+        }
+      } else {
+        if (undoStack.length){
+          redoStack.push(window.scrollY);
+          animateScrollTo(undoStack.pop());
+        }
+      }
+      return;
+    }
+    if (e.altKey) return;
+    var k = e.key.length === 1 ? e.key.toLowerCase() : e.key;
+    if (beatKeys[k]) jump(beatKeys[k]);
+  });
+
+  var chips = Array.prototype.slice.call(document.querySelectorAll('.bchip'));
+  var stations = chips.map(function(c){ return document.getElementById(c.getAttribute('data-t')); });
+  var strip = document.getElementById('bstrip');
+  function syncStrip(){
+    strip.classList.toggle('scrolled', window.scrollY > 10);
+    var y = window.scrollY + 90;
+    var now = 0;
+    for (var i = 0; i < stations.length; i++){
+      if (stations[i] && stations[i].offsetTop <= y) now = i;
+    }
+    for (var k = 0; k < chips.length; k++) chips[k].classList.toggle('now', k === now);
+  }
+  syncStrip();
+
+  var saveTimer = null;
+  window.addEventListener('scroll', function(){
+    syncStrip();
+    if (animating) return;
+    if (saveTimer) return;
+    saveTimer = setTimeout(function(){
+      saveTimer = null;
+      try { localStorage.setItem('jump-v2-scroll', String(window.scrollY)); } catch(err){}
+    }, 150);
+  }, {passive:true});
+
+  window.addEventListener('load', function(){
+    try {
+      var y = parseFloat(localStorage.getItem('jump-v2-scroll'));
+      if (!isNaN(y) && y > 0) window.scrollTo(0, y);
+    } catch(err){}
+    syncStrip();
+  });
+
+  var themeBtn = document.getElementById('theme');
+  var themes = ['auto','light','dark'];
+  var curTheme = document.documentElement.getAttribute('data-theme') || 'auto';
+  if (themes.indexOf(curTheme) < 0) curTheme = 'auto';
+  function applyTheme(t){
+    if (t === 'auto') document.documentElement.removeAttribute('data-theme');
+    else document.documentElement.setAttribute('data-theme', t);
+    themeBtn.textContent = '◐ ' + t.toUpperCase();
+  }
+  applyTheme(curTheme);
+  themeBtn.addEventListener('click', function(e){
+    e.stopPropagation();
+    curTheme = themes[(themes.indexOf(curTheme) + 1) % themes.length];
+    applyTheme(curTheme);
+    try { localStorage.setItem('jump-v2-theme', curTheme); } catch(err){}
+  });
+})();
+</script>
+</body>
+</html>

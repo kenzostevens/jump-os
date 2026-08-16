@@ -1,0 +1,635 @@
+# Meeting Transcription
+
+  Meeting started: 8/11/2026, 12:55:16 AM
+  Duration: 95 minutes
+  Participants: Joel Limberant, Kenzo Stevens
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/LEsNZj1RuihOJCYlYuNq?o=txt)
+
+    
+
+  
+
+  
+    ## Highlights
+
+    > 02:09 Kenzo Stevens: So, so basically, this is a. Um, Filipino company. And they're selling gold level sub accounts for.
+> 04:24 Kenzo Stevens: Offering websites through Glide level, we we're just using it internally. So basically, we're kind of like the client just needing the CRM and the the
+> 07:46 Joel Limberant: It does. Yeah, according to their website, um? They should have everything we discussed. They have the import they have. Csv import and bulk actions import up to 500 leads at once, with column matching and pipelining assignment. So, but what what? I'm not quite sure about is, I'm pretty sure.
+> 11:36 Joel Limberant: Cuz I'm I'm fine with go high level. Uh, to an extent, but then. Also, if you're paying for calls, and then we're doing these things to get around, having to pay the agency price. It's, it worries me if I ever wanted to expand into a cold calling team. And then it gets more complex. Which again isn't really an issue right now, but it's just something to keep in mind, you know?
+> 43:18 Joel Limberant: Um, and then I told you like what happened. Like, uh, one of our one went out of business. One of our clients actually had a heart attack, and um, the amount of work I was doing was too much for it to be scalable. Like to have a bunch of these high ticket customers? Um, so then we we hit that. We had the big hit in the income because I was not Diversified, and now that's why I've gone to really going hard with the 48 and
+> 44:02 Joel Limberant: That's kind of that's kind of the goal. I'm setting here to climb back up to where we were, but instead of having one person or two people be paying big
+> 52:46 Joel Limberant: Exactly, and that's kind of like the trade-off. I'm doing a lot of work for basically nothing up front, you know. I, these websites take probably five to ten hours per site, depending on how custom it is, and that's mostly just the illustrations honestly and tweaking everything. Look just right. Um. In, I'm doing that and taking the risk that the next month they could cancel. And I did all of that for like, effectively, 40, 48, you know?
+> 01:03:20 Kenzo Stevens: Wait, I'm I'm curious, though, for dog groomers, what's the usual, um, average ticket size for this? No, I mean, for example, I'm just curious because, like.
+> 01:06:31 Joel Limberant: Oh, we do it for $48 a month. No upfront cost. You can think of us, like a business model, or like a business partner. What I actually said is, I told the small businesses that I was offering that I was waiving The Upfront cost of our websites. In exchange for allowing us to use them when selling bigger, higher ticket.
+> 01:14:12 Joel Limberant: Yeah, um. But basically, if you're asking what I'm looking for to make sure that you're performing, and I'm not like gonna fire you, it's. I want to make sure I want to see consistent calls being made with some form of notation and some form of summary, you know, like the notes don't have to be very complex at all. They
+> 01:16:18 Kenzo Stevens: many calls you have, because that goal level has it so I could just send you a screenshot.
+> 01:16:25 Joel Limberant: Yeah, and then, well, and then you're. You'd also give the the daily summary,
+> 01:21:52 Kenzo Stevens: at least there's a base pay of like 500 per month because I've done. I've done some positions before, where it's like. Literally for 2 months. I've been calling, and there's no clients. And it's 100% commission, though. The ticket size is huge. For example.
+> 01:23:13 Kenzo Stevens: um. I mean, the the goal here is that, um? I'm thinking what I should do for the next day or so is create the leads, and
+> 01:23:31 Joel Limberant: Yeah, yeah, and I was, I was just about to say that I would consider 10:00 a.m. Today being your face, your first paid period. And let. I'll get you. Let's just pay you on Friday. And then, for today. Focus on getting leads and then tomorrow. Hopefully I'll have. Everything set up more, and we can maybe have another meeting again at 10:00 and
+> 01:24:02 Joel Limberant: The soonest would probably be tomorrow after the meeting if you feel comfortable. Um.
+> 01:25:24 Kenzo Stevens: is that like, I could genuinely like finish scraping tomorrow?
+> 01:27:16 Kenzo Stevens: For today, uh, and for tomorrow, we basically just focus on the scraping.
+> 01:27:42 Joel Limberant: So, then it's like, if you go by County, it probably wouldn't take a lot of time if you just want to get some practice calls in. Um, and that's what I'm saying. Like, we kind of have two options. We can do the practice calls and do like a really small section. Try teleblast out and view tomorrow's calls as kind of like training and filling out the software and
+> 01:28:10 Joel Limberant: that, um. So? It's, it's kind of that's up to you. I, I feel like, maybe it'd be better to do a couple calls tomorrow just to get a feel for the software. Uh, even if the even if they're not as good.
+> 01:28:31 Joel Limberant: Yeah, 100 would be a good pool to start with. Um, test out. So, and then, as for me, I'll get the, um, the Google number worked out, and teleblast set up, uh, by tomorrow, and we could just have another meeting on
+> 01:34:39 Kenzo Stevens: ticket offer. So easy to sell.
+> 01:35:14 Joel Limberant: All right. Thanks, Kenzo. I'll talk to you tomorrow.
+
+  ## Transcript
+
+  00:00 Joel Limberant: Hey Kenzo, how are you doing?
+00:02 Kenzo Stevens: Oh, hi. What's up doing good? How about you?
+00:06 Joel Limberant: I'm doing well.
+00:09 Kenzo Stevens: But there's so many note-takers.
+00:11 Joel Limberant: Yeah, I just saw a whole list, and I didn't know which one you had activated. I was like, I'll add them all.
+00:17 Kenzo Stevens: It's fine. It's fine, okay, cool. So. Yeah, what are we? What? What are we going to talk about? Where are we?
+00:24 Joel Limberant: Well, I have a couple things, so I have I have the training sheet if you want to go over that a little bit. And then I did some research into cold calling software as well, so we can kind of discuss some of the softwares I found and.
+00:38 Kenzo Stevens: Well, what? What? What did you find?
+00:40 Joel Limberant: Well, I found a few here, especially with the lower budget. There's not as many options. Um, let me see. I'll pull up the links so you can look at their website. The one I liked the most was teleblast. It was kind of interesting. I hadn't heard of it before. Um. But it seems to fit what we were discussing.
+01:02 Kenzo Stevens: I say, cuz I was, I was actually going to propose that. Um, maybe we could just use goai level, but instead of paying 97 dollars, I have
+01:10 Joel Limberant: Yeah.
+01:13 Kenzo Stevens: a better solution, um, which is cheaper. First is we can start with a free 30-day trial. Because if we, if we use the 30-day trial? There's a there's like a free credits there, right, like, um? If you complete the missions, they give you free credits so. Without paying anything they'll they're gonna give you like. Forty dollars worth of credits, which you can use for buying numbers. Um, or like, basically, that's like the credits that you're going to spend on when you're doing the calls.
+01:48 Kenzo Stevens: Now, once the 30 days is over, um, I have a solution here. I'm going to give you the link, just give me a second.
+01:56 Joel Limberant: Oh yeah.
+01:58 Kenzo Stevens: Um. Or is it so? You can check this website right now. I'm gonna send it here in the chat.
+02:08 Kenzo Stevens: https://exceleratedigitalmarketing.com/ghlsubaccount
+02:09 Kenzo Stevens: So, so basically, this is a. Um, Filipino company. And they're selling gold level sub accounts for.
+02:19 Kenzo Stevens: Um. For for like four dollars basically?
+02:26 Joel Limberant: Because it's they have, uh, they have different pricing for different countries.
+02:27 Kenzo Stevens: Yeah. No, no, no. So, how it works is that with go high level? There's three tiers. Subscriptions. There's the 97 per month. And then there's 297, and then there's. 497. So, what are the differences? Basically, all those three are the same. But the difference is that the 97 only has three sub account access. Okay, you can only have like three sub accounts. Um, while the 297 has like unlimited sub accounts, and then the 497 basically has.
+03:10 Kenzo Stevens: Unlimitance of accounts plus white label, um? You can white, label it, and sell it as your own software. Now, basically, um. I can. I, I can sell my own sub accounts, right? Like, no matter what price is the only thing here is that this guy has lots of, um. Students, that is, he is selling it for cheap, so it's kind of like.
+03:33 Joel Limberant: Oh, I see what you mean?
+03:36 Kenzo Stevens: Now, what's the difference between the sub account versus the agency, um, level account? Is that? With goai level, usually the sub account is what you're giving to your client. So, for example, if you have a client and then you're selling like a service. Let's say you're selling an AI receptionist, or you're selling a website. The sub-account is where you're going to build a website or the AI receptionist or because it's an all-in-one, right, like the sub account has all the things like the features in there. You can build the website in there. You can do the calls like, have the dialer in there the CRM. The everything is in the sub account. You don't necessarily need to have the agency level access because. We're not really managing clients.
+04:22 Joel Limberant: Yeah, a large yeah.
+04:24 Kenzo Stevens: Offering websites through Glide level, we we're just using it internally. So basically, we're kind of like the client just needing the CRM and the the
+04:31 Joel Limberant: Yeah.
+04:35 Kenzo Stevens: dialer. So with this, um? Accelerate company accelerate.com accelerator digital marketing. They're offering it basically for, like, four dollars like 200 pesos to 500 pesos per month, but but. The the thing is the 200 pesos, which you can see if you visit the website.
+04:57 Joel Limberant: Uh, can you resend it? I didn't. I didn't end up getting that, by the way.
+04:57 Kenzo Stevens: Um. Yeah, you can't wait. It's, it's in the chat.
+05:05 Joel Limberant: I don't see it, let's see.
+05:06 Kenzo Stevens: Yeah.
+05:07 Joel Limberant: Oh, okay. I thought you meant slack.
+05:11 Kenzo Stevens: Yeah, so so you can check that out right now. Go go to that link. They're going to see that, like if you scroll. To the pricing you're going to see, like? Practice account, which is PHP 197. That's basically four dollars.
+05:27 Joel Limberant: Yeah.
+05:29 Kenzo Stevens: But that's a practice. It doesn't have all the features, right? So the monthly
+05:29 Joel Limberant: Yeah.
+05:33 Kenzo Stevens: plan? Has. Like, has all the features four, basically 500 pesos. That's like ten dollars.
+05:42 Joel Limberant: Yeah.
+05:43 Kenzo Stevens: $10 per month, but the yearly plan that's 2,400 pesos. That's basically $39. But you have like 12 months of access. So, you're saving more, um, with the yearly plan like 50. So, it's up to you like you can spend like $10 per month on this sub account. Or you could spend like? $40. For 12 months of access. So, it's a lot cheaper.
+06:14 Joel Limberant: Yeah, I get what you mean.
+06:17 Kenzo Stevens: Yeah, so, so now, what I'm proposing is that? With guy level. If we're going for goai level, we can start with a 30-day free trial with, like, like at any agency sub account I started agency account. Um, it has like three, four, like 40 dollar credits, which we can use immediately. It's probably enough for, like, two months or something, but we don't need to go for two months.
+06:39 Joel Limberant: Okay.
+06:41 Kenzo Stevens: You just use that 30 days once. We're once we've used up the 30 days we can just
+06:41 Joel Limberant: Uh-Huh!
+06:45 Kenzo Stevens: con, like transfer here on the sub account yearly planner, like month one. And just stop up some credits I don't know, like, maybe twenty dollars or something just for the numbers. Um, for the call credits and stuff like that, which is cheaper, right, because usually what I'm expecting is that some of the subscriptions of like the dialers. I don't know whatever, like, if you found, uh, something that already covers the credits, but usually, you need to top up some some credits to the calls.
+07:18 Joel Limberant: The with teleblast. What I found it's basically, um. It integrates with an existing phone number or Google Voice, and then you don't have to pay per call. It's literally just a front end for an existing phone number, and then you can just make as many calls as you want, and you're just kind of paying for the front end software that integrates with Google Voice.
+07:40 Kenzo Stevens: I see. So, does it have? Like CSV upload or something like a import?
+07:46 Joel Limberant: It does. Yeah, according to their website, um? They should have everything we discussed. They have the import they have. Csv import and bulk actions import up to 500 leads at once, with column matching and pipelining assignment. So, but what what? I'm not quite sure about is, I'm pretty sure.
+08:10 Joel Limberant: When I read this, what it sounds like is you can do 500 leads per time, and then you would just have to delete that and then upload another batch of 500.
+08:18 Kenzo Stevens: Is this an autodialer? Wait, is it teleblast, right?
+08:23 Joel Limberant: Yeah, teleblast. It's in slack. I sent it down there. It has a power dialer, a
+08:24 Kenzo Stevens: Okay.
+08:27 Joel Limberant: pipeline manager. Uh, the bulk Imports. So, and this works good, because again, it just integrates with. It integrates with existing phone numbers so I could put. I could put the. My work phone number and you can call through the phone number I've been using. Um, with clients, or we could get a Google Voice number and set that up and import it through that.
+08:56 Kenzo Stevens: How much is a Google Voice number?
+08:58 Joel Limberant: Uh, $10 a month.
+08:59 Kenzo Stevens: How much is a Google Voice number? Oh, okay.
+09:04 Joel Limberant: So, it'd be $25 a month for the entire thing unlimited.
+09:10 Kenzo Stevens: I see.
+09:11 Joel Limberant: But the only thing with teleblast is, it seems to be created, uh, and it's aimed towards people who want to run everything from their phone. And that's kind of their marketing, so I don't know what the workflow would be like on desktop. I don't know how well optimized it is for desktop. You scroll
+09:27 Kenzo Stevens: Yeah.
+09:27 Joel Limberant: through the website and you see screenshots, and it looks fine on desktop. But that would be my only concern, and I don't know. I don't know if you're wanting to run through your phone.
+09:35 Kenzo Stevens: The thing is with Google phone. I haven't tried it yet, but. I mean, I'm willing to try it. The thing is that it's not available here in the Philippines, so I don't know how that will work. I mean, I guess, maybe we can log in and then, like, use your own number, and so
+09:51 Joel Limberant: Easier. Yeah, well.
+09:52 Kenzo Stevens: on?
+09:53 Joel Limberant: I think with teleblast, I would just set up the account, and then you would just sign into the account. I don't know if it would region block you, you know?
+10:02 Kenzo Stevens: Like, if we're talking about basically.
+10:03 Joel Limberant: Yeah.
+10:08 Kenzo Stevens: Um. Practicality wisely. If I feel like, you know, guy level would be a lot better since, like, I'm already into it. It's not like we're going to adjust or anything, and the 30-day free trial gives us 40 dollars in free credits. We're not gonna spend it.
+10:22 Joel Limberant: Well, how many calls does the credits cover, though?
+10:26 Kenzo Stevens: Oh, is it like? Let's just say that, um. You're going to buy a number that's $1.15.
+10:33 Joel Limberant: Uh.
+10:37 Kenzo Stevens: Um, and then for the calls usually. It's like, it's like zero zero zero, one six, one six. I think so, so like you can probably. Last three months.
+10:55 Joel Limberant: Okay.
+10:56 Kenzo Stevens: With $40. So, it's gonna last long. It's not, like, um, you can use up all those credits within two weeks or something. It's not going to happen, like, no matter if I, if let's say I call, like 400 calls a day, for example, that that could probably last two to three months.
+11:18 Joel Limberant: Let me, I'm just gonna look up the conversion. Cuz just how many, how much does it cost basically to do 100 calls?
+11:28 Kenzo Stevens: Wait, actually, you know what? Let's see the price in here.
+11:36 Joel Limberant: Cuz I'm I'm fine with go high level. Uh, to an extent, but then. Also, if you're paying for calls, and then we're doing these things to get around, having to pay the agency price. It's, it worries me if I ever wanted to expand into a cold calling team. And then it gets more complex. Which again isn't really an issue right now, but it's just something to keep in mind, you know?
+11:59 Kenzo Stevens: Yeah, so. So, so you're mostly concerned about, like, once you write it a scale and like, hire more. Um, cold callers. Is that what you're concerned about?
+12:11 Joel Limberant: That's part of my concern, and then the other concern is just like, uh, the business model charging for time on phone. Um, which I'm because, like. To me, it's just I like having fixed costs, you know, so? Um, that just adds a little bit of a variable, which again, it might just be me not being familiar with go high level, but it looks here according to what I pulled up, and I don't know if this is accurate. It's just what I pulled up. It says, um, it kind of depends on the length of the phone call. If your average phone call is one minute, then you're paying about a dollar 66 USD for 100 outbound calls.
+12:47 Joel Limberant: If your average phone call length is five minutes, then you're paying about eight dollars. 100 outbound calls.
+12:56 Kenzo Stevens: Okay, well, but, but the thing is, like, not all of it will through, you know?
+13:02 Joel Limberant: Yeah, yeah, and.
+13:05 Kenzo Stevens: Yeah, it's. It's going to probably like the pickup rate will probably be like
+13:05 Joel Limberant: You know? Like 1 and 10 or 1 and 15 or something.
+13:10 Kenzo Stevens: below 5%.
+13:14 Joel Limberant: Was what I remember, but?
+13:16 Kenzo Stevens: Yeah, that's right. So, so you're like? $10 or? You know, like ten dollars, could last you like a whole month or something. Probably even you know the whole thing.
+13:26 Joel Limberant: The tally blast.
+13:30 Kenzo Stevens: So, if you're spending, let's say, for example, ten dollars per month on Google Voice plus 15 on, let's say. What do you call this? Yeah. You could just spend it on the sub account because here's the thing, right? Um. If you're, if let's say you're gonna hire? Um. More gold colors. You can basically give them login with within the same sub account, right? Like, you could just add more videos.
+14:03 Joel Limberant: And they all share the same account.
+14:04 Kenzo Stevens: Yeah, so, so, for example, if you really don't want to pay for the 97 per month just yet? Um, and you want to go for this Filipino sub account. You're going to save a ton of money, like if you don't want to go for the yearly plan, you're basically like subscribing like dollars.
+14:21 Joel Limberant: Yeah, well, and I think I think what you found here is a really good. A really good idea in terms of go high level. Like, you found a really good way to get it affordably.
+14:30 Kenzo Stevens: Yeah.
+14:30 Joel Limberant: Um. But then it just goes. It goes to the question of the the paying for time. I'm not a big fan of. Um, which again? You know, we can see, I'd be. I'd be willing to try it out, or maybe just experiment with both. Um. Cuz it's the thing that concerns me as well is when I did cold calling starting off before I started Outsourcing it. You'd get a lot of these, like in the industries we're targeting. You get a lot of these, like, uh, it's an older guy, and he just likes to talk. You know what I mean? And that's part of the sales, but you'll end up being on the phone with him, and he'll tell you his whole life story over the course of like 45 minutes an hour, you know. And from my experience, those are good phone calls, because then they feel like your friends.
+15:17 Kenzo Stevens: Yeah. Okay. I mean. I mean, I guess we can. We will see, like, also wait, so teleblast doesn't. You don't need to pay for time, right? It's already covered in the 15.
+15:32 Joel Limberant: Yeah, it's, it's just. It just integrates with an existing phone number, and then it you can make as many calls as you want so well? Here's the other thing about teleblast is they have a free plan as well with ads, and I don't think that would be super practical for for. Like, if we were using that full time, but maybe it'd be worth downloading that and getting a feel for it before we commit to paying or something, you know?
+15:58 Kenzo Stevens: Okay, so, so, based on what I've said about, go high level. Which one are you leaning more towards? Is it teleblast or go high level?
+16:06 Joel Limberant: I, like, go high levels, um. I like, how advanced it is, but I don't like, uh, the complex charging system. So, I think for now, we should try teleblast for a couple days. And if you really don't like it, we can switch to go high level. Um, but I think we should just start with the simpler software. And if that,
+16:23 Kenzo Stevens: Okay, yeah, we can do that.
+16:26 Joel Limberant: doesn't that if that doesn't, um? Achieve what we need. Then we can switch to go high level and kind of go from there.
+16:38 Kenzo Stevens: I mean, it's there's a free trial anyway, right?
+16:40 Joel Limberant: Yeah, yeah, so, and again, I'm I'm not opposed to go high level. I just think. Um, if if we're kind of debating between the two?
+16:46 Kenzo Stevens: You already?
+16:48 Joel Limberant: Huh?
+16:49 Kenzo Stevens: You're already using Google Voice, right? You already?
+16:51 Joel Limberant: I don't have a Google Voice account. I have a normal. I have two phones actually so. Um, I could purchase a Google Voice account, or we can set up teleblast with my other phone number that I don't lose as much.
+17:03 Kenzo Stevens: Okay.
+17:04 Joel Limberant: Um. But, you know, and again, I don't know. You said that Google Voice isn't available in the Philippines?
+17:13 Kenzo Stevens: Yeah, I mean, we can. We can try if it works.
+17:15 Joel Limberant: Don't look like, yeah, I don't know if that would make a difference.
+17:17 Kenzo Stevens: Yeah.
+17:21 Joel Limberant: So?
+17:22 Kenzo Stevens: I mean, if if it's just a login anyway, and I'm just logging into an account
+17:25 Joel Limberant: Yeah, so I can go ahead and I can get that to you, and then maybe.
+17:27 Kenzo Stevens: you've already set up, and I don't think it's going to be a problem.
+17:36 Joel Limberant: I mean, worst case scenario. I spent ten dollars and you're not able to use it so. Um. I'll get a Google Voice account set up after this meeting, and I'll connect it with. Uh, teleblast, and then I can send it to you. When, when were you thinking you wanted to start calls because I don't want to throw you in before you feel comfortable with the business model or have your questions answered? Things like that.
+18:00 Kenzo Stevens: It's mostly about, like, first, like, once the dialer set up. Okay, that we we
+18:06 Joel Limberant: Yeah.
+18:07 Kenzo Stevens: need to get it, get that done first, and then the next thing is like building the script. Um, obviously, like, I want to be familiar about. Business model, the target market. The product or offer knowledge. And also we need like we need leads, right? So I can scrape the the leads first.
+18:28 Joel Limberant: Yeah.
+18:29 Kenzo Stevens: I can do that so that we have like a CSV of all the leads, uh, we're gonna call. And after that. Once it's done, like, I have the script, the CSV. Product knowledge. Uh. Yeah, I, I guess that's it. I'm ready to start calling once that's done.
+18:47 Joel Limberant: Okay. Well, to start off with, I do have kind of a training sheet. You want me to throw it in the slack, and we can kind of go over it.
+18:54 Kenzo Stevens: Yeah, sure.
+18:55 Joel Limberant: Um, and see if you have any questions. So, it's a little long, but it has.
+19:08 Kenzo Stevens: Let me just send it here also. Okay.
+19:19 Joel Limberant: Um, basically, all the information you would need to know about the 48 a month plan. I admitted some of the information about the complex plans because I, I find that typically clients aren't as interested in that when you're just starting with the cell, they just want to know what the base is. Um, but this is a really good just kind of big overview of everything we do and the business model.
+19:45 Kenzo Stevens: Okay. Okay.
+19:48 Joel Limberant: And then, like I said as well, it has the it has the base script, but you're welcome to improve that. If you don't like how it's worded, or if you say, maybe I don't like going at it this way. Um, that's just kind of what I've used in the past, and it seemed to have worked.
+20:06 Kenzo Stevens: Looking at it right now. It's this business name. Is this what, what your contractors are using?
+20:15 Joel Limberant: Yes, typically I'll send them this. Um, and it gives them a good overview.
+20:22 Kenzo Stevens: Okay. For the dollar package. Okay, actually. I, I prepared questions for the skull. Let me send it here.
+20:36 Joel Limberant: Yeah.
+20:37 Kenzo Stevens: You know, I'll just I'll just send you the whole MD file. Give me a second. I was thinking of going through each question with you.
+21:00 Joel Limberant: Yeah, we can definitely do that as well.
+21:04 Kenzo Stevens: There you go. I just sent it on slack.
+21:06 Joel Limberant: Okay. So, do you want me to start going through these questions, or do you want to read through the? Uh, worksheet burst. It's up to you.
+21:26 Kenzo Stevens: Well, okay, yeah, sure. You can go for the work sheet if you want if you want.
+21:32 Joel Limberant: Let's see.
+21:35 Kenzo Stevens: Whatever you prefer.
+21:36 Joel Limberant: So, you have a question here. What kind of businesses have been the best fit so far? Um, in terms of just a hard list, I've seen a lot of success with. Um, businesses like dog groomers or. Because that's, that's the business that actually comes to mind. First, like, I said, we're we're mostly focusing on service based Industries, so there's a lot of contractors in there, but what I've noticed is when you call a contractor, you know you, you call, you're calling like an older Blue Collar dude, and sometimes he he doesn't care as much about marketing his company. He doesn't really care as much, sometimes about talking to someone on the phone, you know, or you're calling him. And he's in the middle of a job. So, while I do have good success with those, I also notice those calls can be a little rougher because, you know, sometimes they don't want to talk to you as much or they're not as interested, but then you go into softer, service-based Industries. And, like, I said, the example that comes up is dog grooming, and it's a completely it's.
+22:35 Joel Limberant: It's the same, technically, like I'm making the same style websites, but it's a completely different sales sphere because you're calling usually. Now, you're calling, like middle-aged women who are much more agreeable. They're not exhausted from working in the sun. They're playing with dogs all day. Open to what you have to say. A lot of the time. Um, but in terms of just like hard list of industries that you're calling, what comes to my mind is dog groomers, mobile detailers, Tree Service. Um, those would be like the big three that I've targeted in the past.
+23:12 Kenzo Stevens: Okay.
+23:13 Joel Limberant: But again, I have a list of like 50 industries that we've worked with, that I can pull up. If I could find it, I think it's on my other phone, but uh.
+23:22 Kenzo Stevens: You said, you have 30 clients, right? So, it's mostly dog groomers.
+23:27 Joel Limberant: Um, yes. Uh, my my clients are. Kind of. A lot of them are from local Word of Mouth, so I have worked with dog groomers quite a bit, but that's mostly been on our targeting. I also have a lot of Word of Mouth clients like brick and mortar stores, and I found that even though we've done a good number of brick and mortar stores like, we've done a tea shop recently. Clothing stores things like that they're harder to sell to on the phone. From what I've noticed, um, so typically, I just kind of take those. As they come in or they have.
+24:06 Joel Limberant: Little Rings like, you know, you get in with one shop, and she knows seven other shops. Um, but I can send you an example of one of our dog grooming sites if you'd be interested in seeing that.
+24:18 Kenzo Stevens: Yeah, sure, you can just.
+24:19 Joel Limberant: Or, I can just send you. You can kind of get a feel for our sites. They're very simple because. Um, what we're selling. Is less. We're not really selling complex sites we're selling. Easiness. Basically, the the business model is making it as easy as possible for these business owners to have a professional looking site and oftentimes.
+24:45 Kenzo Stevens: So, it's just the the pain point is basically they don't have a website, and you're just providing a website that's the main pain point you're not.
+24:54 Joel Limberant: Yeah, well, the main that. That's the surface pain point, but then the marketing is. Um. We are your full-time website person because I, I noticed a lot of the time they have questions about websites they need things changed, and they can't afford something full-time for that, and they don't know how to do it themselves. So that's like the big marketing angle, and I notice when you tell them we run everything, we keep it, you know, we? We keep it running. We do the edits. We make sure everything on the back end is being handled correctly.
+25:29 Joel Limberant: They tend to like that quite a bit, because again, it's the ease they don't have to worry about anything they hire us. And we do it. All without having to bother them.
+25:39 Kenzo Stevens: I see. So. For the what, what, what's the? How do I say this? How many clients do you have that upgrades after the 48 per month plan?
+25:55 Joel Limberant: Um. I would say it's a rarity. Um, the 48 plan is definitely the major thing that we're selling. I'd say maybe 1 in 10, and then of that 1 in 10. Oftentimes, they don't want to go one up to the 89, where it's more inclusive. They oftentimes want something custom. They're like this website's really good, but we want posters. We want social media logos. We want business cards. We want you to handle more than the website and design because. Uh, primarily.
+26:30 Joel Limberant: We tell this to people. We're a design agency, so we start with websites, but we also design them everything else to kind of fit in with with the existing brand, then it all. It all kind of. Circles around the website.
+26:46 Kenzo Stevens: Um, so it's mostly just the design part. It's not like you're doing some web lead capture or something.
+26:53 Joel Limberant: Exactly, exactly. We try to stay away from complex stuff, and in the past, I have had more. Complex sites come in, or I've had quite a few e-commerce sites commissioned, and I've just not had good experience with people trying to commission e-commerce sites through us and the reason why that is, is because we are kind of positioning ourselves as the budget option, and we are marketing ourselves towards small companies who don't have a lot of money.
+27:23 Joel Limberant: So, then, when a small company who doesn't have a lot of money sees us, but then wants a very complex website, they want it for the price of the simple site and what ends up happening is it's either way too much work for what they're willing to pay or they commission it and then realize they don't have the money and. Um, you know, we're just kind of out all of the the work that we put into the draft. Um, so that's why I take I. I tell my callers to kind of shy away from.
+27:53 Joel Limberant: People who are wanting very complex sites. Because in the past, I haven't, and I've been burned quite a few times because the kind of person who's attracted to a very budget option and then ask for a complex site usually doesn't want. Doesn't want to pay for the extra work that it would be.
+28:10 Kenzo Stevens: Yeah, like, sad.
+28:11 Joel Limberant: So, yeah.
+28:13 Kenzo Stevens: So, for the website condition, which is like, are you? Are we targeting just people that don't have websites or bad websites outdated, broken website? What's?
+28:25 Joel Limberant: I'd say your two primary would be, are your three primary is you're looking for no website, Facebook, or social media link or a website that does absolutely nothing like you click it, and it's just straight up broken. And then your secondary is people who have websites that are broken, and there's things wrong with it. Um. But, like I said. That could be harder to pick up with a scraper, and if you're manually going through and you see it.
+28:54 Joel Limberant: I find that kind of a 50 50, where you'll call them, and sometimes they'll be like, oh man, this is broken, and I need someone to fix it, but a lot of the times they're, like, well, it's broken, and I just don't care, and I don't need a new one. Um, so that's why I'd say we primarily focus on people with no website, a social media link, or like a website at one point, but now when you click it, it just straight up doesn't work. Um.
+29:18 Joel Limberant: Because again in these Services, I notice people are very they. They fall into the. Uh, the everyday grind, you know, they wake up, and they do their job, and they're not really thinking about marketing so much. So, when you come at them with more nuanced things like, hey, it would be more efficient if your site worked. They tend to not care. A little bit more so.
+29:42 Kenzo Stevens: So? These dog groomers, or like how, what's the size of their business, like how many employees is it owner? Owner operated.
+29:52 Joel Limberant: I would say primarily Target owner operated. That is always going to be our primary target. Uh, but in terms of size it, if if a dog groomer who has five employees, for example, once a website, uh, it's not really a problem. I'd say the the only time size really becomes a problem is if like a big chain was like wanting a highly customized website or wanted some sort of feature that it auto? Uh, sorts locations or something, you know, what I mean, where I end up making like 50 websites for one client. In that case, I would still.
+30:31 Joel Limberant: Talk to them, but it'd be more like a customized. It'd be treated like a customized website versus a standard 48. Um. But I would I'd primarily be targeting owner operated or zero to ten employees? Would kind of be this we spot.
+30:46 Kenzo Stevens: Okay. Based on your experience, are you mostly? Talking to a gatekeeper or who answers the phone most of the time. When you're doing cold calling?
+30:58 Joel Limberant: It depends on industry. Um, but I would say a good half of the time it's owner and the other half of the time. It's a gatekeeper, but it's an informal gatekeeper. So, a lot of the times you'll call them on the phone, and instead of getting a. A full-time secretary and their whole job is conveying information to the boss. It's just like whoever was nearest to the phone. Um, and that's what I mean.
+31:24 Kenzo Stevens: So, this is. This is your experience, mostly on dog groomers, 50% owner, 50% gatekeeper.
+31:33 Joel Limberant: Yes, with dog groomers especially. I would say that that stretches out to all brick and mortar, uh, because I would put dog groomers unless it specifies their mobile dog groomer. I would put them in the brick and mortar category, and oftentimes with my experience calling gems, hair salons, dog groomers, these types of like smaller companies, but they still have an in-person location. There's oftentimes a informal gatekeeper, like just someone who you know.
+31:59 Joel Limberant: Whatever stylist happens to be by the phone, the 18 year old girl they pay to groom the dogs part-time, you know what I mean? Um, whereas with contractors a lot of the time, it's the owner. Um.
+32:13 Kenzo Stevens: Okay, makes sense. So, are we mostly targeting?
+32:15 Joel Limberant: But.
+32:19 Kenzo Stevens: California, Oregon.
+32:21 Joel Limberant: Yeah, so I would say especially with right now. Let's stay with California and Oregon. Um, because that's a more local cell. And we can kind of. Um. Come up with. Better pitches for that for now and then. My plan is is once I build a a good size and I'm happy with kind of how we've exhausted the markets in California and Oregon. We just will continue moving and we'll go into maybe Idaho and Washington and then just kind of move through the United States like that. And, um.
+32:55 Joel Limberant: It also provides a good pitch to be like, we're expanding into your state from
+32:55 Kenzo Stevens: I say, do you? Do you have an idea on how big the market for dog groomers is in
+32:59 Joel Limberant: Oregon, the neighboring state.
+33:07 Kenzo Stevens: California?
+33:10 Joel Limberant: Um, it's pretty large. So, in terms of in terms of calling, I'd say you'll probably get a good week to maybe two weeks off of dog grooming alone and. Um, between the two states. I don't know so much California, specifically. I would say you, you're at least gonna have a good half a week from California. But, you know, again, it depends how fast you're going through the coals.
+33:38 Kenzo Stevens: Yeah, so, so?
+33:38 Joel Limberant: So?
+33:40 Kenzo Stevens: Uh, okay, great. So, so after? After California. What's uh, what's the next? State or city?
+33:49 Joel Limberant: I would do. I would do organ. And then, like I'd start with industry. So let's say we're starting with dog groomers because I think they're a good a good place to start. For example, you do all the dog groomers in Southern California, all the dog groomers in Northern California, and then you do all the dog groomers you can find in Oregon. And then. Now, we've exhausted our two states. Let's move to a different industry, and now we're doing car detailers. And then, you do all the all the car detailers in California, Oregon, exhausted the industry. Let's move to a new industry, and we just kind of work through our industry work lists like that until we've either exhausted industries that were happy with. Calling, or we've hit.
+34:32 Joel Limberant: A large amount of clients to the point where it's, like, okay, let's move one state over while we have this momentum and point to that momentum in the other state, like, start calling Washington, say, hey, we're exploding in Oregon right now, and we're expanding into Washington. We'd love to know if you guys are interested in this.
+34:49 Kenzo Stevens: So, how do you usually pitch the the business owners because you said like the advantage is that, um? It's local! You're in California, right? So how do you usually present yourself?
+35:04 Joel Limberant: I usually keep it a little vague while still pointing out it's local, so I'll say, hey, we're California, California based company if they ask where you're based. We're based out of Pine Grove, California. Um, it's a very small town. I've done a lot a lot of my current clients are from Amador County and San Joaquin County, California. Because I lived in San Joaquin when I started the company and then I moved to Amador.
+35:27 Joel Limberant: Um, I live in Modoc now, but my family's still an amador. So, I come and visit a lot. Um, so I have a very local tie to these two counties, but so if you're ever working in those counties, I know that's kind of a specific place. Uh. My Approach changes, so if I'm doing Statewide, I just say, we're California based and usually. People will be like, oh, perfect. We're also in California, or they'll say, oh, really, where are you? And then, you say, oh, we're based out of Pine Grove, California, and they'll either not know where that is and move on, or they'll be like, oh, my uncle lives there. I visited that and went camping there as a kid or something. Um. And in terms of approaches.
+36:08 Joel Limberant: The standard approach, which is what I sent you, is typically calling them, telling them where you found them, so they're not creeped out because I notice if you don't tell them they're kind of like, how'd you get this number? Uh, be be, like, hey, we found you on Google Maps. You didn't seem to have a website, so I figured I'd give you a call. Um, and then you just explain to them who you are. My name is Joel from jump web design.
+36:30 Joel Limberant: Um, I'm just calling to see if you're interested in some of the services we offer to small businesses. We charge 48 a month, and that covers everything we need for websites. There's no upfront cost. That's a big selling point. A lot of these small companies don't have a lot of.
+36:46 Kenzo Stevens: So, you just, you just drop the price immediately, basically.
+36:49 Joel Limberant: Yeah, yeah, the price is a big selling point, and I'd say the big selling point of the price is emphasize that it's a small monthly fee of 48, instead of like. A big upfront cost, because that's the other problem, too, is a lot of times these small companies will go. Um, like I know in in Amador, there's one other guy who does websites, and he charges like a thousand dollars website, which is reasonable for the type of websites he does, but a lot of the small businesses here who have contacted him have been discouraged by that, they call him and they're, like, hey, how much for a website? He's like a thousand bucks, and they're like, we don't have that. You know, we, I do this part time or something like that. Um.
+37:28 Joel Limberant: So, it's. It's a big selling point to not have an upfront cost.
+37:33 Kenzo Stevens: Gotcha. Gotcha. Okay, so? Okay, I guess, um, that's pretty much it for the target market. I mean, the remaining questions is like, what makes a lead, obviously, worth calling. What makes the lead, obviously not worth calling, and I guess that already answered the question?
+37:52 Joel Limberant: Yeah, well, and then with that, too. It's harder to tell, um, sometimes when you're just looking at the phone number or at the name. How large of a business it is? Um, so, and there will be times where you call a business, and you think it's a target audience. And it's like a big Corporation, you're like, oh, I didn't. I didn't know about the dog grooming United Corporation that you guys have a thousand locations. I'm sorry.
+38:17 Joel Limberant: Um, but you know, I, I found?
+38:20 Kenzo Stevens: So, that's, that's something that we can filter. Um, with my process, when?
+38:23 Joel Limberant: Oh, is it? All right, that's perfect.
+38:26 Kenzo Stevens: Yeah, so? We can remove all the big corporations and just focus on the small businesses. And that's actually the cool thing about codex. Also, his biggest, like? Codex can actually check manually one by one, the websites, whether it's working
+38:40 Joel Limberant: Yeah.
+38:41 Kenzo Stevens: or if it's just the if it's just a Facebook link, or like a social media link.
+38:46 Joel Limberant: Yeah, I. I'm excited to see how versatile codex is, because, like I said, I've experimented with a lot of different software. Um, that has to do with Google Maps scraping, and it was none of it was as complex as codex, with the ability to do that so.
+39:00 Kenzo Stevens: Yeah, just to be clear though, um, I'm using both codecs and Claude. The thing is, you don't need to.
+39:06 Joel Limberant: Okay.
+39:08 Kenzo Stevens: Um, give me a subscription, at least for now. While I have this hack, it's not a hack. It's like, it's a bug. So, basically, what happened? Is that the cool
+39:16 Joel Limberant: Yeah.
+39:17 Kenzo Stevens: thing with codex is? I mean, Claude, is that? I'm paying for a 20 subscription, but then one time, like. A few months ago, they gave like free credits, right? Basically, API credits.
+39:29 Joel Limberant: Okay.
+39:33 Kenzo Stevens: They exhausted, like those free credits. And then what happened? Is that there's like a bug with instead of like it being zero? It's like, minus. What's -16?
+39:46 Joel Limberant: Yeah.
+39:47 Kenzo Stevens: And then, what happened is that I kept typing? I thought holy s***, like, why is it working? I thought I ran out of credits, and it just keeps adding and adding. And now, like, we're exactly.
+39:56 Joel Limberant: Uh.
+39:58 Kenzo Stevens: Uh, my current, my current balance on my cloud account is that I have. -364 and?
+40:07 Joel Limberant: So they forgot to set it to rebound at zero, and just that's so funny.
+40:10 Kenzo Stevens: Yeah, it's like. Yeah, like, last month, I spent six thousand dollars of API credits. So, like it's basically a limited, but?
+40:22 Joel Limberant: That's so funny.
+40:23 Kenzo Stevens: But the thing is right now, I think they've found like a fix where I cannot use the. And do you call this again? The the the bug. If I start giving me a chat?
+40:34 Joel Limberant: Uh.
+40:36 Kenzo Stevens: But the thing is, I have, like, my old conversations where I can just Fork the conversation and continue the chat there. So, it's.
+40:44 Joel Limberant: Oh my goodness.
+40:45 Kenzo Stevens: So, there's still there's no way around. They actually fix this bug, like two
+40:46 Joel Limberant: So, you just go from there. Yeah, so we'll see how long that one stays.
+40:50 Kenzo Stevens: days ago, but then I found another. Yeah, so we can take advantage of this bug for now. And like, lots of leads, but
+40:58 Joel Limberant: Yeah.
+41:00 Kenzo Stevens: for for codex, which is, like, my favorite, um?
+41:00 Joel Limberant: Yeah.
+41:05 Kenzo Stevens: Because the gbd 5.6 is just a lot better in my compared to, um, the newly released models from and throwback or Claude. I am only subscribed with Chad, GPT, or codex for 20 and sometimes, um. I could exhaust all my credits in just like a day so.
+41:24 Joel Limberant: Yeah.
+41:25 Kenzo Stevens: If in case let's say, for example, the bug no longer works on Claude, we probably need you know a subscription that's going to cover the? The scraping.
+41:37 Joel Limberant: Well, and that's that. That's probably going to be fine, especially if it lasts a little bit longer. Um, you know, and maybe we can get some more clients and up the budget for tools from that, you know? Um. But.
+41:54 Kenzo Stevens: Yeah, so, yeah, for now. I don't think that's going to be a problem. I can just, um, abuse this bug.
+42:02 Joel Limberant: Yeah, take as much as you can from it.
+42:05 Kenzo Stevens: Yeah.
+42:05 Joel Limberant: Um and. So well. And then, like, again. I don't know if we talked about it on the interview, but kind of the position the company is in right now is I started it two years ago, and initially I was focusing on like more the standard website, um. Thing, you know, you charge them up front. They pay you. I think I was charging like 300 bucks, a website, and then they'd pay me a little bit of money every month, so I don't lose on the hosting right. And I was, like, man.
+42:36 Joel Limberant: This is not a good way to do it, and there's a lot of competition, so I switched to. The what I'm doing now, which is where you charge the 48 a month. And it's more like, like, a business approach. And I found businesses really like that, like the partnership approach. And as I continue to doing that, I just kept adding. Stuff to what we offered, and in addition to adding what we offered. I just kept adding the price, and businesses were, like, oh yeah, you know, 400 a month, and it covers all of this. So then we only had a few clients, but then we were making good money from these large businesses. And, and then we had a bunch of the like a few of the 48 that supported that.
+43:18 Joel Limberant: Um, and then I told you like what happened. Like, uh, one of our one went out of business. One of our clients actually had a heart attack, and um, the amount of work I was doing was too much for it to be scalable. Like to have a bunch of these high ticket customers? Um, so then we we hit that. We had the big hit in the income because I was not Diversified, and now that's why I've gone to really going hard with the 48 and
+43:46 Joel Limberant: diversifying, and I tell you that because the point I'm making is we as we get more clients budgets go up for for tools, and you're obviously every 25 clients. I think it was, you get a 10 raise and. Um.
+44:02 Kenzo Stevens: Okay.
+44:02 Joel Limberant: That's kind of that's kind of the goal. I'm setting here to climb back up to where we were, but instead of having one person or two people be paying big
+44:12 Joel Limberant: bills for a lot of things. We just stack as many of these smaller 48 a month ones as possible. That way, when something inevitably happens, that's unrelated to us. We have a. A lot of companies holding us up. Um. And so I apologize for the budget restraints right now, but
+44:32 Kenzo Stevens: It's fine. It's fine.
+44:33 Joel Limberant: You know, that's just kind of. It's what we're working with until we get grown again.
+44:40 Kenzo Stevens: Yeah, I mean, it's fine. I mean, we got, we got tools. Anyway, we got the bugs
+44:40 Joel Limberant: Yeah, yeah, yeah, so?
+44:45 Kenzo Stevens: and stuff.
+44:49 Joel Limberant: Um, and then like the 48, that was a really good business plan. I just got impatient, you know? I just was like, this is faster.
+44:56 Kenzo Stevens: Yeah.
+44:57 Joel Limberant: Um, so?
+44:58 Kenzo Stevens: What are you using templates? Basically, do you like code?
+45:02 Joel Limberant: Um, so I use like a web Builder so typically. Like, I said, it's mostly the
+45:02 Kenzo Stevens: I see.
+45:07 Joel Limberant: design, so I have. A GPT trained on Chachi PT's API, and I use that for consistent looking illustrations, so that's kind of how we can have all the illustrations look the same and look drawn by the same person, basically, and then for the websites. I have a couple templates that are not like, they're just like I'll take previous existing websites and then. That I've done, and I'll be like, okay, this. This is a similar thing that they want, and then we'll kind of rework it to work with this new customer. Um. So, and then we just do that.
+45:44 Joel Limberant: And a web editor, you know, I'm not doing anything with custom coding just because? Like, I did a little bit with coding early on, but it's a lot slower, and it's a lot more complex. Especially for the type of websites we're making. They're again just super simple landing page. Scroll through sites. Um. It's just so much faster. Be able to drag and drop stuff. And you know what I mean?
+46:09 Kenzo Stevens: Yeah, so I'm looking at the Rick's grooming right now. This is, it's basically
+46:11 Joel Limberant: So?
+46:15 Kenzo Stevens: just so that. When they visit the website, they just give a call like that's the main thing.
+46:22 Joel Limberant: Exactly so, and what I tell my clients is, I start with a call button, or sometimes they don't want calls. You'll put like an email button there or something, and then you put the information about their website under that. And then again, all the websites always end on. Another way to contact you, either another call link, or I often do like email forms, kind of switch it up. Some people call some people email.
+46:45 Joel Limberant: And so I call that, uh, the contact funnel or the contact sandwich are kind of the two terms they use with clients where I explained to them what will happen is. People will be looking at like, for example, Rick's dog grooming. Let's say you live. He's based out of Brentwood now. Uh, let's say you live in Brentwood and you have a dog that you want groomed, so you go online and you go on Google Maps, and you type in dog groomer near me.
+47:10 Joel Limberant: Well, it's going to give you a list of like 15 dog groomers, and you don't want to be the one guy that just has his phone number. So, then, that's the purpose of the website, or with Yelp or just, you know, SEO. Somebody typing it in near me and they click it. Well, now they have all these other websites they're comparing to yours. So, you wanna you wanna give them the ability to call you immediately? Um, if they're already sold on you, or you give them information. So, they're like, I'm not quite ready to call. I want to learn more, they scroll down. They learn more. They see what you specialize in, oh. He specializes in small dogs.
+47:45 Joel Limberant: Oh, he doesn't use cages. I hate when they put my dog in a cage, and they're like, okay, I'm feeling pretty confident as to the type of business this is, and then they end up on another form of contact. And they're, like, okay, I'm at the end of the website. I'm going to send this guy an email. That's kind of the the I know it doesn't work that way with every client, but that's kind of the thought process behind. The layout, and that's what I tell clients.
+48:08 Kenzo Stevens: So, so immediately, the the first payment that they're going to? Uh, pays like 48 dollars. That's it immediately.
+48:16 Joel Limberant: Yeah, well, so.
+48:17 Kenzo Stevens: No phase or.
+48:18 Joel Limberant: Typically typically the way it works is. Let's say you call someone they're interested. You're going to schedule a meeting with me, and you'll say, let me schedule with our web designer. He'll talk you through the technical details. On that meeting with them. I'll talk them through what the website would look like, blah, blah, blah. And so, then, I'll say, give me a few days. Let me get you a very rough draft, and then I'll go on the template and I'll swap in some of their information, or I'll start a new site if they want something weird, and I'll get them very roughed. Draft of just kind of the feel of what the website looks like, and I'll send that to them and have another meeting. I'll say, this is what it looks like, here's what I can do from here. If you're interested, I'm going to go ahead and send you the payment, and that's from there. We can launch it.
+49:05 Joel Limberant: Um. And then. So, after they get their draft, if they approve it, then I'll send them the payment they pay. I finish the site and launch it and then usually. From there, it's not much, you know, like nothing else has to happen. Aside from occasional edits.
+49:20 Kenzo Stevens: Okay.
+49:20 Joel Limberant: Um, and the reason I do that.
+49:21 Kenzo Stevens: So, so?
+49:23 Joel Limberant: Uh, the the reason I do that is because we're doing phone sales, and we don't
+49:27 Kenzo Stevens: Yeah.
+49:27 Joel Limberant: have any built-in trust with them. They don't know who we are, so it's just I've noticed. It's kind of a lot to be like, okay, I called you on the phone now, give me money, you know. So, I kind of show them what they're getting before, but obviously don't give them everything. So, they have a reason to pay.
+49:43 Kenzo Stevens: Okay. So, there's no, really, like a proper onboarding process because you're going to show them first the draft, right?
+49:51 Joel Limberant: That's correct. So. Really. The big thing for your job is scheduling appointments, and again, if you. Give them technical details to a point where you get comfortable enough, because again, these are really simple websites. I have no doubt you'll get the gist of it very fast. Um, but the primary thing is scheduling a meeting with the web designer, which is me, and then I walk them through what it's going to look like, and once they're happy with the draft they have, they just go ahead and pay for it.
+50:20 Joel Limberant: Um, and we can get away with doing that, because again, there's such simple websites. I can throw one of these drafts up in a few hours. Um. And then.
+50:29 Kenzo Stevens: Like, you're going to say, give, uh, give me a few days, but then you're just gonna show them the next day or something.
+50:36 Joel Limberant: Yeah, I I sometimes I get stuff stacked, so I'll usually say you'll hear back from me between one and three. Business days, and um, if I have a lot of a lot of drafts, I'm going through. Then, sometimes it can take more or something happens. You know what I mean? So, I like to give myself that time, but oftentimes, it'll only be like a day. Um, turn around.
+50:55 Kenzo Stevens: So, so when I, when I offer them an appointment, I just tell, like, I hop on a 15-minute call with my designer or something like that.
+51:03 Joel Limberant: Mm-Hmm, exactly. Just say, hey, you know, if you're interested, we can get you. A consultation is the word we use with the the web designer, and he'll walk you through what it'll look like, and all the technicalities of the site, and he'll also make you a draft. And if you don't like the draft, no worries. If you like the draft, then you can go ahead and. Pay, and you know, get the site launched from there.
+51:26 Kenzo Stevens: And what happens when they subscribe? Like, how do they subscribe? Is it?
+51:29 Joel Limberant: I sent them, um. I send them a link, and they put in their information, and then it just works like a Netflix subscription is what I tell them so. I'm like, think of it like a Netflix subscription. You put your information in, and then every month it just charges your card once once a month, and if at any point you ever want to cancel, just send me a text or an email, because again. Um, it's a very personal business model, so. We can kind of get away with being like sex movies.
+51:54 Kenzo Stevens: So when they can see what happens like? What happens?
+51:58 Joel Limberant: Uh. I'll just go on there and I'll cancel the charge and I'll take their site down. Um, and that'll be kind of that, and then.
+52:04 Kenzo Stevens: Okay.
+52:07 Joel Limberant: We do also offer.
+52:10 Kenzo Stevens: There's not a lot of people who cancels on this $14 subscription, right? I mean, it's pretty.
+52:15 Joel Limberant: Typically, no, you know? I don't think I've ever had anyone cancel a 48 subscription, and I've been running. I've been running the 48 subscriptions for two years, so it's just like. It's one of those things with these this style of businesses we're targeting. They, like, I said they get stuck in their day-to-day. And you know, even though we even offer a lot of edits and revisions and stuff, they just forget about it. And you know, it serves them really well.
+52:40 Kenzo Stevens: It's pretty much at that point. It's pretty much passive income at that point.
+52:46 Joel Limberant: Exactly, and that's kind of like the trade-off. I'm doing a lot of work for basically nothing up front, you know. I, these websites take probably five to ten hours per site, depending on how custom it is, and that's mostly just the illustrations honestly and tweaking everything. Look just right. Um. In, I'm doing that and taking the risk that the next month they could cancel. And I did all of that for like, effectively, 40, 48, you know?
+53:14 Kenzo Stevens: Yeah.
+53:15 Joel Limberant: Um. But oftentimes, they don't cancel. I've never had anyone cancel and what happens more often is, they just don't pay after the draft. They say, oh, this is perfect. I'll get back to you, and then they just never sign up. Like I, I've had multiple people, uh? Back when I used to charge up front where they would pay for the website, they'd give me like $300. And the website would be done, and then they would just never launch it. I have, like, like, three or four sites, that that's happened with.
+53:45 Joel Limberant: Um, so that does happen occasionally, but typically once they pay and it's all launched. You know it, just it. It's passive income. You don't have to worry about it. Sometimes I'll get emails, and they'll be like, can you make it Christmas themed? You may stop red and white, you know what I mean? And then you do that, or they'll be like, oh, like, the tea shop. For example, I would get events from them. They'd be like, hey, we're doing a sip and paint event where we're gonna drink, tea, and paint. Can you put a banner up on the website? Um. But.
+54:15 Kenzo Stevens: Okay, and like, is it mostly just one? One pager or something?
+54:21 Joel Limberant: Yeah, so typically on a technical side, I do all of the websites as one pagers with, um, I can imitate multi-page websites by putting section blocks or section breaks in, so it's like you scroll down and then you can hit a button. It would take you to what looks like another page, but it's all just being hosted on one page. Um, but typically I don't like clients don't really care and.
+54:44 Joel Limberant: So, I typically tell them just like use words like simple or Psy, or like a landing page. And if they need more complex sites. I can give them multi-page sites if they really need it, but I've I've yet to find a client in this Niche that really needs. Multiple Pages for their dog grooming business. For example, you know? And the other thing I noticed as well is these people typically. Like, I said, they get caught up in their day-to-day. They want to give you as little information as possible. So, even if they want multiple Pages, they don't have multiple pages of information to give me. Usually, they'll just, you know, they'll give me their hours and.
+55:26 Joel Limberant: Where they're located and how much they charge. And then I basically just kind of have to use Ai and copyright all the rest of the information to make it look good. Um. So?
+55:38 Kenzo Stevens: Okay.
+55:40 Joel Limberant: If somebody asks, say, um? Just say it's a simpler site. We can do multiple pages, but you know, it really comes out to the layout that you choose with the web designer or something along those lines.
+55:53 Kenzo Stevens: Yeah.
+55:53 Joel Limberant: Um.
+55:55 Kenzo Stevens: I mean, I'm just going like going through these questions pretty much answered.
+55:58 Joel Limberant: Yeah, and if you need to back up on something, I know this is kind of an information dump.
+56:02 Kenzo Stevens: Yeah, well, like, wait. So, what do you current? What do your current clients
+56:03 Joel Limberant: So?
+56:08 Kenzo Stevens: value most or the answer? What do people? Jews over Wicks Squarespace. It's already answered.
+56:15 Joel Limberant: Yep.
+56:15 Kenzo Stevens: Plus objections. Um, what objections come up most often?
+56:20 Joel Limberant: Word of Mouth we get, uh, that's probably the most common ejection you'll call someone. And he says, I get all my clients Word of Mouth. I don't need a website. I've been doing this 20 years, and um. The best answer to that objection is if he's he or she is very. Abrasive about it. Sometimes you'll get people who just straight up. They don't like the idea of a website.
+56:42 Joel Limberant: Um, in which case don't waste your time, just say, okay, no worries, sir. If you ever change your mind, you can contact us. This is what we cost and move on if he says it in kind of like a more Curious way, or you feel you want to push the sale the best. The best comeback to that objection, I've I've had, is explaining to them that you don't need a website specifically for sales. Sometimes, I'll say, like, go back to the dog groomer example.
+57:07 Joel Limberant: Um, websites are great for reoccurring customers or customers that are coming in with Word of Mouth. You can schedule a calendar on there, and your existing clients can see when you're free, and they don't have to. Call you and your phone's not constantly getting blown up, asking when you're free and when you're not. You can just send them the website link, you know, it doesn't have to be a sales tool. It's typically, you know, you kind of redirect them. Um.
+57:33 Joel Limberant: So? That would be the most common objection, and then other objections, or, you know? Don't have enough money for a website or? Objection you'll occasionally get is a pushback on the 48 dollars, and they'll say. Um, Wix is 15 a month. I don't need to, like, why am I paying 48 dollars? And, um? The best way to push back on that objection is to break it down with them, say when Wix says it's $15 a month. That's specifically for the Wix platform and hosting. You're still having to pay for domain out of. You're still having to pay for a domain elsewhere, and you're still having to pay for, um.
+58:13 Joel Limberant: You know, the hosting, sometimes elsewhere, or you have to package? That's the basic deal, you know, what? I mean, you break down the cost because? Uh, we're actually not that much more expensive than you know. Like, Wix or Squarespace, it's just they cut their prices up, and we lump everything together. Um, and then also they're paying for the labor of me checking the site every month and doing updates. So there's obviously going to be like, maybe an extra ten dollars there.
+58:41 Joel Limberant: But if you go to these websites, they're not actually that much cheaper than us and wear hands-off solution.
+58:48 Kenzo Stevens: Okay, thanks, um. So, where do prospects usually lose interest?
+58:49 Joel Limberant: Um. They typically lose interest in. There's a couple areas. The most common is just in the development process, which is kind of out of your sphere, cuz you're doing calls, so the most common and calls they'll lose interest at the initial pitch. Um, you know, they'll they'll pick up the phone. They'll be like, oh, a customer. And then, it's a sales pitch. And they're, like, oh. Um.
+59:20 Joel Limberant: Or, they'll lose interest specifically when it comes down to money, you know they want. They want it free. They want it 10 bucks a month. Uh, they're not understanding. Why they're paying you 48 every month for a website? Um, those are kind of like the main areas, or they might just not be interested in the call. Like, what we're selling, which is fine, you just move on.
+59:42 Kenzo Stevens: Yeah, do you have any promises or claims that I should specifically avoid
+59:43 Joel Limberant: Um.
+59:47 Kenzo Stevens: making?
+59:49 Joel Limberant: Yes, uh, do not. Um, do not make claims that having the website will bring them more clients or get them more money. Um, because, like I said, we're design agency what we're selling them is ease of use, and we're selling them branding. We are not selling them a return on their investment. Uh, now I was typically with most of our clients. They have seen a good return. You know, websites help bring traffic in. We just don't want to make the claim that it will. Um. And we don't want to make the claim.
+01:00:23 Joel Limberant: Uh, just outright. Like, oh yeah, you're gonna make all that money. Back 48 is nothing. Once you get the website, you'll get a whole bunch more clients coming in. Um, you can hint at it, but don't make the over claim of that, because again, the primary thing we're selling is a design, not a sales marketing. You know?
+01:00:43 Kenzo Stevens: Like, do you have any like kind of customers that we should absolutely like? Should absolutely not buy. The service or something?
+01:00:53 Joel Limberant: Yeah, sometimes you'll get customers and you can tell they're not all there. And this happens a lot, and the detailing and handyman Services where you'll call them, and they like the sentences they're saying, don't make sense, or you know what they're, they'll commit something. And then, 10 seconds later, they'll say something completely different. You know, sometimes people talk a little goofy, so I wouldn't say you have to outright avoid them. But if you're calling someone and? They're making outlandish claims, or they're going on and on with crazy stories.
+01:01:25 Joel Limberant: A lot of times, I've I've experienced these types of customers, and they'll commit to a website they'll have things. Made. Maybe they'll even throw a little money, but ultimately it'll go nowhere, cuz there's there's, um. There's clients like that, where they're just not really all there, and they're just like, oh yeah, I'll take a website, and they just, you know, forget about it the next day.
+01:01:48 Kenzo Stevens: You have any testimonials or like example websites that we can show to the
+01:01:48 Joel Limberant: We do. We do have quite a bit of example websites. I can show you I could just
+01:01:53 Kenzo Stevens: clients or something.
+01:01:59 Joel Limberant: send you a bunch of our recent sites as a portfolio. Um, but I, I have struggled. I ask every client to leave me a rating. Uh, but for some reason, they just don't like, I think it's the type of industry again. They get so caught up in their day-to-day. They don't follow up with stuff. Um. So I haven't, had I? I've been having trouble getting on paper ratings. I get people they'll call, and they'll be like you did an amazing job. Thanks so much.
+01:02:25 Joel Limberant: Um, but I don't have a huge pool, and that's I've been trying to grow that of people giving formal ratings.
+01:02:31 Kenzo Stevens: I see.
+01:02:32 Joel Limberant: Um, so I would avoid being. Trying to quote someone word for word and just say, hey, we have example sites. If you want to see what they look like, especially if you're calling. An industry where we've that we've done before, and you have an example site in that industry, you can again with the dog groomers go. We have an example site. Let me just send you this this site we did for another Boomer.
+01:02:54 Kenzo Stevens: Do you have the list for the whole like 30 clients that you have or something?
+01:02:58 Joel Limberant: Uh, I can look at it. Some clients ask not to be used in sales, so I don't put them on the list. And then, sometimes, like, we have clients that. Initially start with websites and then move away from stuff, but I can send you a list of. Um of clients who who wanted to be used in that. Um, I have quite a few, maybe, like?
+01:03:20 Kenzo Stevens: Wait, I'm I'm curious, though, for dog groomers, what's the usual, um, average ticket size for this? No, I mean, for example, I'm just curious because, like.
+01:03:28 Joel Limberant: Uh. What do you mean with, like other web design companies, like what they're charging?
+01:03:36 Kenzo Stevens: You know, they're buying power. I mean, it's $48 cheap, but I'm curious, like,
+01:03:39 Joel Limberant: Exactly!
+01:03:43 Kenzo Stevens: do how much they charge. Further costumes.
+01:03:46 Joel Limberant: Oh, for their for their customers, uh, you know, they have. The pricing is all over the place because they have different machinery, and they do different things. Typically, for small dogs, I'd say they charge like 60 to 180 dollars. Um. You know, maybe some of the ones that are really cheap would be closer to 45 50 dollars, but uh. Typically, they're probably charging. About, you know, 50 bucks a dog for the, the more budget people. And then, like the the high-end salons that have all the the Machinery who charge a lot more. Um.
+01:04:23 Joel Limberant: But I can look it up, and again, it's different with every industry. Most of the industries that we work with if they got one client a month with us that would more than pay for their hosting bill. Um, but then you know, like, I'll go back to the tea shop or the clothing store. They're gonna need to sell a lot of tea to. Or, you know, they're gonna need to sell, like four or five pieces of clothing, to make back 50 bucks?
+01:04:46 Kenzo Stevens: Do you have any call recordings like of yourself or like, from your past
+01:04:47 Joel Limberant: That would be really useful if I did.
+01:04:52 Kenzo Stevens: contract contractors that I can use as a reference? Okay, it looks fine, but if if you do have it like, that would be helpful, but
+01:04:58 Joel Limberant: I don't think I do. I can look. Um, but like I said, I just had everything done through notes, so I didn't really bother with saving recordings or having recordings. I would just have people note take.
+01:05:15 Kenzo Stevens: if not.
+01:05:16 Joel Limberant: Yeah, I'll scroll through my files. I might have one. Uh, there's a stowaway, but I don't know. That would be really useful. I'm sorry, I don't have those.
+01:05:25 Kenzo Stevens: And it's fine. I mean, you already gave me the script. I think that's more than enough. It's, it's just a bonus. If you have the recording, that's a good bonus.
+01:05:33 Joel Limberant: Yeah, you could get a good feel.
+01:05:35 Kenzo Stevens: Yeah. So, so what I'm planning to do about the scraping is that, um, for now, I'm not gonna scrape the whole thing, like the whole California just yet. What I'm planning to do is like, just do a test scrape, maybe like test, like scrape 50
+01:05:47 Joel Limberant: Yeah.
+01:05:51 Kenzo Stevens: or something, then I'll show you the quality of it. We can review it together, and if it's like, consistent, we can then scale it to, let's say, a thousand leads or something.
+01:06:00 Joel Limberant: Yeah.
+01:06:01 Kenzo Stevens: So, let's.
+01:06:02 Joel Limberant: Well, and speaking of, if you're compartmentalizing California. Um. One of the things that I've been experimenting with. I haven't used it in cold calls yet, but I've used it in some social media marketing, and I got a lot of responses, and I booked a few meetings from. I think I made one post. I got like 28 responses and three meetings booked from this. This one post, and basically what I said is, instead of saying. Um.
+01:06:31 Joel Limberant: Oh, we do it for $48 a month. No upfront cost. You can think of us, like a business model, or like a business partner. What I actually said is, I told the small businesses that I was offering that I was waiving The Upfront cost of our websites. In exchange for allowing us to use them when selling bigger, higher ticket.
+01:06:52 Joel Limberant: Uh, clients, and basically said, hey. For example. Um. I told you I have a lot of clients in San Joaquin, so I put a post on the local like the next door app, and I think I did a Facebook post maybe, too, and I said. Um, you know, we're web design company and the majority of our clients are based in San Joaquin County. We're looking to expand into Amador County and are looking for small businesses who are willing to have a website developed by us in order to boost our Amador County portfolio will waive any upfront fees. It would just be the 48 a month. Um.
+01:07:28 Joel Limberant: And when you, when you frame it like that, and people hear free. You get a lot more responses, but I've been kind of experimenting with it, because at the same time you get people who want stuff for free and? You know?
+01:07:40 Kenzo Stevens: Okay.
+01:07:41 Joel Limberant: Uh, but the reason I tell you, that is, if you're wanting to go County by county. For example, you could also try calling businesses and giving a pitch similar to that. I mean, I could give you a more refined version. But that pitch is like, you know, it's like a little bit of a white lie, because we're not really targeting bigger businesses. And we don't really have upfront costs, but it's also.
+01:08:05 Joel Limberant: We're not lying about any pricing you know. Like, they're paying the same amount so?
+01:08:10 Kenzo Stevens: I mean, when I start scraping, I don't need the emails, right?
+01:08:14 Joel Limberant: You don't need emails, no?
+01:08:15 Kenzo Stevens: Yeah, cool.
+01:08:16 Joel Limberant: Just phone numbers. Um.
+01:08:19 Kenzo Stevens: Okay.
+01:08:19 Joel Limberant: So, but I did want to mention that in case you wanted to maybe experiment with that, that pitch a little bit because I had good results in a few posts I did. You know, I don't know how Mountain will convert to cold calling, or if the results were just because I use the word free. Um. But aside from that, do you have any more questions?
+01:08:48 Kenzo Stevens: Um. Yeah, kpis, I guess. So, so, okay. So, the questions here is, like, what does one? What does weak one look like to you? Well, what do you expect me to achieve?
+01:09:03 Joel Limberant: Yeah, so if we're talking about, like, just day-to-day? Um, you clock in 10 o'clock, and then I'd say, uh, get all your leads and everything together. Um, and then I'd say, just start calling and call for you. Can, you can do blocks of two hours or four hours. Just get it all over with. Um, I'd say. I don't know. I don't know how many calls you should be hitting. Um, in terms of a 4-hour block with a speed dialer.
+01:09:34 Joel Limberant: Um, but?
+01:09:34 Kenzo Stevens: Yeah, so, so, with the contractors you're working with, they're like, do you have an idea how much calls they're making?
+01:09:43 Joel Limberant: Uh, I usually pay them in bulk calls, and they'll just kind of do it whenever they have time, cuz they're managing other clients as well, typically. Um, I'll give them a bulk of 100 to like 500 at a time, or just be like, call these companies. Um, but I would say when I was doing the cold calling, and I did also work with some commission-based people who were on the team, and they were just calling for commission back when I had the upfront cost. It was worth doing that because they could make a couple hundred bucks per sale. Typically. I was happy if they hit 50 calls in the day. Um, and that that was.
+01:10:20 Kenzo Stevens: It was a date. And that that 50 calls is like, are you saying that's 50 conversations or 50 dials?
+01:10:27 Joel Limberant: 50 dials, but they weren't using a speed dialer. And, uh, that was, I'd say that
+01:10:28 Kenzo Stevens: Okay.
+01:10:33 Joel Limberant: was a four to six hour window with brakes and lunch, you know, what? I mean, it was a very informal setting.
+01:10:40 Kenzo Stevens: I mean 100 dials is really easy to do so.
+01:10:40 Joel Limberant: Um. Yeah, and that's what I was gonna say with the speed dialer. That's what changes it, you know, because when we were when I was doing commission. I would have I hired some local friends who lived in the area, and we all met. And we sat down at a table, and we basically just. All called, like a little call center. Um, and whoever got a sale got the commission and we didn't have a speed dialer,
+01:11:02 Kenzo Stevens: Yeah.
+01:11:06 Joel Limberant: because again, this was like, really. Early in the business. I didn't know what I was doing at all on sales. Um, and so we were hitting about 50 coles a day. Three four hours of pure working, so I imagine it would be a lot faster with a pre-lead list than a speed dialer.
+01:11:22 Kenzo Stevens: Yeah, okay, so like? For the first month, like, do you have any? Goals or expectations that, like, by this first month. This is what we achieve.
+01:11:33 Joel Limberant: Yeah, I'd like to see. I'm gonna I'm gonna measure things. There's there's multiple metrics in which things are being measured because I understand that you could put a lot of work in, and if the pitch is bad, like on my hat, like what we're offering is bad, you're not going to get clients. Um. That's just how it is like. If you call someone and offer them a pencil for $2,000.
+01:11:54 Joel Limberant: You know, you're not going to get any clients, so I, I have kind of like the
+01:11:55 Kenzo Stevens: Yeah.
+01:11:58 Joel Limberant: main metric as mostly just how many calls you're making, how well you're note-taking. The reviews. Um, just kind of gauging how well of a job you're doing from, and when I say that just how much work you're putting in. And if you're doing what's expected, like I said, I would probably say 75 calls, would I would be happy with that? 100 would be amazing if you're doing less than 50. I'd be a little concerned, uh, per day. And then there's the next level of that that I want to see meetings
+01:12:26 Kenzo Stevens: Yeah.
+01:12:28 Joel Limberant: booked, because if we're if we're calling, you know, if you're having 100 conversations over the course of three days, for example. Maybe you won't have a meeting booked in that. You probably should have one meeting for every 100 conversations. Um, but you know if we're getting into 300 conversations, 400 conversations, and still no meetings booked? There's something there's something happening there because, like, statistically
+01:12:52 Kenzo Stevens: Means when it comes to when it comes to basically cold calling.
+01:12:53 Joel Limberant: that should not be happening. Um, and then.
+01:13:00 Kenzo Stevens: Um. What they call the the numbers? Usually what the industry standard is that, like every 200, calls you book a meeting so?
+01:13:10 Joel Limberant: Yeah, well, and that's about what we were averaging, um.
+01:13:11 Kenzo Stevens: Yeah.
+01:13:15 Joel Limberant: On, we would get about. We would get one meeting every 50 to 100 calls typically. So, um? And then it just kind of depend on the industry. More appearance of Industries would be one every 100. Less apprehensive would be one every 50. But typically with the contractors. If I sent them 100 numbers more times than not, they would come back with at least one or two meetings. Um, but again.
+01:13:43 Joel Limberant: Those meetings sometimes would go places. Sometimes they weren't, which is why I don't want to measure you on sales metrics. I would really like to see at least one or two sales per month. Um, just out of the volume of calls you're doing. I feel like we should close at least one or two.
+01:13:56 Kenzo Stevens: Yeah.
+01:13:56 Joel Limberant: Um, but again, that's not tied to you. If people schedule meetings and then they don't want to pay, that's not your fault.
+01:14:02 Kenzo Stevens: Yeah.
+01:14:02 Joel Limberant: Um. So?
+01:14:06 Kenzo Stevens: Okay.
+01:14:06 Joel Limberant: I don't know if I did a good job answering your question.
+01:14:09 Kenzo Stevens: Yeah, I mean, it's. It's giving me a lot of clarity. Yeah, there's no whiteness.
+01:14:12 Joel Limberant: Yeah, um. But basically, if you're asking what I'm looking for to make sure that you're performing, and I'm not like gonna fire you, it's. I want to make sure I want to see consistent calls being made with some form of notation and some form of summary, you know, like the notes don't have to be very complex at all. They
+01:14:33 Joel Limberant: can literally, just be. Vm vmvm interested, not interested. Vmbm, you know what I mean? And then at the end you go. Oh, I had one person interested. This was his name.
+01:14:39 Kenzo Stevens: Yeah.
+01:14:43 Joel Limberant: This is what he does. This is what he said, but he doesn't want to schedule a meeting, you know, and then.
+01:14:47 Kenzo Stevens: I guess that's. That's one thing that I'm also that I also forgot was this, which is the what's the dialer again? Is it? Teleblast, yeah. Whether it has like this positions because?
+01:14:59 Joel Limberant: Yeah.
+01:15:02 Kenzo Stevens: With guy level, um? I can have like 10 10 dispositions, right, and?
+01:15:07 Joel Limberant: Okay.
+01:15:08 Kenzo Stevens: For example, inside goai level, you can add the notes in there per lead, so you're you're not like, you're not gonna need a separate notes.
+01:15:16 Joel Limberant: Yeah, well, and that's the thing. Typically, I have a I have just a Google spreadsheet that I typically have. People use when they're when they're doing it, but that could slow work flow down.
+01:15:27 Kenzo Stevens: Yeah, yeah, cuz that's the convenience about, like Auto dialers usually. Um, or let's say, for example, mobile is that the leads the lead information. Is there
+01:15:34 Joel Limberant: Yeah.
+01:15:38 Kenzo Stevens: all the information that you usually have from the CSV? Um, is on your screen for lead, and then you can write down notes, the
+01:15:44 Joel Limberant: Yeah.
+01:15:46 Kenzo Stevens: conversation, or the chat, the call recordings, or the in front of your screen per lead, so.
+01:15:51 Joel Limberant: Yeah, well, and then if that's the case too. If we're having trouble with with that, um? Like, I said, I just want it to be some for some form of notation. So, if
+01:16:01 Kenzo Stevens: Yeah.
+01:16:02 Joel Limberant: you're, if you're doing 100 calls and we have some way to prove that you've gone through those hundred calls. I don't like you, you could just leave notation on the ones where you actually had meaningful conversations.
+01:16:11 Kenzo Stevens: I mean, hopefully. Um, hopefully, teleblast has like the stats like count. So
+01:16:14 Joel Limberant: Yeah, hopefully we.
+01:16:18 Kenzo Stevens: many calls you have, because that goal level has it so I could just send you a screenshot.
+01:16:23 Joel Limberant: Yeah, yeah.
+01:16:24 Kenzo Stevens: With a report.
+01:16:25 Joel Limberant: Yeah, and then, well, and then you're. You'd also give the the daily summary,
+01:16:30 Joel Limberant: just which again doesn't have to be long. Just say, I call this many people today. No one was interested. One person was interested. Here's what they said, you know, it should take, like two minutes.
+01:16:39 Kenzo Stevens: Yeah, makes sense.
+01:16:40 Joel Limberant: Um, and then I'd say probably for now. When you're starting, we could have meetings as. As much as you feel the need to discuss stuff, but then, as we get more established, maybe once a week meetings just to kind of once or twice a week just to kind of touch base and see what's going on. Because again. This is the experimenting phase. We're going to try different Industries. We're going to try different.
+01:17:06 Joel Limberant: Um, sales, pitches, and then we'll have meetings about it and be like, is this working? Is this not working, you know? Um and. Kind of figure out. The best plan to to get good clients here.
+01:17:21 Kenzo Stevens: Okay, cool. I guess that's pretty much, uh, all my questions about the company, um, or the offer. I want to ask about the the payment, so it's weekly, right?
+01:17:34 Joel Limberant: Uh, say, again.
+01:17:35 Kenzo Stevens: So so about the payment, the $500 per month. So that's 125 dollars per week and.
+01:17:41 Joel Limberant: Yep, I would just. Uh, I can. I can get a wise account and send you 125 a week there. Um.
+01:17:48 Kenzo Stevens: Every Friday Saturday, what's the? What's the?
+01:17:51 Joel Limberant: Every Friday. Would would probably be the best, because, um, we're not working weekends Friday, my time. Um. I mean, if you have a day that you really need, we could work that out. But
+01:18:02 Kenzo Stevens: Yeah, I mean, Friday's fine, that works. Yeah, and the com in the commissions.
+01:18:04 Joel Limberant: Yeah.
+01:18:09 Kenzo Stevens: Can you elaborate on the commissions I heard it's 10, right? Like, so, that's?
+01:18:15 Joel Limberant: Yeah, that's 10% of the initial 48, so it's not a monthly structure. It's just, uh, it's a bonus for scheduling more than expected, so I would say. In terms of, it's basically like, for the first two, that's the. That's the, uh, the target that you're trying to hit every month, so you don't earn commission on that. And if you get more than the target, it's kind of just view it as like a little bonus. It's like an extra hours pay basically. And it's 10 of the initial 48.
+01:18:45 Kenzo Stevens: Okay.
+01:18:45 Joel Limberant: So? Um.
+01:18:48 Kenzo Stevens: I'll go that one.
+01:18:49 Joel Limberant: That would be that'd be like at 480 for one, but. Um, you know, I can bump it up to. Be a little more than 10, so I would say five dollars. For every client, you schedule past two in one month.
+01:19:05 Kenzo Stevens: Okay.
+01:19:05 Joel Limberant: So, and the way that would work as well is typically sometimes clients take longer than one month to sign up. And we're doing this in monthly blocks. So, um? Let's say, in month one of the block, you scheduled six appointments or something like that, and of those six appointments over the next two months. Three of them ended up, uh, becoming paying clients, even though I'm not in the first month anymore. Those are considered first month clients, so then you would earn a five dollar bonus or commission off of that.
+01:19:38 Kenzo Stevens: Okay and?
+01:19:39 Joel Limberant: And then all three of those would go towards your 25 for the 10 raise.
+01:19:43 Kenzo Stevens: Okay, and just to be clear because? Um, as long as let's say, as long as I'm hitting my daily expectations, the reports and stuff, the number of dials. It's, it's still guaranteed. Like, let's say, for example, no matter what, like? For four months, I'm getting paid. It's like.
+01:20:01 Joel Limberant: Yes, exactly.
+01:20:03 Kenzo Stevens: Because, like, I mean, I'm not familiar with, you know, like the how many clients you usually close out along the sales so?
+01:20:09 Joel Limberant: Yeah, yeah, well, and so, and that's what I'm saying. We're for the next four months, as long as you're making, uh, expected calls. You're gonna get paid. And then we're gonna have a performance evaluation, both on your performance. And then, just also, how well the calls are working, and if people are are apt to them, and then we can kind of discuss I, I would really like to see you break break even for yourself within the next four months. Um.
+01:20:36 Kenzo Stevens: Yeah.
+01:20:37 Joel Limberant: Uh, now that's not to say if you don't, I'm gonna fire you if we're making good progress. Um, you know, we can kind of discuss, but I'd say this is the four months kind of starter period where we're going to fill it out. You know, unless I die, or we go bankrupt for some reason.
+01:20:52 Kenzo Stevens: Yeah.
+01:20:55 Joel Limberant: You know? So, and at that, 10 clients would be about what it would take to break even on what I'm spending on you. It would be. That would be about 2.6 clients a month, so it lines up pretty good with the two to three clients a month. Uh. Estimate that I'd be really happy to see, but again, you know it. This is where it kind of sucks a little part of the job where it's like.
+01:21:23 Joel Limberant: The calls are are on you. You have control over that, but who signs up is just kind of?
+01:21:27 Kenzo Stevens: Yeah, I guess that's why?
+01:21:28 Joel Limberant: You know what I mean if that's on me if my if my cell is good if what I'm
+01:21:32 Kenzo Stevens: Yeah.
+01:21:33 Joel Limberant: offline is good? So, but I have had success with this in the past, so I'm confident that.
+01:21:39 Kenzo Stevens: Yeah.
+01:21:39 Joel Limberant: Um. So, over the four months, I would be really, really happy if I saw. Like 10 to 15 sales.
+01:21:46 Kenzo Stevens: Yeah, yeah, because like that, that's my only concern. Like, I'm, I'm glad that
+01:21:48 Joel Limberant: Um.
+01:21:52 Kenzo Stevens: at least there's a base pay of like 500 per month because I've done. I've done some positions before, where it's like. Literally for 2 months. I've been calling, and there's no clients. And it's 100% commission, though. The ticket size is huge. For example.
+01:22:08 Joel Limberant: Yeah.
+01:22:09 Kenzo Stevens: Um, if I close a client, I could earn like, you know, like, a thousand dollars to two thousand dollars per close, but then?
+01:22:17 Joel Limberant: Yeah, exactly.
+01:22:18 Kenzo Stevens: Really, for 2 months, you you don't have any, so I'm waiting for your labor, and
+01:22:22 Joel Limberant: Yeah. Yeah, and.
+01:22:24 Kenzo Stevens: I don't earn any, like, losing sleeps or so. It's like total s*** absolute s***.
+01:22:27 Joel Limberant: Yeah. I eh, no, we did the I did the commission salesman thing at the beginning when we had bigger, you know, we're charging more up front, and it was so rough, like I, I couldn't do that to my salesman, but like, at the time, we didn't have the money to pay them base either, so it sucked because it was just like, you know, you call for two weeks, and you make a hundred dollars one, you know, one period, or 200 or something. But yeah, no, I definitely. We have the means to pay base pay right now.
+01:23:00 Joel Limberant: Um, so I, I'm, I wanna I wanna pay you for the work you're doing, you know?
+01:23:05 Kenzo Stevens: Yeah.
+01:23:06 Joel Limberant: So?
+01:23:08 Kenzo Stevens: Cool, so I guess that that's pretty much it unless you have more to talk about,
+01:23:09 Joel Limberant: Um.
+01:23:13 Kenzo Stevens: um. I mean, the the goal here is that, um? I'm thinking what I should do for the next day or so is create the leads, and
+01:23:25 Kenzo Stevens: then I'm going to maybe.
+01:23:26 Joel Limberant: Yeah.
+01:23:28 Kenzo Stevens: Like, customize the script to my own liking so.
+01:23:31 Joel Limberant: Yeah, yeah, and I was, I was just about to say that I would consider 10:00 a.m. Today being your face, your first paid period. And let. I'll get you. Let's just pay you on Friday. And then, for today. Focus on getting leads and then tomorrow. Hopefully I'll have. Everything set up more, and we can maybe have another meeting again at 10:00 and
+01:23:54 Joel Limberant: discuss actually getting the calls going. Um.
+01:23:57 Kenzo Stevens: Wait, wait. So, when are you expecting the the soonest that I start calling?
+01:24:02 Joel Limberant: The soonest would probably be tomorrow after the meeting if you feel comfortable. Um.
+01:24:09 Kenzo Stevens: Because because the thing is scraping usually takes, you know, some time, unless of course, let it run the whole night.
+01:24:14 Joel Limberant: Yeah.
+01:24:17 Kenzo Stevens: Like, for example, I I scrape.
+01:24:17 Joel Limberant: Yeah, well.
+01:24:21 Kenzo Stevens: The whole Texas?
+01:24:24 Joel Limberant: Uh.
+01:24:25 Kenzo Stevens: Four plumbers and that took like?
+01:24:26 Joel Limberant: Uh.
+01:24:29 Kenzo Stevens: That's like around 26 gay lines of Google Maps rows, but that's if if I?
+01:24:35 Joel Limberant: Yeah.
+01:24:37 Kenzo Stevens: Remove the duplicates, it's. Like around 9,000 businesses, and then like remove the bad ones and 7,000, and
+01:24:44 Joel Limberant: Yeah.
+01:24:46 Kenzo Stevens: then remove the bad leads. And then I'm left with 4,000 good leads. Um, that took like 2 to 3 days, so?
+01:24:52 Joel Limberant: Yeah. Well, and this is this is where it's kind of weird too. Because, like when I initially put the the? The job listing out. I wanted people to look through organically right, and I
+01:25:04 Kenzo Stevens: Yeah.
+01:25:05 Joel Limberant: was like, oh, it's, it's super simple because they call as they see it, and then they're just paid during that time. Like you're, you're both looking for leads and calling during the four hour period I'm paying you, and then with the scraping. I don't really know how that would fall in.
+01:25:19 Kenzo Stevens: So, so here's the thing, like, like, I'll I'll clarify it, because what happens,
+01:25:20 Joel Limberant: You know?
+01:25:24 Kenzo Stevens: is that like, I could genuinely like finish scraping tomorrow?
+01:25:28 Joel Limberant: Yeah, cuz you have to.
+01:25:29 Kenzo Stevens: But the quality will be s***. The reason why it took three days is because
+01:25:35 Joel Limberant: Yeah.
+01:25:35 Kenzo Stevens: there's a lot of like. Um. Like filtering, making sure that is, like, good. Um, checking every website and so on now. I could probably like, just go through, like, manually, um. Check Google Maps, and so on. But then, like, if you compare the? But because the amount of time you're spending. Doing it manually versus, let's say, spending two to three days scraping it and then the rest of the time will be like a breeze since there's another. You know, there's more. It's, it's Mo. It's much more rewarding to do that, so.
+01:26:17 Joel Limberant: Yeah, well, but the thing too is, um. Uh, I want to make sure that the scraping actually leads to more phone calls being made versus just organically looking through. Because if you're spending
+01:26:27 Kenzo Stevens: Yeah.
+01:26:29 Joel Limberant: three days filtering the scraping and making sure that you get a good leads list, and then that leaves you with two days to call. You know, like, how long is that list lasting? Are you actually?
+01:26:39 Kenzo Stevens: I don't think it's gonna happen. Like, probably, that would take me. Um, two weeks. If I scraped a lot, you know and.
+01:26:46 Joel Limberant: Okay, yeah, so, um, I mean, for now. Maybe we should just test the scraping. Can you search by, like County, and maybe just start with one County like? Like, I said, maybe San Joaquin. Amador is a pretty small County, so there's not a ton of businesses here. If you're doing one industry?
+01:27:03 Kenzo Stevens: Yeah.
+01:27:04 Joel Limberant: But you can, you can start with like? Just one County. Let's get a list. I don't know how many dog groomers there are in San Joaquin, so?
+01:27:13 Kenzo Stevens: Okay, so, so that's what I mean is.
+01:27:14 Joel Limberant: It's probably pretty small.
+01:27:16 Kenzo Stevens: For today, uh, and for tomorrow, we basically just focus on the scraping.
+01:27:22 Joel Limberant: Yeah, well. Yeah, we can do that, um. So, but then, if you're scraping such a small area, though, what I'm saying, like? There's not very many dog groomers in one County alone. Like, I would say, maybe there's probably 20 Max in San Joaquin?
+01:27:41 Kenzo Stevens: Mmm.
+01:27:42 Joel Limberant: So, then it's like, if you go by County, it probably wouldn't take a lot of time if you just want to get some practice calls in. Um, and that's what I'm saying. Like, we kind of have two options. We can do the practice calls and do like a really small section. Try teleblast out and view tomorrow's calls as kind of like training and filling out the software and
+01:28:01 Joel Limberant: figuring it out. Or we can just go all in with scraping. Spend two to three days scraping and then start calling and seeing how we like teleblast and things like
+01:28:10 Kenzo Stevens: Okay.
+01:28:10 Joel Limberant: that, um. So? It's, it's kind of that's up to you. I, I feel like, maybe it'd be better to do a couple calls tomorrow just to get a feel for the software. Uh, even if the even if they're not as good.
+01:28:27 Joel Limberant: Um.
+01:28:27 Kenzo Stevens: Okay, then maybe I'll scrape at least like 100 leads. Let's do that.
+01:28:31 Joel Limberant: Yeah, 100 would be a good pool to start with. Um, test out. So, and then, as for me, I'll get the, um, the Google number worked out, and teleblast set up, uh, by tomorrow, and we could just have another meeting on
+01:28:48 Joel Limberant: Google meet at 10.
+01:28:50 Kenzo Stevens: Okay, sounds good.
+01:28:51 Joel Limberant: So, um? Yeah, and then the other thing, too, is just. Like, I said, you're getting paid a fixed salary. And it, it can be broken down by the hour, but you don't have to worry about, like clocking in or clocking out like as long as you're putting. Four hours of good labor in. Um.
+01:29:08 Kenzo Stevens: Yeah.
+01:29:09 Joel Limberant: I'm happy, but then also don't feel like if you put five or six hours in in a day. I, we just don't have the extra money to throw into overtime right now, so I do want to warn you of that. Don't, don't be like, oh, I'm gonna.
+01:29:22 Kenzo Stevens: I guess to make things simple. To make things simple is just to hit the kpis, you know, like at least 104, something like that?
+01:29:26 Joel Limberant: Yeah. Well, whatever, whatever, how many calls it takes to do 4 hours to make things simple? I would just at 10 o'clock set a timer for four hours, and then when the timer goes off, you can clock out or finish whatever you're doing. Block out.
+01:29:38 Kenzo Stevens: Yeah, that makes sense.
+01:29:39 Joel Limberant: That would be the the simplest way to do it. So, but yeah, that seems like everything for now. And I also need to set up a wise account, I believe.
+01:29:52 Kenzo Stevens: Yeah, I mean, it's easy. You can pretty much get it done today.
+01:29:53 Joel Limberant: So, I should probably do that. Yeah, they shouldn't take long at all. So, um? Yeah, that's the and then the only other thing I do want to let you know. Is, um, like I mentioned, I'm I'm in Amador County right now, and I, I don't know how well, you know, California geography.
+01:30:13 Kenzo Stevens: How do you spell that amateur?
+01:30:15 Joel Limberant: Yeah, a, m, a, d, o, r.
+01:30:17 Kenzo Stevens: Okay.
+01:30:18 Joel Limberant: Specifically, Pine Grove, California. Is where I'm I'm calling you from, and when people ask it, that's where we're officially based from. Um, however, about a year ago, I bought some wooded property in Modoc, California, which is about 5 and 1/2 hours north of here.
+01:30:40 Kenzo Stevens: Modoc is an m o d o c.
+01:30:42 Joel Limberant: Yep, specifically, it's called California Pines.
+01:30:46 Kenzo Stevens: Okay.
+01:30:47 Joel Limberant: Um, and so I recently got married in April, and we were in the process of moving up there, and we're building a log cabin, so there will be times where I'm driving back and forth. Um, we come back to visit family, like once a month, or there will be times where sometimes. Um, you know, we have internet issues living in the forest. So, we're kind of getting that figured out right now.
+01:31:08 Kenzo Stevens: But how old are you right away?
+01:31:10 Joel Limberant: I'm 20 years old.
+01:31:12 Kenzo Stevens: Oh, okay.
+01:31:13 Joel Limberant: How old are you Kenzo?
+01:31:15 Kenzo Stevens: 23 at 24.
+01:31:16 Joel Limberant: Uh, so you're you're older than me, huh?
+01:31:18 Kenzo Stevens: Yeah.
+01:31:19 Joel Limberant: Yeah.
+01:31:20 Kenzo Stevens: I, I so sometimes I forget. I just turned 24, like I turned 24, like August too,
+01:31:23 Joel Limberant: Yeah.
+01:31:25 Kenzo Stevens: so.
+01:31:26 Joel Limberant: That's why I was funny. I was like, I'm getting all these, uh, these applications from, like 40-year-old people, and they're like, I have these degrees, and I've been in this industry for 20 years. I'm like, this is kind of weird. So, at least we're close to Shin age. Um, so, and that's where some of my inexperience comes from, too. I started the company when I was 18 years old out of high school and have been working on it for two years since so. You know, you'll have to be patient with me sometimes.
+01:31:56 Kenzo Stevens: Cool! Yeah, it's cool. It's cool. I'm just surprised that you're married at 20.
+01:32:01 Joel Limberant: Yeah. Yeah, yeah. So, we got married pretty young. I was engaged at 19 I, I just recently turned 20 so.
+01:32:10 Kenzo Stevens: Oh wow!
+01:32:13 Joel Limberant: Um.
+01:32:14 Kenzo Stevens: So, uh, is it your classmate, the, uh, your same age?
+01:32:19 Joel Limberant: Uh, she's she's a year and a half younger than me. So she was 18, and I was 19, and she's still 18, but she's going to turn 19 soon. So, we got married pretty young just for religious reasons. We're both Protestant Christians.
+01:32:34 Kenzo Stevens: I see.
+01:32:34 Joel Limberant: Um, I thought we wanted to move on with our life, so we got married. And you know, now, we're building our house trying to build the the business to be big enough to support. Everything we want to do so.
+01:32:47 Kenzo Stevens: That's cool.
+01:32:49 Joel Limberant: Yeah. Um, but I wanted to give you that warning if you're ever trying to text me. I might be like driving, or I might not get reception because we're in the middle of trying to set up a cell booster and satellite internet and get all the power infrastructure for that, because it's just a vacant piece of property in the forest right now.
+01:33:07 Kenzo Stevens: I see, you're getting starling.
+01:33:10 Joel Limberant: Yeah, so we gotta get that. But then, like, you got, there's more work to put that in than you would think because you have. You're in the forest, right? You have all these trees, and we own a property on the side of a mountain. So, you got to start clearing these trees, so starling can actually see the sky. It's not like you just plug it in, but um.
+01:33:27 Kenzo Stevens: Yeah, they've got all the information I need pretty much.
+01:33:31 Joel Limberant: That's kind of. I think everything are you feeling pretty confident? With, uh? All right, perfect.
+01:33:38 Kenzo Stevens: I mean, I do have more questions. I could just ask you on slack, but I, I have no other questions.
+01:33:44 Joel Limberant: Well, and then also like, what do you think about the the business model itself, um? Is it something that you you feel like is a good idea that you can get behind or you like this might need support because I'm I'm open to tweaking it as well. If
+01:33:53 Kenzo Stevens: Yeah, yeah, I mean.
+01:33:56 Joel Limberant: we're having clients who are like, I'd rather just pay you 400 bucks, bro. Like, I don't want to pay you every month.
+01:34:02 Kenzo Stevens: Yeah, I think that's that's cool with me. Um, as long as, um. I get. I get paid, um.
+01:34:08 Joel Limberant: Yeah, exactly. I mean you, you just want to get the salary, and I get that.
+01:34:13 Kenzo Stevens: Yeah, it's pretty much it. I mean, I'm like, I'm very much straight out, but
+01:34:13 Joel Limberant: Um.
+01:34:17 Kenzo Stevens: like, I'm here for the money. That's it.
+01:34:19 Joel Limberant: Yeah, yeah, exactly. And I appreciate that honesty, like, that's what a job is, you're not. You're not invested in the the business the same way I am having been trying to grow it. But, uh. I guess what I'm trying to say, though, is like, I don't want to make you try to sell something that you don't think is going to work.
+01:34:33 Kenzo Stevens: Yeah, I think I think this is, uh, this is gonna work because it's, it's a low
+01:34:33 Joel Limberant: So?
+01:34:39 Kenzo Stevens: ticket offer. So easy to sell.
+01:34:41 Joel Limberant: That's what I was thinking that people are just gonna be like. 48, you know, that's not too crazy.
+01:34:48 Kenzo Stevens: Yeah, exactly.
+01:34:49 Joel Limberant: But, you know, comes with the downside of having to stack a lot of clients. So? But um? I think that's everything for now. Um, let me know how the scraping goes. Send me a quick text at the end of the the work day.
+01:35:04 Kenzo Stevens: Yep, sure. Sure, I will.
+01:35:07 Joel Limberant: And then I'll get started on getting that thing set up, and I think that's everything.
+01:35:12 Kenzo Stevens: Awesome! Yeah, cool. I'll get working.
+01:35:14 Joel Limberant: All right. Thanks, Kenzo. I'll talk to you tomorrow.
+01:35:18 Kenzo Stevens: Thank you talk to you soon!
+01:35:19 Joel Limberant: All right, bye.
+  
