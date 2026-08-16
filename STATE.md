@@ -40,8 +40,12 @@ TRACKER.csv.
 - Joel share window: declined; nothing is shared or uploaded.
 - Washington: engine-ready, not scraped, awaits the owner's explicit
   order.
-- Off-machine backup: owner handles GitHub sign-in himself; local git
-  repos exist for the OS and both engines. No remotes yet.
+- Off-machine backup: LIVE as of 2026-08-17. Private GitHub remotes
+  under kenzostevens: JUMP-OS, JUMP-OS-ENGINE-V1, JUMP-OS-ENGINE-V2.
+  Backing up = `git push` in each repo after committing. Note: the
+  engine repos' gitignores exclude the scraper toolchain and raw
+  campaign data — full recovery of those needs a whole-folder copy
+  (see 03-LEAD-SOURCING-ENGINE/SETUP.md).
 
 ## Next
 
