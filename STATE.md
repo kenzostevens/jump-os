@@ -52,6 +52,4 @@ TRACKER.csv.
 1. Calling starts from any niche's `BATCHES` files (batch-01 of a
    county is its best leads). Report outcomes to an operator session to
    keep tracker + registry true.
-2. Owner: GitHub remotes when convenient (`SETUP.md` covers machine
-   portability).
-3. Future niches ship from the preserved pile on the owner's word.
+2. Future niches ship from the preserved pile on the owner's word.
