@@ -1,46 +1,53 @@
 # STATE — Jump OS
 
-Updated: 2026-08-16 (night — OS founded; LEADS and SHIPPING live)
+Updated: 2026-08-17 (early morning — niche expansion shipped; full OS
+audit passed)
 
-## Current campaign
+## Current campaigns
 
-**Car detailers, California + Oregon** (San Joaquin and Amador counties
-reserved, untouched by design). Scraping COMPLETE for both states.
-Calling begins Monday 2026-08-17 via Teleblast; Joel expects 40 dials/day,
-Kenzo plans ~60.
+Scraping is COMPLETE for California + Oregon (San Joaquin and Amador
+counties reserved, untouched by design). Calling begins Monday
+2026-08-17 via Teleblast; the owner plans ~60 dials/day against a
+40/day expectation.
 
-## Counts
+## Counts (see `02-LEADS/REPORT.md` for the full breakdown)
 
-- 6,751 shipped callable leads: 4,980 Class A + 1,771 Class B, in 187
-  batches, all `untouched` in `02-LEADS/CAR-DETAILERS/TRACKER.csv` (the
-  logbook; `02-LEADS/REPORT.md` is its generated view — rerun
-  `SHIPPING/tools/report.py` after any tracker change).
-- 02-LEADS/CAR-DETAILERS: CA 51 + OR 28 county folders (Class A),
-  CA 48 + OR 27 (Class B); every county has 00-MASTER + BATCHES (≤100).
-- Canonical registry: 8,752 rows (6,751 exported + 2,001 discovered,
-  suppressed-if-ever-reshipped). `verify_leads.py`: PASS.
-- Inventory awaiting decisions: 322 REVIEW businesses (unreachable/
-  bot-walled sites), ~9,800 wrong-niche rows (car washes, tint) preserved
-  in ENGINE-V2 if Joel ever widens the niche.
+| Niche | Class A | Class B | Callable | Batches |
+|---|---:|---:|---:|---:|
+| CAR-DETAILERS | 4,980 | 1,771 | 6,751 | 187 |
+| CAR-WASHES | 870 | 369 | 1,239 | 125 |
+| WINDOW-TINT | 173 | 143 | 316 | 86 |
+| CAR-DETAILERS unverified pile | — | — | 296 | 3 |
 
-## Migration status
+New-niche counts are after registry suppression of phones already
+shipped under another niche. Totals: **8,602 registry-protected
+callable leads.** All batches `untouched`; every niche has its own
+TRACKER.csv.
 
-FOUNDING COMPLETE 2026-08-17. Both engine repos live at
-`03-LEAD-SOURCING-ENGINE/` (V1 53/53 and V2 88/88 tests green at their
-new homes; clean trees). The retired pre-OS workspaces are archived
-whole in `99-ARCHIVE/` with FROZEN markers. The AIOS root router
-resolves "Jump OS" here. Remaining hardening: git remotes for backup
-(JUMP-OS itself is not yet a git repo; the SHIPPING registry and
-trackers are currently version-controlled nowhere), and the disposition
-tool for Monday evenings.
+- Canonical registry: 10,307 rows; 8,602 exported, remainder
+  discovered-and-suppressed. `verify_leads.py`: PASS, all niches.
+- The unverified pile (`CAR-DETAILERS/REVIEW-UNVERIFIED/`) is honestly
+  labeled: websites unreachable by machine, ask about the site on the
+  call. Never mixed with Class A/B.
+- Still preserved unbuilt in ENGINE-V2: wrap shops, auto glass, auto
+  repair/body, and other excluded categories (~5,600 rows) — future
+  niches on the owner's word.
+
+## Standing decisions
+
+- Disposition tool: declined; call outcomes are recorded by an operator
+  session by hand when reported.
+- Joel share window: declined; nothing is shared or uploaded.
+- Washington: engine-ready, not scraped, awaits the owner's explicit
+  order.
+- Off-machine backup: owner handles GitHub sign-in himself; local git
+  repos exist for the OS and both engines. No remotes yet.
 
 ## Next
 
-1. Kenzo starts calling Monday from 02-LEADS/CAR-DETAILERS batches
-   (grab a batch, dial top-down; batch-01 of any county is its best).
-2. Evening disposition rhythm: Kenzo reports called/booked/DNC; the
-   operator records them in the registry and tracker.
-3. Finish the founding: move engines + reference in, update the AIOS
-   root router, add git remotes for backup.
-4. Washington: engine-ready, ships only on Kenzo's explicit order after
-   Joel triggers it.
+1. Calling starts from any niche's `BATCHES` files (batch-01 of a
+   county is its best leads). Report outcomes to an operator session to
+   keep tracker + registry true.
+2. Owner: GitHub remotes when convenient (`SETUP.md` covers machine
+   portability).
+3. Future niches ship from the preserved pile on the owner's word.

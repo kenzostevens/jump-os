@@ -36,6 +36,15 @@ def main() -> int:
     registry = list(csv.DictReader(REGISTRY.open(encoding="utf-8")))
     summary = {}
 
+    # every niche with exported registry rows must have a LEADS tree at all
+    tree_niches = {p.name for p in LEADS.iterdir() if p.is_dir()}
+    for niche in sorted({
+        re.sub(r"[^A-Za-z0-9]+", "-", r["niche"]).upper()
+        for r in registry if r["status"].startswith("exported")
+    }):
+        if niche not in tree_niches:
+            failures.append(f"registry has exported rows for {niche} but LEADS has no such tree")
+
     for niche_dir in sorted(p for p in LEADS.iterdir() if p.is_dir()):
         niche_phones: Counter = Counter()
         tree_count = 0

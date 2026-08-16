@@ -1,6 +1,6 @@
 # LEADS Report
 
-Generated 2026-08-17 01:06 by report.py — do not hand-edit.
+Generated 2026-08-17 01:14 by report.py — do not hand-edit.
 
 ## Car Detailers
 
@@ -385,6 +385,507 @@ Generated 2026-08-17 01:06 by report.py — do not hand-edit.
 | union-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
 | wasco-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
 
+## Car Washes
+
+**1239 leads in 125 batches.**
+
+| Status | Batches | Leads |
+|---|---:|---:|
+| untouched | 125 | 1239 |
+
+### CLASS-A / CA — 797 leads, 45 counties, 46 batches
+
+| # | County | Leads | Batches | Progress |
+|---|---|---:|---:|---|
+| 01 | LOS-ANGELES | 194 | 2 | untouched |
+| 02 | ORANGE | 78 | 1 | untouched |
+| 03 | SAN-BERNARDINO | 76 | 1 | untouched |
+| 04 | RIVERSIDE | 70 | 1 | untouched |
+| 05 | ALAMEDA | 35 | 1 | untouched |
+| 06 | CONTRA-COSTA | 33 | 1 | untouched |
+| 07 | SAN-DIEGO | 33 | 1 | untouched |
+| 08 | SANTA-CLARA | 26 | 1 | untouched |
+| 09 | KERN | 24 | 1 | untouched |
+| 10 | SACRAMENTO | 23 | 1 | untouched |
+| 11 | FRESNO | 22 | 1 | untouched |
+| 12 | SANTA-BARBARA | 21 | 1 | untouched |
+| 13 | VENTURA | 19 | 1 | untouched |
+| 14 | SOLANO | 16 | 1 | untouched |
+| 15 | TULARE | 12 | 1 | untouched |
+| 16 | MONTEREY | 9 | 1 | untouched |
+| 17 | SONOMA | 9 | 1 | untouched |
+| 18 | STANISLAUS | 8 | 1 | untouched |
+| 19 | SAN-MATEO | 7 | 1 | untouched |
+| 20 | IMPERIAL | 6 | 1 | untouched |
+| 21 | KINGS | 6 | 1 | untouched |
+| 22 | MERCED | 6 | 1 | untouched |
+| 23 | SAN-FRANCISCO | 6 | 1 | untouched |
+| 24 | EL-DORADO | 5 | 1 | untouched |
+| 25 | MARIN | 5 | 1 | untouched |
+| 26 | NAPA | 5 | 1 | untouched |
+| 27 | SAN-LUIS-OBISPO | 5 | 1 | untouched |
+| 28 | HUMBOLDT | 4 | 1 | untouched |
+| 29 | MADERA | 4 | 1 | untouched |
+| 30 | PLACER | 4 | 1 | untouched |
+| 31 | SAN-BENITO | 4 | 1 | untouched |
+| 32 | SANTA-CRUZ | 4 | 1 | untouched |
+| 33 | LAKE | 3 | 1 | untouched |
+| 34 | BUTTE | 2 | 1 | untouched |
+| 35 | SHASTA | 2 | 1 | untouched |
+| 36 | SUTTER | 2 | 1 | untouched |
+| 37 | CALAVERAS | 1 | 1 | untouched |
+| 38 | GLENN | 1 | 1 | untouched |
+| 39 | INYO | 1 | 1 | untouched |
+| 40 | LASSEN | 1 | 1 | untouched |
+| 41 | MENDOCINO | 1 | 1 | untouched |
+| 42 | MONO | 1 | 1 | untouched |
+| 43 | TEHAMA | 1 | 1 | untouched |
+| 44 | YOLO | 1 | 1 | untouched |
+| 45 | YUBA | 1 | 1 | untouched |
+
+| Batch file | Leads | Status | Loaded | Called | Booked | Notes |
+|---|---:|---|---|---|---:|---|
+| los-angeles-ca-class-a-batch-01.csv | 97 | untouched |  |  |  |  |
+| los-angeles-ca-class-a-batch-02.csv | 97 | untouched |  |  |  |  |
+| orange-ca-class-a-batch-01.csv | 78 | untouched |  |  |  |  |
+| san-bernardino-ca-class-a-batch-01.csv | 76 | untouched |  |  |  |  |
+| riverside-ca-class-a-batch-01.csv | 70 | untouched |  |  |  |  |
+| alameda-ca-class-a-batch-01.csv | 35 | untouched |  |  |  |  |
+| contra-costa-ca-class-a-batch-01.csv | 33 | untouched |  |  |  |  |
+| san-diego-ca-class-a-batch-01.csv | 33 | untouched |  |  |  |  |
+| santa-clara-ca-class-a-batch-01.csv | 26 | untouched |  |  |  |  |
+| kern-ca-class-a-batch-01.csv | 24 | untouched |  |  |  |  |
+| sacramento-ca-class-a-batch-01.csv | 23 | untouched |  |  |  |  |
+| fresno-ca-class-a-batch-01.csv | 22 | untouched |  |  |  |  |
+| santa-barbara-ca-class-a-batch-01.csv | 21 | untouched |  |  |  |  |
+| ventura-ca-class-a-batch-01.csv | 19 | untouched |  |  |  |  |
+| solano-ca-class-a-batch-01.csv | 16 | untouched |  |  |  |  |
+| tulare-ca-class-a-batch-01.csv | 12 | untouched |  |  |  |  |
+| monterey-ca-class-a-batch-01.csv | 9 | untouched |  |  |  |  |
+| sonoma-ca-class-a-batch-01.csv | 9 | untouched |  |  |  |  |
+| stanislaus-ca-class-a-batch-01.csv | 8 | untouched |  |  |  |  |
+| san-mateo-ca-class-a-batch-01.csv | 7 | untouched |  |  |  |  |
+| imperial-ca-class-a-batch-01.csv | 6 | untouched |  |  |  |  |
+| kings-ca-class-a-batch-01.csv | 6 | untouched |  |  |  |  |
+| merced-ca-class-a-batch-01.csv | 6 | untouched |  |  |  |  |
+| san-francisco-ca-class-a-batch-01.csv | 6 | untouched |  |  |  |  |
+| el-dorado-ca-class-a-batch-01.csv | 5 | untouched |  |  |  |  |
+| marin-ca-class-a-batch-01.csv | 5 | untouched |  |  |  |  |
+| napa-ca-class-a-batch-01.csv | 5 | untouched |  |  |  |  |
+| san-luis-obispo-ca-class-a-batch-01.csv | 5 | untouched |  |  |  |  |
+| humboldt-ca-class-a-batch-01.csv | 4 | untouched |  |  |  |  |
+| madera-ca-class-a-batch-01.csv | 4 | untouched |  |  |  |  |
+| placer-ca-class-a-batch-01.csv | 4 | untouched |  |  |  |  |
+| san-benito-ca-class-a-batch-01.csv | 4 | untouched |  |  |  |  |
+| santa-cruz-ca-class-a-batch-01.csv | 4 | untouched |  |  |  |  |
+| lake-ca-class-a-batch-01.csv | 3 | untouched |  |  |  |  |
+| butte-ca-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| shasta-ca-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| sutter-ca-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| calaveras-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| glenn-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| inyo-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| lassen-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| mendocino-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| mono-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| tehama-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| yolo-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| yuba-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+
+### CLASS-A / OR — 73 leads, 22 counties, 22 batches
+
+| # | County | Leads | Batches | Progress |
+|---|---|---:|---:|---|
+| 01 | CLACKAMAS | 12 | 1 | untouched |
+| 02 | MULTNOMAH | 9 | 1 | untouched |
+| 03 | WASHINGTON | 8 | 1 | untouched |
+| 04 | DESCHUTES | 6 | 1 | untouched |
+| 05 | LANE | 6 | 1 | untouched |
+| 06 | JACKSON | 5 | 1 | untouched |
+| 07 | MARION | 4 | 1 | untouched |
+| 08 | YAMHILL | 4 | 1 | untouched |
+| 09 | UMATILLA | 3 | 1 | untouched |
+| 10 | COOS | 2 | 1 | untouched |
+| 11 | MALHEUR | 2 | 1 | untouched |
+| 12 | TILLAMOOK | 2 | 1 | untouched |
+| 13 | BAKER | 1 | 1 | untouched |
+| 14 | CLATSOP | 1 | 1 | untouched |
+| 15 | COLUMBIA | 1 | 1 | untouched |
+| 16 | CROOK | 1 | 1 | untouched |
+| 17 | JOSEPHINE | 1 | 1 | untouched |
+| 18 | KLAMATH | 1 | 1 | untouched |
+| 19 | LINCOLN | 1 | 1 | untouched |
+| 20 | LINN | 1 | 1 | untouched |
+| 21 | UNION | 1 | 1 | untouched |
+| 22 | WASCO | 1 | 1 | untouched |
+
+| Batch file | Leads | Status | Loaded | Called | Booked | Notes |
+|---|---:|---|---|---|---:|---|
+| clackamas-or-class-a-batch-01.csv | 12 | untouched |  |  |  |  |
+| multnomah-or-class-a-batch-01.csv | 9 | untouched |  |  |  |  |
+| washington-or-class-a-batch-01.csv | 8 | untouched |  |  |  |  |
+| deschutes-or-class-a-batch-01.csv | 6 | untouched |  |  |  |  |
+| lane-or-class-a-batch-01.csv | 6 | untouched |  |  |  |  |
+| jackson-or-class-a-batch-01.csv | 5 | untouched |  |  |  |  |
+| marion-or-class-a-batch-01.csv | 4 | untouched |  |  |  |  |
+| yamhill-or-class-a-batch-01.csv | 4 | untouched |  |  |  |  |
+| umatilla-or-class-a-batch-01.csv | 3 | untouched |  |  |  |  |
+| coos-or-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| malheur-or-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| tillamook-or-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| baker-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| clatsop-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| columbia-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| crook-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| josephine-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| klamath-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| lincoln-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| linn-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| union-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| wasco-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+
+### CLASS-B / CA — 312 leads, 37 counties, 37 batches
+
+| # | County | Leads | Batches | Progress |
+|---|---|---:|---:|---|
+| 01 | LOS-ANGELES | 67 | 1 | untouched |
+| 02 | ORANGE | 34 | 1 | untouched |
+| 03 | SAN-BERNARDINO | 25 | 1 | untouched |
+| 04 | SAN-DIEGO | 24 | 1 | untouched |
+| 05 | ALAMEDA | 18 | 1 | untouched |
+| 06 | RIVERSIDE | 16 | 1 | untouched |
+| 07 | SACRAMENTO | 14 | 1 | untouched |
+| 08 | CONTRA-COSTA | 12 | 1 | untouched |
+| 09 | SANTA-CLARA | 11 | 1 | untouched |
+| 10 | SOLANO | 10 | 1 | untouched |
+| 11 | SANTA-BARBARA | 9 | 1 | untouched |
+| 12 | VENTURA | 9 | 1 | untouched |
+| 13 | KERN | 7 | 1 | untouched |
+| 14 | SAN-MATEO | 6 | 1 | untouched |
+| 15 | TULARE | 6 | 1 | untouched |
+| 16 | MONTEREY | 5 | 1 | untouched |
+| 17 | SAN-LUIS-OBISPO | 5 | 1 | untouched |
+| 18 | SONOMA | 4 | 1 | untouched |
+| 19 | FRESNO | 3 | 1 | untouched |
+| 20 | IMPERIAL | 3 | 1 | untouched |
+| 21 | PLACER | 3 | 1 | untouched |
+| 22 | STANISLAUS | 3 | 1 | untouched |
+| 23 | EL-DORADO | 2 | 1 | untouched |
+| 24 | MARIN | 2 | 1 | untouched |
+| 25 | SAN-FRANCISCO | 2 | 1 | untouched |
+| 26 | BUTTE | 1 | 1 | untouched |
+| 27 | CALAVERAS | 1 | 1 | untouched |
+| 28 | INYO | 1 | 1 | untouched |
+| 29 | MADERA | 1 | 1 | untouched |
+| 30 | MERCED | 1 | 1 | untouched |
+| 31 | NAPA | 1 | 1 | untouched |
+| 32 | SAN-BENITO | 1 | 1 | untouched |
+| 33 | SANTA-CRUZ | 1 | 1 | untouched |
+| 34 | SHASTA | 1 | 1 | untouched |
+| 35 | SUTTER | 1 | 1 | untouched |
+| 36 | TEHAMA | 1 | 1 | untouched |
+| 37 | YOLO | 1 | 1 | untouched |
+
+| Batch file | Leads | Status | Loaded | Called | Booked | Notes |
+|---|---:|---|---|---|---:|---|
+| los-angeles-ca-class-b-batch-01.csv | 67 | untouched |  |  |  |  |
+| orange-ca-class-b-batch-01.csv | 34 | untouched |  |  |  |  |
+| san-bernardino-ca-class-b-batch-01.csv | 25 | untouched |  |  |  |  |
+| san-diego-ca-class-b-batch-01.csv | 24 | untouched |  |  |  |  |
+| alameda-ca-class-b-batch-01.csv | 18 | untouched |  |  |  |  |
+| riverside-ca-class-b-batch-01.csv | 16 | untouched |  |  |  |  |
+| sacramento-ca-class-b-batch-01.csv | 14 | untouched |  |  |  |  |
+| contra-costa-ca-class-b-batch-01.csv | 12 | untouched |  |  |  |  |
+| santa-clara-ca-class-b-batch-01.csv | 11 | untouched |  |  |  |  |
+| solano-ca-class-b-batch-01.csv | 10 | untouched |  |  |  |  |
+| santa-barbara-ca-class-b-batch-01.csv | 9 | untouched |  |  |  |  |
+| ventura-ca-class-b-batch-01.csv | 9 | untouched |  |  |  |  |
+| kern-ca-class-b-batch-01.csv | 7 | untouched |  |  |  |  |
+| san-mateo-ca-class-b-batch-01.csv | 6 | untouched |  |  |  |  |
+| tulare-ca-class-b-batch-01.csv | 6 | untouched |  |  |  |  |
+| monterey-ca-class-b-batch-01.csv | 5 | untouched |  |  |  |  |
+| san-luis-obispo-ca-class-b-batch-01.csv | 5 | untouched |  |  |  |  |
+| sonoma-ca-class-b-batch-01.csv | 4 | untouched |  |  |  |  |
+| fresno-ca-class-b-batch-01.csv | 3 | untouched |  |  |  |  |
+| imperial-ca-class-b-batch-01.csv | 3 | untouched |  |  |  |  |
+| placer-ca-class-b-batch-01.csv | 3 | untouched |  |  |  |  |
+| stanislaus-ca-class-b-batch-01.csv | 3 | untouched |  |  |  |  |
+| el-dorado-ca-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| marin-ca-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| san-francisco-ca-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| butte-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| calaveras-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| inyo-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| madera-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| merced-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| napa-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| san-benito-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| santa-cruz-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| shasta-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| sutter-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| tehama-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| yolo-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+
+### CLASS-B / OR — 57 leads, 20 counties, 20 batches
+
+| # | County | Leads | Batches | Progress |
+|---|---|---:|---:|---|
+| 01 | WASHINGTON | 11 | 1 | untouched |
+| 02 | MULTNOMAH | 8 | 1 | untouched |
+| 03 | DESCHUTES | 7 | 1 | untouched |
+| 04 | MARION | 7 | 1 | untouched |
+| 05 | LANE | 4 | 1 | untouched |
+| 06 | JOSEPHINE | 3 | 1 | untouched |
+| 07 | CLACKAMAS | 2 | 1 | untouched |
+| 08 | JACKSON | 2 | 1 | untouched |
+| 09 | LINN | 2 | 1 | untouched |
+| 10 | BENTON | 1 | 1 | untouched |
+| 11 | CLATSOP | 1 | 1 | untouched |
+| 12 | CROOK | 1 | 1 | untouched |
+| 13 | CURRY | 1 | 1 | untouched |
+| 14 | DOUGLAS | 1 | 1 | untouched |
+| 15 | HOOD-RIVER | 1 | 1 | untouched |
+| 16 | JEFFERSON | 1 | 1 | untouched |
+| 17 | KLAMATH | 1 | 1 | untouched |
+| 18 | LINCOLN | 1 | 1 | untouched |
+| 19 | UNION | 1 | 1 | untouched |
+| 20 | YAMHILL | 1 | 1 | untouched |
+
+| Batch file | Leads | Status | Loaded | Called | Booked | Notes |
+|---|---:|---|---|---|---:|---|
+| washington-or-class-b-batch-01.csv | 11 | untouched |  |  |  |  |
+| multnomah-or-class-b-batch-01.csv | 8 | untouched |  |  |  |  |
+| deschutes-or-class-b-batch-01.csv | 7 | untouched |  |  |  |  |
+| marion-or-class-b-batch-01.csv | 7 | untouched |  |  |  |  |
+| lane-or-class-b-batch-01.csv | 4 | untouched |  |  |  |  |
+| josephine-or-class-b-batch-01.csv | 3 | untouched |  |  |  |  |
+| clackamas-or-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| jackson-or-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| linn-or-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| benton-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| clatsop-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| crook-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| curry-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| douglas-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| hood-river-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| jefferson-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| klamath-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| lincoln-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| union-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| yamhill-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+
+## Window Tint
+
+**316 leads in 86 batches.**
+
+| Status | Batches | Leads |
+|---|---:|---:|
+| untouched | 86 | 316 |
+
+### CLASS-A / CA — 157 leads, 34 counties, 34 batches
+
+| # | County | Leads | Batches | Progress |
+|---|---|---:|---:|---|
+| 01 | LOS-ANGELES | 19 | 1 | untouched |
+| 02 | SAN-BERNARDINO | 19 | 1 | untouched |
+| 03 | RIVERSIDE | 12 | 1 | untouched |
+| 04 | SACRAMENTO | 10 | 1 | untouched |
+| 05 | CONTRA-COSTA | 8 | 1 | untouched |
+| 06 | SAN-DIEGO | 7 | 1 | untouched |
+| 07 | SANTA-BARBARA | 7 | 1 | untouched |
+| 08 | STANISLAUS | 7 | 1 | untouched |
+| 09 | ALAMEDA | 6 | 1 | untouched |
+| 10 | SOLANO | 6 | 1 | untouched |
+| 11 | TULARE | 6 | 1 | untouched |
+| 12 | SANTA-CLARA | 5 | 1 | untouched |
+| 13 | VENTURA | 5 | 1 | untouched |
+| 14 | KERN | 4 | 1 | untouched |
+| 15 | FRESNO | 3 | 1 | untouched |
+| 16 | MERCED | 3 | 1 | untouched |
+| 17 | ORANGE | 3 | 1 | untouched |
+| 18 | SAN-MATEO | 3 | 1 | untouched |
+| 19 | SONOMA | 3 | 1 | untouched |
+| 20 | BUTTE | 2 | 1 | untouched |
+| 21 | EL-DORADO | 2 | 1 | untouched |
+| 22 | HUMBOLDT | 2 | 1 | untouched |
+| 23 | MADERA | 2 | 1 | untouched |
+| 24 | MENDOCINO | 2 | 1 | untouched |
+| 25 | SAN-LUIS-OBISPO | 2 | 1 | untouched |
+| 26 | COLUSA | 1 | 1 | untouched |
+| 27 | IMPERIAL | 1 | 1 | untouched |
+| 28 | KINGS | 1 | 1 | untouched |
+| 29 | MARIN | 1 | 1 | untouched |
+| 30 | MONTEREY | 1 | 1 | untouched |
+| 31 | NEVADA | 1 | 1 | untouched |
+| 32 | SANTA-CRUZ | 1 | 1 | untouched |
+| 33 | SHASTA | 1 | 1 | untouched |
+| 34 | SUTTER | 1 | 1 | untouched |
+
+| Batch file | Leads | Status | Loaded | Called | Booked | Notes |
+|---|---:|---|---|---|---:|---|
+| los-angeles-ca-class-a-batch-01.csv | 19 | untouched |  |  |  |  |
+| san-bernardino-ca-class-a-batch-01.csv | 19 | untouched |  |  |  |  |
+| riverside-ca-class-a-batch-01.csv | 12 | untouched |  |  |  |  |
+| sacramento-ca-class-a-batch-01.csv | 10 | untouched |  |  |  |  |
+| contra-costa-ca-class-a-batch-01.csv | 8 | untouched |  |  |  |  |
+| san-diego-ca-class-a-batch-01.csv | 7 | untouched |  |  |  |  |
+| santa-barbara-ca-class-a-batch-01.csv | 7 | untouched |  |  |  |  |
+| stanislaus-ca-class-a-batch-01.csv | 7 | untouched |  |  |  |  |
+| alameda-ca-class-a-batch-01.csv | 6 | untouched |  |  |  |  |
+| solano-ca-class-a-batch-01.csv | 6 | untouched |  |  |  |  |
+| tulare-ca-class-a-batch-01.csv | 6 | untouched |  |  |  |  |
+| santa-clara-ca-class-a-batch-01.csv | 5 | untouched |  |  |  |  |
+| ventura-ca-class-a-batch-01.csv | 5 | untouched |  |  |  |  |
+| kern-ca-class-a-batch-01.csv | 4 | untouched |  |  |  |  |
+| fresno-ca-class-a-batch-01.csv | 3 | untouched |  |  |  |  |
+| merced-ca-class-a-batch-01.csv | 3 | untouched |  |  |  |  |
+| orange-ca-class-a-batch-01.csv | 3 | untouched |  |  |  |  |
+| san-mateo-ca-class-a-batch-01.csv | 3 | untouched |  |  |  |  |
+| sonoma-ca-class-a-batch-01.csv | 3 | untouched |  |  |  |  |
+| butte-ca-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| el-dorado-ca-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| humboldt-ca-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| madera-ca-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| mendocino-ca-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| san-luis-obispo-ca-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| colusa-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| imperial-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| kings-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| marin-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| monterey-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| nevada-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| santa-cruz-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| shasta-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| sutter-ca-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+
+### CLASS-A / OR — 16 leads, 10 counties, 10 batches
+
+| # | County | Leads | Batches | Progress |
+|---|---|---:|---:|---|
+| 01 | LANE | 4 | 1 | untouched |
+| 02 | CLACKAMAS | 2 | 1 | untouched |
+| 03 | MARION | 2 | 1 | untouched |
+| 04 | MULTNOMAH | 2 | 1 | untouched |
+| 05 | COOS | 1 | 1 | untouched |
+| 06 | DOUGLAS | 1 | 1 | untouched |
+| 07 | KLAMATH | 1 | 1 | untouched |
+| 08 | MALHEUR | 1 | 1 | untouched |
+| 09 | WASHINGTON | 1 | 1 | untouched |
+| 10 | YAMHILL | 1 | 1 | untouched |
+
+| Batch file | Leads | Status | Loaded | Called | Booked | Notes |
+|---|---:|---|---|---|---:|---|
+| lane-or-class-a-batch-01.csv | 4 | untouched |  |  |  |  |
+| clackamas-or-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| marion-or-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| multnomah-or-class-a-batch-01.csv | 2 | untouched |  |  |  |  |
+| coos-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| douglas-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| klamath-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| malheur-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| washington-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+| yamhill-or-class-a-batch-01.csv | 1 | untouched |  |  |  |  |
+
+### CLASS-B / CA — 127 leads, 30 counties, 30 batches
+
+| # | County | Leads | Batches | Progress |
+|---|---|---:|---:|---|
+| 01 | LOS-ANGELES | 20 | 1 | untouched |
+| 02 | SAN-BERNARDINO | 9 | 1 | untouched |
+| 03 | SACRAMENTO | 8 | 1 | untouched |
+| 04 | SANTA-CLARA | 8 | 1 | untouched |
+| 05 | ORANGE | 7 | 1 | untouched |
+| 06 | SAN-DIEGO | 7 | 1 | untouched |
+| 07 | STANISLAUS | 7 | 1 | untouched |
+| 08 | RIVERSIDE | 6 | 1 | untouched |
+| 09 | SONOMA | 6 | 1 | untouched |
+| 10 | TULARE | 5 | 1 | untouched |
+| 11 | VENTURA | 5 | 1 | untouched |
+| 12 | ALAMEDA | 4 | 1 | untouched |
+| 13 | MERCED | 4 | 1 | untouched |
+| 14 | PLACER | 4 | 1 | untouched |
+| 15 | SOLANO | 4 | 1 | untouched |
+| 16 | CONTRA-COSTA | 3 | 1 | untouched |
+| 17 | BUTTE | 2 | 1 | untouched |
+| 18 | EL-DORADO | 2 | 1 | untouched |
+| 19 | FRESNO | 2 | 1 | untouched |
+| 20 | KINGS | 2 | 1 | untouched |
+| 21 | NAPA | 2 | 1 | untouched |
+| 22 | YOLO | 2 | 1 | untouched |
+| 23 | MADERA | 1 | 1 | untouched |
+| 24 | MARIN | 1 | 1 | untouched |
+| 25 | MONTEREY | 1 | 1 | untouched |
+| 26 | SAN-BENITO | 1 | 1 | untouched |
+| 27 | SAN-MATEO | 1 | 1 | untouched |
+| 28 | SHASTA | 1 | 1 | untouched |
+| 29 | SUTTER | 1 | 1 | untouched |
+| 30 | TEHAMA | 1 | 1 | untouched |
+
+| Batch file | Leads | Status | Loaded | Called | Booked | Notes |
+|---|---:|---|---|---|---:|---|
+| los-angeles-ca-class-b-batch-01.csv | 20 | untouched |  |  |  |  |
+| san-bernardino-ca-class-b-batch-01.csv | 9 | untouched |  |  |  |  |
+| sacramento-ca-class-b-batch-01.csv | 8 | untouched |  |  |  |  |
+| santa-clara-ca-class-b-batch-01.csv | 8 | untouched |  |  |  |  |
+| orange-ca-class-b-batch-01.csv | 7 | untouched |  |  |  |  |
+| san-diego-ca-class-b-batch-01.csv | 7 | untouched |  |  |  |  |
+| stanislaus-ca-class-b-batch-01.csv | 7 | untouched |  |  |  |  |
+| riverside-ca-class-b-batch-01.csv | 6 | untouched |  |  |  |  |
+| sonoma-ca-class-b-batch-01.csv | 6 | untouched |  |  |  |  |
+| tulare-ca-class-b-batch-01.csv | 5 | untouched |  |  |  |  |
+| ventura-ca-class-b-batch-01.csv | 5 | untouched |  |  |  |  |
+| alameda-ca-class-b-batch-01.csv | 4 | untouched |  |  |  |  |
+| merced-ca-class-b-batch-01.csv | 4 | untouched |  |  |  |  |
+| placer-ca-class-b-batch-01.csv | 4 | untouched |  |  |  |  |
+| solano-ca-class-b-batch-01.csv | 4 | untouched |  |  |  |  |
+| contra-costa-ca-class-b-batch-01.csv | 3 | untouched |  |  |  |  |
+| butte-ca-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| el-dorado-ca-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| fresno-ca-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| kings-ca-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| napa-ca-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| yolo-ca-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| madera-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| marin-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| monterey-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| san-benito-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| san-mateo-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| shasta-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| sutter-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| tehama-ca-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+
+### CLASS-B / OR — 16 leads, 12 counties, 12 batches
+
+| # | County | Leads | Batches | Progress |
+|---|---|---:|---:|---|
+| 01 | WASHINGTON | 4 | 1 | untouched |
+| 02 | LANE | 2 | 1 | untouched |
+| 03 | BENTON | 1 | 1 | untouched |
+| 04 | CLACKAMAS | 1 | 1 | untouched |
+| 05 | CROOK | 1 | 1 | untouched |
+| 06 | DOUGLAS | 1 | 1 | untouched |
+| 07 | JACKSON | 1 | 1 | untouched |
+| 08 | JOSEPHINE | 1 | 1 | untouched |
+| 09 | KLAMATH | 1 | 1 | untouched |
+| 10 | LINCOLN | 1 | 1 | untouched |
+| 11 | MULTNOMAH | 1 | 1 | untouched |
+| 12 | WASCO | 1 | 1 | untouched |
+
+| Batch file | Leads | Status | Loaded | Called | Booked | Notes |
+|---|---:|---|---|---|---:|---|
+| washington-or-class-b-batch-01.csv | 4 | untouched |  |  |  |  |
+| lane-or-class-b-batch-01.csv | 2 | untouched |  |  |  |  |
+| benton-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| clackamas-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| crook-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| douglas-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| jackson-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| josephine-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| klamath-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| lincoln-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| multnomah-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+| wasco-or-class-b-batch-01.csv | 1 | untouched |  |  |  |  |
+
 ---
 
-Registry: 8752 rows, 7047 shipped. Suppression authority: `LEAD-SOURCING-ENGINE/SHIPPING/registry.csv`.
+Registry: 10307 rows, 8602 shipped. Suppression authority: `LEAD-SOURCING-ENGINE/SHIPPING/registry.csv`.

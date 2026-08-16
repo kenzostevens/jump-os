@@ -1,7 +1,8 @@
 # Lead Sourcing Engine
 
 The machinery of Jump OS. Two independent acquisition engines and one
-shipping dock. Read this before operating anything here.
+shipping dock. Read this before operating anything here. Setting up on
+a new machine: read `SETUP.md` first.
 
 ## Layout
 

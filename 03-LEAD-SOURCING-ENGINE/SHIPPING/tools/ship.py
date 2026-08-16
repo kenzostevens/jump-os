@@ -146,6 +146,7 @@ def guard_and_sync_tracker(niche_slug: str, states_touched: set[str], *, force: 
             "date_loaded": "", "date_called": "", "booked": "", "notes": "",
         })
     kept.sort(key=lambda r: (r["class"], r["state"], r["county"], r["batch_file"]))
+    niche_dir.mkdir(parents=True, exist_ok=True)
     with tracker_path.open("w", newline="", encoding="utf-8") as handle:
         writer = csv.DictWriter(handle, fieldnames=TRACKER_FIELDS)
         writer.writeheader(); writer.writerows(kept)
@@ -249,6 +250,15 @@ def main() -> int:
                           "skipped_unqualified": skipped_unqualified}))
         return 0
 
+    # Guard BEFORE any state is written: if the fold would reshuffle batches a
+    # human already loaded, fail here while registry and staging are untouched.
+    prior_states = {
+        r["state"] for r in registry
+        if r["niche"] == args.niche and r["status"].startswith("exported")
+    }
+    states_touched = {s["state"] for s in staging_rows} | prior_states
+    guard_and_sync_tracker(niche_slug, states_touched, force=args.force_refold)
+
     STAGING.mkdir(exist_ok=True)
     stage_path = STAGING / f"{niche_slug.lower()}-{args.lane}-{today}.csv"
     with stage_path.open("w", newline="", encoding="utf-8") as handle:
@@ -298,10 +308,8 @@ def main() -> int:
             "Notes": note, "Birthday": "",
             "Industry": args.niche.replace("-", " ").title(),
         }, r["county"]))
-    states_touched = {st for (_, st) in by_key}
-    guard_and_sync_tracker(niche_slug, states_touched, force=args.force_refold)  # guard BEFORE fold
-    fold_niche_tree(niche_slug, by_key)
-    guard_and_sync_tracker(niche_slug, states_touched, force=True)   # sync AFTER fold
+    fold_niche_tree(niche_slug, {k: v for k, v in by_key.items()})
+    guard_and_sync_tracker(niche_slug, {st for (_, st) in by_key}, force=True)  # sync AFTER fold
 
     print(json.dumps({
         "shipped": len(staging_rows),
